@@ -1,2 +1,0 @@
-- https://nodejs.org/api/vm.html
-- https://nodejs.org/api/vm.html#vmruninnewcontextcode-contextobject-options

@@ -1,5 +1,0 @@
-- Is Playwright performs better than [[Cypress]]?
-  - https://medium.com/geekculture/is-playwright-better-than-cypress-playwright-vs-cypress-151bd65a224f
-  - According to the result, there is some improvement, but not that much
-  - How about the memory footprints? #[[application footprint]]
--

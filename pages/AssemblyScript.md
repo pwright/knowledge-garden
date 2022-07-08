@@ -1,1 +1,0 @@
-- A TypeScript-like language that compiles to [[WASM]]

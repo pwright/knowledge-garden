@@ -1,5 +1,0 @@
-- A declarative Web server that can be used as
-  - reverse proxy
-  - load balancer
-  - web server
--

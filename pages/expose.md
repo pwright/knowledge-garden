@@ -1,0 +1,8 @@
+- tls
+- headless
+- k8s
+	- pods
+-
+- {{embed [[skupper_expose]]}}
+-
+- {{embed [[skupper expose]]}}

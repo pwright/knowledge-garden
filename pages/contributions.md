@@ -1,1 +1,0 @@
-- [[Logseq default theme enhancements]]

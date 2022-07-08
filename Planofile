@@ -1,0 +1,37 @@
+from plano import *
+import csv
+import os
+import re
+import sys
+import sys;print(sys.version)
+
+regexp_term = re.compile(r'^\s*\-\-(.*?) .*')
+nl='\n'
+
+
+@command
+def generate(app):
+    """
+    Generate terminology
+    """
+    logseqDir = get_current_dir()
+    dirName='skupper-generate'
+    page= logseqDir +'/pages/terms.md'
+    write(page, '# Terms' +nl)
+    with working_dir(dirName):
+        print(get_current_dir())
+        for path in find("./", "*.md"):
+            print(path)
+            adoc = md_parse(path, page)
+
+def md_parse(path, page):
+  append(page,nl+ '## ' +path +nl)
+  for line in read_lines(path):
+      line = line.rstrip()
+      if (regexp_term.search(line)):
+          term= regexp_term.match(line).group(1)
+          #print(regexp_term.match(line).group(1))
+          term = "* [["+term+"]]"
+          
+          append(page,term+nl + line +nl)
+      

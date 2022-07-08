@@ -1,2 +1,0 @@
-- Install https://starship.rs/guide/#%F0%9F%9A%80-installation
-- For ZSH: Config https://github.com/marlonrichert/zsh-autocomplete

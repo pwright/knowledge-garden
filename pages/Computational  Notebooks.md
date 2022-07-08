@@ -1,4 +1,0 @@
-- https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
-- https://github.com/nextjournal/clerk
-- https://nextjournal.com/
-- https://observablehq.com/

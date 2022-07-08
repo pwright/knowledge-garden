@@ -1,2 +1,0 @@
-- csv file on Windows minetype can be `application/vnd.ms-excel`
-  - ![image.png](../assets/image_1643167750458_0.png)

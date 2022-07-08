@@ -1,0 +1,4 @@
+# entityTypes.vhostUserGroupSettings.attributes.sourcePattern
+
+'A wildcarded pattern for matching source addresses from which users in this group may receive messages. The pattern consists of one or more tokens separated by a forward slash ''/''. A token can be one of the following: a * character, a # character, or a sequence of characters that do not include /, *, or #.  The * token matches any single token.  The # token matches zero or more tokens. * has higher precedence than #, and exact match has the highest precedence. To specify multiple addresses, separate the addresses with either a comma or a space. You can use the text string `${user}` in a token to specify an address that contains a user''s authenticated user name. If you do not specify any addresses, users in this group are not allowed to receive messages from any addresses. You may specify attributes ''sources'' or ''sourcePattern'' but not both at the same time.'
+

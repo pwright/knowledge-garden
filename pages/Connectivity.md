@@ -1,0 +1,3 @@
+- [Skupper - Skupper connectivity](https://skupper.io/docs/overview/connectivity.html)
+- Typically, a cluster can be represented by the following diagram, where service A can contact service B, and so on.
+	- [[draws/2021-12-10-10-03-28.excalidraw]]

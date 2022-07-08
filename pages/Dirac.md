@@ -1,2 +1,0 @@
-- https://github.com/binaryage/dirac
-- A Chrome DevTools fork for ClojureScript developers

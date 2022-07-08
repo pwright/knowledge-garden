@@ -1,0 +1,7 @@
+# Skupper notes
+
+To populate the `skupper-generate` directory:
+
+----
+cp -R ../skupper/doc/ skupper-generate
+----

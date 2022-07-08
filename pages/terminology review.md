@@ -1,0 +1,4 @@
+- [[expose]]The Skupper address to expose
+	- but typically the deployment as per
+		- ((627d3000-a699-4f37-8f61-adaebe4d155a))
+	-

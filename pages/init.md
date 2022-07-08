@@ -1,0 +1,6 @@
+- Create service network site in current namespace
+-
+- [[skupper init]]
+-
+- {{embed [[skupper_init]]}}
+-

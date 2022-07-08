@@ -1,1 +1,0 @@
-- https://github.com/pengx17/logseq-publish

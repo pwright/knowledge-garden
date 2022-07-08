@@ -1,3 +1,0 @@
-- Logseq is using `@tailwind/ui`, but it is no longer supported and blocks Tailwind 3.0 upgrades
-- https://tailwindui.com/changes-for-v2
--

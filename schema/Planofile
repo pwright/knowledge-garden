@@ -1,0 +1,30 @@
+from plano import *
+import csv
+import os
+import re
+import sys
+import sys;print(sys.version)
+
+regexp_term = re.compile(r'^\s*\-\-(.*?) .*')
+nl='\n'
+
+
+@command
+def generate(app):
+    """
+    Generate schema docs
+    """
+    for line in read_lines("./key-values.txt"):
+      line = line.rstrip()
+      
+      #descriptions
+      rmatch = re.match(r'(.*).description: (.*)', line)
+      if rmatch:
+          item=rmatch.group(1)
+          writeFile=rmatch.group(1)+'.md'
+          description=rmatch.group(2)
+          append(writeFile, '# '+ item + "\n\n")
+          append(writeFile, description + "\n\n")
+          append('schema.md', '- [['+ item + "]]\n\n")
+
+      
