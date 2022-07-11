@@ -1,1 +1,2 @@
+- [[schema]] for skupper router
 -
