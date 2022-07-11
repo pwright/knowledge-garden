@@ -1,1312 +1,3322 @@
-[{:block/name "\"sun, 2022",
-  :block/created-at 1656845810855,
-  :block/updated-at 1656845810855}
- {:block/name "\"sun, 2022/07",
-  :block/created-at 1656845814013,
-  :block/updated-at 1656845814013}
- {:block/name "\"sun, 2022/07\"",
-  :block/created-at 1656845810854,
-  :block/updated-at 1656845810854}
- {:block/name "\"sun, 2022/07/44\"",
-  :block/created-at 1656845814012,
-  :block/updated-at 1656845814012}
- {:block/name "\"wed, 2020",
-  :block/created-at 1656845754517,
-  :block/updated-at 1656845754517}
- {:block/name "\"wed, 2020/07",
-  :block/created-at 1656845754518,
-  :block/updated-at 1656845754518}
- {:block/name "**tests** without the toil",
-  :block/created-at 1656845812335,
-  :block/updated-at 1656845812335}
- {:block/name "04dfc0c4-1f89-4b9c-add8-6b82685bb795",
-  :block/created-at 1656845811691,
-  :block/updated-at 1656845811691}
- {:block/name "1626361164781 - e.g.",
-  :block/created-at 1656845812334,
-  :block/updated-at 1656845812334}
- {:block/name "1626361790582 - to deal with complex codes",
-  :block/created-at 1656845812336,
-  :block/updated-at 1656845812336}
- {:block/name "1626363446669 -",
-  :block/created-at 1656845812338,
-  :block/updated-at 1656845812338}
- {:block/name "1626363547096 -",
-  :block/created-at 1656845812344,
-  :block/updated-at 1656845812344}
- {:block/name "1626363555913 -",
-  :block/created-at 1656845812340,
-  :block/updated-at 1656845812340}
- {:block/name
-  "1626363590037 - it is trained on all public repos in github",
-  :block/created-at 1656845812338,
-  :block/updated-at 1656845812338}
- {:block/name "1627632313054 - build a",
-  :block/created-at 1651914855562,
-  :block/updated-at 1651914855562}
- {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
- {:block/name "6245d080-46c0-4b3b-a456-3fd789789a4b",
-  :block/created-at 1656845810441,
-  :block/updated-at 1656845810441}
- {:block/name "62763866-3fb3-480f-b5db-058defd3ffb7",
-  :block/created-at 1656845812963,
-  :block/updated-at 1656845812963}
- {:block/name "@rollup",
-  :block/created-at 1656845813897,
-  :block/updated-at 1656845813897}
- {:block/name "@rollup/plugin-node-resolve",
-  :block/created-at 1656845813896,
-  :block/updated-at 1656845813896}
- {:block/name "__esmodule",
-  :block/created-at 1656845813898,
-  :block/updated-at 1656845813898}
+[{:block/name "0001-architectural-decision-records",
+  :block/created-at 1652350492438,
+  :block/updated-at 1652350492438}
+ {:block/name "0002-avoid-router-restarts",
+  :block/created-at 1652350492475,
+  :block/updated-at 1652350492475}
+ {:block/name "2022-07-11",
+  :block/created-at 1657539407305,
+  :block/updated-at 1657539407305}
  {:block/name "a",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "about me",
-  :block/created-at 1656845811002,
-  :block/updated-at 1656845811002}
- {:block/name "acronym",
-  :block/created-at 1656845812226,
-  :block/updated-at 1656845812226}
- {:block/name "amazon codeguru",
-  :block/created-at 1656845811146,
-  :block/updated-at 1656845811146}
- {:block/name "application footprint",
-  :block/created-at 1656845813671,
-  :block/updated-at 1656845813671}
- {:block/name "apps build with tldraw",
-  :block/created-at 1656845809370,
-  :block/updated-at 1656845809370}
- {:block/name "assemblyscript",
-  :block/created-at 1656845811194,
-  :block/updated-at 1656845811194}
- {:block/name "autofill for **repetitive** code",
-  :block/created-at 1656845812334,
-  :block/updated-at 1656845812334}
+ {:block/name "address",
+  :block/created-at 1652356478488,
+  :block/updated-at 1652356478488}
+ {:block/name "aggregate",
+  :block/created-at 1652356478491,
+  :block/updated-at 1652356478491}
+ {:block/name "amqp",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "annotations",
+  :block/created-at 1652356478508,
+  :block/updated-at 1652356478508}
  {:block/name "b",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "babashka",
-  :block/created-at 1656845812422,
-  :block/updated-at 1656845812422}
- {:block/name "biz logic",
-  :block/created-at 1656845812337,
-  :block/updated-at 1656845812337}
- {:block/name "blob tricks",
-  :block/created-at 1656845810299,
-  :block/updated-at 1656845810299}
- {:block/name "blog posts",
-  :block/created-at 1656845811003,
-  :block/updated-at 1656845811003}
- {:block/name "blogpost",
-  :block/created-at 1656845812347,
-  :block/updated-at 1656845812347}
- {:block/name "bugs",
-  :block/created-at 1656042227493,
-  :block/updated-at 1656042227493}
- {:block/name "build logseq app locally",
-  :block/created-at 1656845809067,
-  :block/updated-at 1656845809067}
- {:block/name
-  "but it’s still possible to get the model to suggest this sort of content _if you try hard enough_.",
-  :block/created-at 1656845812343,
-  :block/updated-at 1656845812343}
- {:block/name
-  "but some open source licenses don’t allow derivative works",
-  :block/created-at 1656845812339,
-  :block/updated-at 1656845812339}
+ {:block/name "building",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
  {:block/name "c",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "calva",
-  :block/created-at 1656845811330,
-  :block/updated-at 1656845811330}
  {:block/name "canceled",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
  {:block/name "cancelled",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "canvas-based note taking apps",
-  :block/created-at 1656845809400,
-  :block/updated-at 1656845809400}
  {:block/name "card",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "clipboarditem",
-  :block/created-at 1656845811370,
-  :block/updated-at 1656845811370}
- {:block/name "clj-kondo",
-  :block/created-at 1656845809709,
-  :block/updated-at 1656845809709}
- {:block/name "clojure",
-  :block/created-at 1656845811330,
-  :block/updated-at 1656845811330}
- {:block/name "clojure for the brave and true",
-  :block/created-at 1656845809914,
-  :block/updated-at 1656845809914}
- {:block/name "clojure gotchas",
-  :block/created-at 1656845811397,
-  :block/updated-at 1656845811397}
- {:block/name "clojure macros",
-  :block/created-at 1656845811422,
-  :block/updated-at 1656845811422}
- {:block/name "clojure reader",
-  :block/created-at 1656845811447,
-  :block/updated-at 1656845811447}
- {:block/name "clojure web server",
-  :block/created-at 1656845809434,
-  :block/updated-at 1656845809434}
- {:block/name "clojurescript",
-  :block/created-at 1656845809437,
-  :block/updated-at 1656845809437}
- {:block/name "clojurescript ui frameworks",
-  :block/created-at 1656845810523,
-  :block/updated-at 1656845810523}
- {:block/name "code explore for tldraw",
-  :block/created-at 1656845809371,
-  :block/updated-at 1656845809371}
- {:block/name "code kitchen",
-  :block/created-at 1656845809665,
-  :block/updated-at 1656845809665}
- {:block/name "code kitchen growth",
-  :block/created-at 1656845811645,
-  :block/updated-at 1656845811645}
- {:block/name "code kitchen svelte",
-  :block/created-at 1656845810560,
-  :block/updated-at 1656845810560}
- {:block/name "codemirror",
-  :block/created-at 1656845810481,
-  :block/updated-at 1656845810481}
- {:block/name "codemirror 6",
-  :block/created-at 1656845809437,
-  :block/updated-at 1656845809437}
- {:block/name "codex",
-  :block/created-at 1656845811776,
-  :block/updated-at 1656845811776}
- {:block/name "component (web) styles",
-  :block/created-at 1656845812337,
-  :block/updated-at 1656845812337}
- {:block/name "components.ai",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
- {:block/name "components.ai/theme",
-  :block/created-at 1656042229601,
-  :block/updated-at 1656042229601}
- {:block/name "computational  notebooks",
-  :block/created-at 1656845810105,
-  :block/updated-at 1656845810105}
- {:block/name "conflicts with open source license",
-  :block/created-at 1656845812338,
-  :block/updated-at 1656845812338}
+ {:block/name "cli",
+  :block/created-at 1652350020433,
+  :block/updated-at 1652350020433}
+ {:block/name "config",
+  :block/created-at 1652356478513,
+  :block/updated-at 1652356478513}
+ {:block/name "connectivity",
+  :block/created-at 1643021412792,
+  :block/updated-at 1643021412792}
+ {:block/name "console-auth",
+  :block/created-at 1652356478511,
+  :block/updated-at 1652356478511}
+ {:block/name "console-ingress",
+  :block/created-at 1652356478509,
+  :block/updated-at 1652356478509}
+ {:block/name "console-password",
+  :block/created-at 1652356478510,
+  :block/updated-at 1652356478510}
+ {:block/name "console-user",
+  :block/created-at 1652356478510,
+  :block/updated-at 1652356478510}
  {:block/name "contents",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}
- {:block/name "contributions",
-  :block/created-at 1656845811120,
-  :block/updated-at 1656845811120}
- {:block/name "convert **comments** to code",
-  :block/created-at 1656845812334,
-  :block/updated-at 1656845812334}
- {:block/name "cool tech",
-  :block/created-at 1656845812346,
-  :block/updated-at 1656845812346}
- {:block/name "css",
-  :block/created-at 1656845814163,
-  :block/updated-at 1656845814163}
- {:block/name "css custom highlight api",
-  :block/created-at 1656845811306,
-  :block/updated-at 1656845811306}
- {:block/name "css modules",
-  :block/created-at 1656845810300,
-  :block/updated-at 1656845810300}
- {:block/name "css standards",
-  :block/created-at 1656845810065,
-  :block/updated-at 1656845810065}
- {:block/name "cypress",
-  :block/created-at 1656845812710,
-  :block/updated-at 1656845812710}
- {:block/name "cypress with electron",
-  :block/created-at 1656845812710,
-  :block/updated-at 1656845812710}
- {:block/name "dark lang",
-  :block/created-at 1656845811827,
-  :block/updated-at 1656845811827}
- {:block/name "datascript",
-  :block/created-at 1656845809945,
-  :block/updated-at 1656845809945}
- {:block/name "datascript js playground",
-  :block/created-at 1656845868779,
-  :block/updated-at 1656845868779}
- {:block/name "datascript queries",
-  :block/created-at 1656845811870,
-  :block/updated-at 1656845811870}
- {:block/name "datascript query",
-  :block/created-at 1651570138494,
-  :block/updated-at 1651570138494}
- {:block/name "datascript rules",
-  :block/created-at 1656845868783,
-  :block/updated-at 1656845868783}
- {:block/name "date-fns",
-  :block/created-at 1656845810364,
-  :block/updated-at 1656845810364}
- {:block/name "datomic",
-  :block/created-at 1656845810402,
-  :block/updated-at 1656845810402}
- {:block/name "datomic query",
-  :block/created-at 1656845809399,
-  :block/updated-at 1656845809399}
- {:block/name "design",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
- {:block/name "difference between reflect and object methods",
-  :block/created-at 1656845810154,
-  :block/updated-at 1656845810154}
- {:block/name "dirac",
-  :block/created-at 1656845811922,
-  :block/updated-at 1656845811922}
- {:block/name "discourse graph",
-  :block/created-at 1656845809603,
-  :block/updated-at 1656845809603}
+ {:block/name "contribution guide",
+  :block/created-at 1652350020455,
+  :block/updated-at 1652350020455}
+ {:block/name "controller-cpu",
+  :block/created-at 1652356478500,
+  :block/updated-at 1652356478500}
+ {:block/name "controller-cpu-limit",
+  :block/created-at 1652356478499,
+  :block/updated-at 1652356478499}
+ {:block/name "controller-ingress-host",
+  :block/created-at 1652356478495,
+  :block/updated-at 1652356478495}
+ {:block/name "controller-load-balancer-ip",
+  :block/created-at 1652356478494,
+  :block/updated-at 1652356478494}
+ {:block/name "controller-memory",
+  :block/created-at 1652356478500,
+  :block/updated-at 1652356478500}
+ {:block/name "controller-memory-limit",
+  :block/created-at 1652356478498,
+  :block/updated-at 1652356478498}
+ {:block/name "controller-node-selector",
+  :block/created-at 1652356478496,
+  :block/updated-at 1652356478496}
+ {:block/name "controller-pod-affinity",
+  :block/created-at 1652356478496,
+  :block/updated-at 1652356478496}
+ {:block/name "controller-pod-antiaffinity",
+  :block/created-at 1652356478495,
+  :block/updated-at 1652356478495}
+ {:block/name "controller-service-annotation",
+  :block/created-at 1652356478495,
+  :block/updated-at 1652356478495}
+ {:block/name "cost",
+  :block/created-at 1652356478492,
+  :block/updated-at 1652356478492}
+ {:block/name "create-network-policy",
+  :block/created-at 1652356478511,
+  :block/updated-at 1652356478511}
+ {:block/name "dec 10th, 2021",
+  :block/created-at 1639094400000,
+  :block/updated-at 1639094400000}
+ {:block/name "dec 9th, 2021",
+  :block/created-at 1639052943155,
+  :block/updated-at 1639069906529}
+ {:block/name "delete-last",
+  :block/created-at 1652356478512,
+  :block/updated-at 1652356478512}
  {:block/name "doing",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
  {:block/name "done",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "draw tests",
-  :block/created-at 1656042227913,
-  :block/updated-at 1656042227913}
- {:block/name "ebpf",
-  :block/created-at 1656845810523,
-  :block/updated-at 1656845810523}
- {:block/name "elasticsearch",
-  :block/created-at 1656845812042,
-  :block/updated-at 1656845812042}
- {:block/name "elk",
-  :block/created-at 1656845809888,
-  :block/updated-at 1656845809888}
- {:block/name "es-module-shims",
-  :block/created-at 1656845810300,
-  :block/updated-at 1656845810300}
- {:block/name "esbuild",
-  :block/created-at 1645086746376,
-  :block/updated-at 1645086746376}
- {:block/name "esm",
-  :block/created-at 1656845810297,
-  :block/updated-at 1656845810297}
- {:block/name "esm/dynamic load",
-  :block/created-at 1656845813896,
-  :block/updated-at 1656845813896}
- {:block/name "excalidraw",
-  :block/created-at 1656845809600,
-  :block/updated-at 1656845809600}
- {:block/name "external libraries",
-  :block/created-at 1656845812337,
-  :block/updated-at 1656845812337}
+ {:block/name "draws/2021-12-10-10-03-28.excalidraw",
+  :block/created-at 1657539415252,
+  :block/updated-at 1657539415252}
+ {:block/name "enable-console",
+  :block/created-at 1652356478511,
+  :block/updated-at 1652356478511}
+ {:block/name "enable-router-console",
+  :block/created-at 1652356478507,
+  :block/updated-at 1652356478507}
+ {:block/name "enable-service-sync",
+  :block/created-at 1652356478507,
+  :block/updated-at 1652356478507}
+ {:block/name "enable-tls",
+  :block/created-at 1652356478491,
+  :block/updated-at 1652356478491}
+ {:block/name "entitytypes",
+  :block/created-at 1653902728273,
+  :block/updated-at 1653902728273}
+ {:block/name "entitytypes.allocator",
+  :block/created-at 1653903008571,
+  :block/updated-at 1653903008571}
+ {:block/name "entitytypes.configurationentity",
+  :block/created-at 1653903008407,
+  :block/updated-at 1653903008407}
+ {:block/name "entitytypes.connection",
+  :block/created-at 1653903008557,
+  :block/updated-at 1653903008557}
+ {:block/name "entitytypes.connection.attributes.adminstatus",
+  :block/created-at 1653903008557,
+  :block/updated-at 1653903008557}
+ {:block/name "entitytypes.connection.attributes.container",
+  :block/created-at 1653903008559,
+  :block/updated-at 1653903008559}
+ {:block/name "entitytypes.connection.attributes.dir",
+  :block/created-at 1653903008560,
+  :block/updated-at 1653903008560}
+ {:block/name "entitytypes.connection.attributes.enableprotocoltrace",
+  :block/created-at 1653903008562,
+  :block/updated-at 1653903008562}
+ {:block/name "entitytypes.connection.attributes.host",
+  :block/created-at 1653903008560,
+  :block/updated-at 1653903008560}
+ {:block/name "entitytypes.connection.attributes.isauthenticated",
+  :block/created-at 1653903008561,
+  :block/updated-at 1653903008561}
+ {:block/name "entitytypes.connection.attributes.isencrypted",
+  :block/created-at 1653903008562,
+  :block/updated-at 1653903008562}
+ {:block/name "entitytypes.connection.attributes.lastdlvseconds",
+  :block/created-at 1653903008566,
+  :block/updated-at 1653903008566}
+ {:block/name "entitytypes.connection.attributes.opened",
+  :block/created-at 1653903008560,
+  :block/updated-at 1653903008560}
+ {:block/name "entitytypes.connection.attributes.properties",
+  :block/created-at 1653903008565,
+  :block/updated-at 1653903008565}
+ {:block/name "entitytypes.connection.attributes.protocol",
+  :block/created-at 1653903008559,
+  :block/updated-at 1653903008559}
+ {:block/name "entitytypes.connection.attributes.sasl",
+  :block/created-at 1653903008562,
+  :block/updated-at 1653903008562}
+ {:block/name "entitytypes.connection.attributes.ssl",
+  :block/created-at 1653903008563,
+  :block/updated-at 1653903008563}
+ {:block/name "entitytypes.connection.attributes.sslcipher",
+  :block/created-at 1653903008564,
+  :block/updated-at 1653903008564}
+ {:block/name "entitytypes.connection.attributes.sslproto",
+  :block/created-at 1653903008564,
+  :block/updated-at 1653903008564}
+ {:block/name "entitytypes.connection.attributes.sslssf",
+  :block/created-at 1653903008564,
+  :block/updated-at 1653903008564}
+ {:block/name "entitytypes.connection.attributes.uptimeseconds",
+  :block/created-at 1653903008565,
+  :block/updated-at 1653903008565}
+ {:block/name "entitytypes.connection.attributes.user",
+  :block/created-at 1653903008563,
+  :block/updated-at 1653903008563}
+ {:block/name "entitytypes.connector",
+  :block/created-at 1653903008483,
+  :block/updated-at 1653903008483}
+ {:block/name "entitytypes.connector.attributes.allowredirect",
+  :block/created-at 1653903008487,
+  :block/updated-at 1653903008487}
+ {:block/name "entitytypes.connector.attributes.connectionmsg",
+  :block/created-at 1653903008497,
+  :block/updated-at 1653903008497}
+ {:block/name "entitytypes.connector.attributes.connectionstatus",
+  :block/created-at 1653903008496,
+  :block/updated-at 1653903008496}
+ {:block/name "entitytypes.connector.attributes.cost",
+  :block/created-at 1653903008485,
+  :block/updated-at 1653903008485}
+ {:block/name "entitytypes.connector.attributes.failoverurls",
+  :block/created-at 1653903008496,
+  :block/updated-at 1653903008496}
+ {:block/name "entitytypes.connector.attributes.host",
+  :block/created-at 1653903008484,
+  :block/updated-at 1653903008484}
+ {:block/name "entitytypes.connector.attributes.idletimeoutseconds",
+  :block/created-at 1653903008490,
+  :block/updated-at 1653903008490}
+ {:block/name "entitytypes.connector.attributes.linkcapacity",
+  :block/created-at 1653903008491,
+  :block/updated-at 1653903008491}
+ {:block/name "entitytypes.connector.attributes.maxframesize",
+  :block/created-at 1653903008488,
+  :block/updated-at 1653903008488}
+ {:block/name "entitytypes.connector.attributes.maxsessionframes",
+  :block/created-at 1653903008489,
+  :block/updated-at 1653903008489}
+ {:block/name "entitytypes.connector.attributes.maxsessions",
+  :block/created-at 1653903008488,
+  :block/updated-at 1653903008488}
+ {:block/name
+  "entitytypes.connector.attributes.messageloggingcomponents",
+  :block/created-at 1653903008495,
+  :block/updated-at 1653903008495}
+ {:block/name "entitytypes.connector.attributes.openproperties",
+  :block/created-at 1653903008498,
+  :block/updated-at 1653903008498}
+ {:block/name "entitytypes.connector.attributes.policyvhost",
+  :block/created-at 1653903008498,
+  :block/updated-at 1653903008498}
+ {:block/name "entitytypes.connector.attributes.port",
+  :block/created-at 1653903008484,
+  :block/updated-at 1653903008484}
+ {:block/name "entitytypes.connector.attributes.role",
+  :block/created-at 1653903008485,
+  :block/updated-at 1653903008485}
+ {:block/name "entitytypes.connector.attributes.saslmechanisms",
+  :block/created-at 1653903008486,
+  :block/updated-at 1653903008486}
+ {:block/name "entitytypes.connector.attributes.saslpassword",
+  :block/created-at 1653903008494,
+  :block/updated-at 1653903008494}
+ {:block/name "entitytypes.connector.attributes.saslusername",
+  :block/created-at 1653903008493,
+  :block/updated-at 1653903008493}
+ {:block/name "entitytypes.connector.attributes.socketaddressfamily",
+  :block/created-at 1653903008485,
+  :block/updated-at 1653903008485}
+ {:block/name "entitytypes.connector.attributes.sslprofile",
+  :block/created-at 1653903008486,
+  :block/updated-at 1653903008486}
+ {:block/name "entitytypes.connector.attributes.stripannotations",
+  :block/created-at 1653903008490,
+  :block/updated-at 1653903008490}
+ {:block/name "entitytypes.connector.attributes.verifyhostname",
+  :block/created-at 1653903008493,
+  :block/updated-at 1653903008493}
+ {:block/name "entitytypes.dummy",
+  :block/created-at 1653903008589,
+  :block/updated-at 1653903008589}
+ {:block/name "entitytypes.entity",
+  :block/created-at 1653903008374,
+  :block/updated-at 1653903008374}
+ {:block/name "entitytypes.entity.attributes.identity",
+  :block/created-at 1653903008375,
+  :block/updated-at 1653903008375}
+ {:block/name "entitytypes.entity.attributes.name",
+  :block/created-at 1653903008374,
+  :block/updated-at 1653903008374}
+ {:block/name "entitytypes.entity.attributes.type",
+  :block/created-at 1653903008375,
+  :block/updated-at 1653903008375}
+ {:block/name "entitytypes.entity.operationdefs.create",
+  :block/created-at 1653903008375,
+  :block/updated-at 1653903008375}
+ {:block/name "entitytypes.entity.operationdefs.create.request.body",
+  :block/created-at 1653903008377,
+  :block/updated-at 1653903008377}
+ {:block/name
+  "entitytypes.entity.operationdefs.create.request.properties.name",
+  :block/created-at 1653903008376,
+  :block/updated-at 1653903008376}
+ {:block/name
+  "entitytypes.entity.operationdefs.create.request.properties.type",
+  :block/created-at 1653903008376,
+  :block/updated-at 1653903008376}
+ {:block/name "entitytypes.entity.operationdefs.create.response.body",
+  :block/created-at 1653903008377,
+  :block/updated-at 1653903008377}
+ {:block/name "entitytypes.entity.operationdefs.delete",
+  :block/created-at 1653903008384,
+  :block/updated-at 1653903008384}
+ {:block/name
+  "entitytypes.entity.operationdefs.delete.request.properties.identity",
+  :block/created-at 1653903008385,
+  :block/updated-at 1653903008385}
+ {:block/name
+  "entitytypes.entity.operationdefs.delete.request.properties.name",
+  :block/created-at 1653903008384,
+  :block/updated-at 1653903008384}
+ {:block/name
+  "entitytypes.entity.operationdefs.delete.request.properties.type",
+  :block/created-at 1653903008385,
+  :block/updated-at 1653903008385}
+ {:block/name "entitytypes.entity.operationdefs.read",
+  :block/created-at 1653903008378,
+  :block/updated-at 1653903008378}
+ {:block/name
+  "entitytypes.entity.operationdefs.read.request.properties.identity",
+  :block/created-at 1653903008379,
+  :block/updated-at 1653903008379}
+ {:block/name
+  "entitytypes.entity.operationdefs.read.request.properties.name",
+  :block/created-at 1653903008378,
+  :block/updated-at 1653903008378}
+ {:block/name
+  "entitytypes.entity.operationdefs.read.request.properties.type",
+  :block/created-at 1653903008379,
+  :block/updated-at 1653903008379}
+ {:block/name "entitytypes.entity.operationdefs.read.response.body",
+  :block/created-at 1653903008380,
+  :block/updated-at 1653903008380}
+ {:block/name "entitytypes.entity.operationdefs.update",
+  :block/created-at 1653903008380,
+  :block/updated-at 1653903008380}
+ {:block/name "entitytypes.entity.operationdefs.update.request.body",
+  :block/created-at 1653903008382,
+  :block/updated-at 1653903008382}
+ {:block/name
+  "entitytypes.entity.operationdefs.update.request.properties.identity",
+  :block/created-at 1653903008381,
+  :block/updated-at 1653903008381}
+ {:block/name
+  "entitytypes.entity.operationdefs.update.request.properties.name",
+  :block/created-at 1653903008380,
+  :block/updated-at 1653903008380}
+ {:block/name
+  "entitytypes.entity.operationdefs.update.request.properties.type",
+  :block/created-at 1653903008381,
+  :block/updated-at 1653903008381}
+ {:block/name "entitytypes.entity.operationdefs.update.response.body",
+  :block/created-at 1653903008382,
+  :block/updated-at 1653903008382}
+ {:block/name "entitytypes.httpconnector",
+  :block/created-at 1653903008506,
+  :block/updated-at 1653903008506}
+ {:block/name "entitytypes.httpconnector.attributes.address",
+  :block/created-at 1653903008506,
+  :block/updated-at 1653903008506}
+ {:block/name "entitytypes.httpconnector.attributes.aggregation",
+  :block/created-at 1653903008509,
+  :block/updated-at 1653903008509}
+ {:block/name "entitytypes.httpconnector.attributes.eventchannel",
+  :block/created-at 1653903008509,
+  :block/updated-at 1653903008509}
+ {:block/name "entitytypes.httpconnector.attributes.host",
+  :block/created-at 1653903008507,
+  :block/updated-at 1653903008507}
+ {:block/name "entitytypes.httpconnector.attributes.hostoverride",
+  :block/created-at 1653903008510,
+  :block/updated-at 1653903008510}
+ {:block/name "entitytypes.httpconnector.attributes.port",
+  :block/created-at 1653903008508,
+  :block/updated-at 1653903008508}
+ {:block/name "entitytypes.httpconnector.attributes.protocolversion",
+  :block/created-at 1653903008509,
+  :block/updated-at 1653903008509}
+ {:block/name "entitytypes.httpconnector.attributes.siteid",
+  :block/created-at 1653903008507,
+  :block/updated-at 1653903008507}
+ {:block/name "entitytypes.httpconnector.attributes.sslprofile",
+  :block/created-at 1653903008508,
+  :block/updated-at 1653903008508}
+ {:block/name "entitytypes.httpconnector.attributes.verifyhostname",
+  :block/created-at 1653903008510,
+  :block/updated-at 1653903008510}
+ {:block/name "entitytypes.httplistener",
+  :block/created-at 1653903008499,
+  :block/updated-at 1653903008499}
+ {:block/name "entitytypes.httplistener.attributes.address",
+  :block/created-at 1653903008500,
+  :block/updated-at 1653903008500}
+ {:block/name "entitytypes.httplistener.attributes.aggregation",
+  :block/created-at 1653903008504,
+  :block/updated-at 1653903008504}
+ {:block/name "entitytypes.httplistener.attributes.authenticatepeer",
+  :block/created-at 1653903008503,
+  :block/updated-at 1653903008503}
+ {:block/name "entitytypes.httplistener.attributes.eventchannel",
+  :block/created-at 1653903008506,
+  :block/updated-at 1653903008506}
+ {:block/name "entitytypes.httplistener.attributes.host",
+  :block/created-at 1653903008500,
+  :block/updated-at 1653903008500}
+ {:block/name "entitytypes.httplistener.attributes.port",
+  :block/created-at 1653903008501,
+  :block/updated-at 1653903008501}
+ {:block/name "entitytypes.httplistener.attributes.protocolversion",
+  :block/created-at 1653903008503,
+  :block/updated-at 1653903008503}
+ {:block/name "entitytypes.httplistener.attributes.siteid",
+  :block/created-at 1653903008502,
+  :block/updated-at 1653903008502}
+ {:block/name "entitytypes.httplistener.attributes.sslprofile",
+  :block/created-at 1653903008502,
+  :block/updated-at 1653903008502}
+ {:block/name "entitytypes.httprequestinfo",
+  :block/created-at 1653903008511,
+  :block/updated-at 1653903008511}
+ {:block/name "entitytypes.httprequestinfo.attributes.address",
+  :block/created-at 1653903008511,
+  :block/updated-at 1653903008511}
+ {:block/name "entitytypes.httprequestinfo.attributes.bytesin",
+  :block/created-at 1653903008514,
+  :block/updated-at 1653903008514}
+ {:block/name "entitytypes.httprequestinfo.attributes.bytesout",
+  :block/created-at 1653903008514,
+  :block/updated-at 1653903008514}
+ {:block/name "entitytypes.httprequestinfo.attributes.details",
+  :block/created-at 1653903008515,
+  :block/updated-at 1653903008515}
+ {:block/name "entitytypes.httprequestinfo.attributes.direction",
+  :block/created-at 1653903008513,
+  :block/updated-at 1653903008513}
+ {:block/name "entitytypes.httprequestinfo.attributes.host",
+  :block/created-at 1653903008512,
+  :block/updated-at 1653903008512}
+ {:block/name "entitytypes.httprequestinfo.attributes.maxlatency",
+  :block/created-at 1653903008515,
+  :block/updated-at 1653903008515}
+ {:block/name "entitytypes.httprequestinfo.attributes.requests",
+  :block/created-at 1653903008513,
+  :block/updated-at 1653903008513}
+ {:block/name "entitytypes.httprequestinfo.attributes.site",
+  :block/created-at 1653903008512,
+  :block/updated-at 1653903008512}
+ {:block/name "entitytypes.listener",
+  :block/created-at 1653903008432,
+  :block/updated-at 1653903008432}
+ {:block/name "entitytypes.listener.attributes.authenticatepeer",
+  :block/created-at 1653903008445,
+  :block/updated-at 1653903008445}
+ {:block/name "entitytypes.listener.attributes.cost",
+  :block/created-at 1653903008440,
+  :block/updated-at 1653903008440}
+ {:block/name "entitytypes.listener.attributes.failoverurls",
+  :block/created-at 1653903008458,
+  :block/updated-at 1653903008458}
+ {:block/name "entitytypes.listener.attributes.healthz",
+  :block/created-at 1653903008459,
+  :block/updated-at 1653903008459}
+ {:block/name "entitytypes.listener.attributes.host",
+  :block/created-at 1653903008434,
+  :block/updated-at 1653903008434}
+ {:block/name "entitytypes.listener.attributes.http",
+  :block/created-at 1653903008462,
+  :block/updated-at 1653903008462}
+ {:block/name "entitytypes.listener.attributes.httprootdir",
+  :block/created-at 1653903008463,
+  :block/updated-at 1653903008463}
+ {:block/name "entitytypes.listener.attributes.idletimeoutseconds",
+  :block/created-at 1653903008453,
+  :block/updated-at 1653903008453}
+ {:block/name
+  "entitytypes.listener.attributes.initialhandshaketimeoutseconds",
+  :block/created-at 1653903008455,
+  :block/updated-at 1653903008455}
+ {:block/name "entitytypes.listener.attributes.linkcapacity",
+  :block/created-at 1653903008457,
+  :block/updated-at 1653903008457}
+ {:block/name "entitytypes.listener.attributes.maxframesize",
+  :block/created-at 1653903008449,
+  :block/updated-at 1653903008449}
+ {:block/name "entitytypes.listener.attributes.maxsessionframes",
+  :block/created-at 1653903008452,
+  :block/updated-at 1653903008452}
+ {:block/name "entitytypes.listener.attributes.maxsessions",
+  :block/created-at 1653903008450,
+  :block/updated-at 1653903008450}
+ {:block/name
+  "entitytypes.listener.attributes.messageloggingcomponents",
+  :block/created-at 1653903008482,
+  :block/updated-at 1653903008482}
+ {:block/name "entitytypes.listener.attributes.metrics",
+  :block/created-at 1653903008460,
+  :block/updated-at 1653903008460}
+ {:block/name "entitytypes.listener.attributes.openproperties",
+  :block/created-at 1653903008483,
+  :block/updated-at 1653903008483}
+ {:block/name "entitytypes.listener.attributes.policyvhost",
+  :block/created-at 1653903008483,
+  :block/updated-at 1653903008483}
+ {:block/name "entitytypes.listener.attributes.port",
+  :block/created-at 1653903008435,
+  :block/updated-at 1653903008435}
+ {:block/name "entitytypes.listener.attributes.requireencryption",
+  :block/created-at 1653903008446,
+  :block/updated-at 1653903008446}
+ {:block/name "entitytypes.listener.attributes.requiressl",
+  :block/created-at 1653903008448,
+  :block/updated-at 1653903008448}
+ {:block/name "entitytypes.listener.attributes.role",
+  :block/created-at 1653903008439,
+  :block/updated-at 1653903008439}
+ {:block/name "entitytypes.listener.attributes.saslmechanisms",
+  :block/created-at 1653903008443,
+  :block/updated-at 1653903008443}
+ {:block/name "entitytypes.listener.attributes.socketaddressfamily",
+  :block/created-at 1653903008437,
+  :block/updated-at 1653903008437}
+ {:block/name "entitytypes.listener.attributes.sslprofile",
+  :block/created-at 1653903008442,
+  :block/updated-at 1653903008442}
+ {:block/name "entitytypes.listener.attributes.stripannotations",
+  :block/created-at 1653903008456,
+  :block/updated-at 1653903008456}
+ {:block/name "entitytypes.listener.attributes.websockets",
+  :block/created-at 1653903008461,
+  :block/updated-at 1653903008461}
+ {:block/name "entitytypes.log",
+  :block/created-at 1653903008523,
+  :block/updated-at 1653903008523}
+ {:block/name "entitytypes.log.attributes.enable",
+  :block/created-at 1653903008524,
+  :block/updated-at 1653903008524}
+ {:block/name "entitytypes.log.attributes.includesource",
+  :block/created-at 1653903008525,
+  :block/updated-at 1653903008525}
+ {:block/name "entitytypes.log.attributes.includetimestamp",
+  :block/created-at 1653903008525,
+  :block/updated-at 1653903008525}
+ {:block/name "entitytypes.log.attributes.module",
+  :block/created-at 1653903008524,
+  :block/updated-at 1653903008524}
+ {:block/name "entitytypes.log.attributes.outputfile",
+  :block/created-at 1653903008525,
+  :block/updated-at 1653903008525}
+ {:block/name "entitytypes.logstats",
+  :block/created-at 1653903008526,
+  :block/updated-at 1653903008526}
+ {:block/name "entitytypes.logstats.attributes.criticalcount",
+  :block/created-at 1653903008528,
+  :block/updated-at 1653903008528}
+ {:block/name "entitytypes.logstats.attributes.debugcount",
+  :block/created-at 1653903008526,
+  :block/updated-at 1653903008526}
+ {:block/name "entitytypes.logstats.attributes.errorcount",
+  :block/created-at 1653903008528,
+  :block/updated-at 1653903008528}
+ {:block/name "entitytypes.logstats.attributes.infocount",
+  :block/created-at 1653903008527,
+  :block/updated-at 1653903008527}
+ {:block/name "entitytypes.logstats.attributes.noticecount",
+  :block/created-at 1653903008527,
+  :block/updated-at 1653903008527}
+ {:block/name "entitytypes.logstats.attributes.tracecount",
+  :block/created-at 1653903008526,
+  :block/updated-at 1653903008526}
+ {:block/name "entitytypes.logstats.attributes.warningcount",
+  :block/created-at 1653903008528,
+  :block/updated-at 1653903008528}
+ {:block/name "entitytypes.management",
+  :block/created-at 1653903008400,
+  :block/updated-at 1653903008400}
+ {:block/name "entitytypes.management.operationdefs.get-log",
+  :block/created-at 1653903008405,
+  :block/updated-at 1653903008405}
+ {:block/name
+  "entitytypes.management.operationdefs.get-log.request.properties.identity",
+  :block/created-at 1653903008405,
+  :block/updated-at 1653903008405}
+ {:block/name
+  "entitytypes.management.operationdefs.get-log.request.properties.limit",
+  :block/created-at 1653903008406,
+  :block/updated-at 1653903008406}
+ {:block/name
+  "entitytypes.management.operationdefs.get-log.response.body",
+  :block/created-at 1653903008406,
+  :block/updated-at 1653903008406}
+ {:block/name "entitytypes.management.operationdefs.get-schema",
+  :block/created-at 1653903008401,
+  :block/updated-at 1653903008401}
+ {:block/name "entitytypes.management.operationdefs.get-schema-json",
+  :block/created-at 1653903008403,
+  :block/updated-at 1653903008403}
+ {:block/name
+  "entitytypes.management.operationdefs.get-schema-json.request.properties.identity",
+  :block/created-at 1653903008404,
+  :block/updated-at 1653903008404}
+ {:block/name
+  "entitytypes.management.operationdefs.get-schema-json.request.properties.indent",
+  :block/created-at 1653903008404,
+  :block/updated-at 1653903008404}
+ {:block/name
+  "entitytypes.management.operationdefs.get-schema-json.response.body",
+  :block/created-at 1653903008405,
+  :block/updated-at 1653903008405}
+ {:block/name
+  "entitytypes.management.operationdefs.get-schema.request.properties.identity",
+  :block/created-at 1653903008401,
+  :block/updated-at 1653903008401}
+ {:block/name
+  "entitytypes.management.operationdefs.get-schema.response.body",
+  :block/created-at 1653903008402,
+  :block/updated-at 1653903008402}
+ {:block/name "entitytypes.operationalentity",
+  :block/created-at 1653903008407,
+  :block/updated-at 1653903008407}
+ {:block/name "entitytypes.org.amqp.management",
+  :block/created-at 1653903008386,
+  :block/updated-at 1653903008386}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-annotations.request.properties.entitytype",
+  :block/created-at 1653903008395,
+  :block/updated-at 1653903008395}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-annotations.request.properties.identity",
+  :block/created-at 1653903008395,
+  :block/updated-at 1653903008395}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-annotations.response.body",
+  :block/created-at 1653903008395,
+  :block/updated-at 1653903008395}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-attributes",
+  :block/created-at 1653903008396,
+  :block/updated-at 1653903008396}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-attributes.request.properties.entitytype",
+  :block/created-at 1653903008397,
+  :block/updated-at 1653903008397}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-attributes.request.properties.identity",
+  :block/created-at 1653903008396,
+  :block/updated-at 1653903008396}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-attributes.response.body",
+  :block/created-at 1653903008398,
+  :block/updated-at 1653903008398}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-mgmt-nodes",
+  :block/created-at 1653903008399,
+  :block/updated-at 1653903008399}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-mgmt-nodes.request.properties.identity",
+  :block/created-at 1653903008399,
+  :block/updated-at 1653903008399}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-mgmt-nodes.response.body",
+  :block/created-at 1653903008400,
+  :block/updated-at 1653903008400}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-operations",
+  :block/created-at 1653903008393,
+  :block/updated-at 1653903008393}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-operations.request.properties.entitytype",
+  :block/created-at 1653903008394,
+  :block/updated-at 1653903008394}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-operations.request.properties.identity",
+  :block/created-at 1653903008393,
+  :block/updated-at 1653903008393}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-operations.response.body",
+  :block/created-at 1653903008394,
+  :block/updated-at 1653903008394}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-types",
+  :block/created-at 1653903008391,
+  :block/updated-at 1653903008391}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-types.request.properties.entitytype",
+  :block/created-at 1653903008392,
+  :block/updated-at 1653903008392}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-types.request.properties.identity",
+  :block/created-at 1653903008391,
+  :block/updated-at 1653903008391}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.get-types.response.body",
+  :block/created-at 1653903008392,
+  :block/updated-at 1653903008392}
+ {:block/name "entitytypes.org.amqp.management.operationdefs.query",
+  :block/created-at 1653903008386,
+  :block/updated-at 1653903008386}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.request.body",
+  :block/created-at 1653903008389,
+  :block/updated-at 1653903008389}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.request.properties.count",
+  :block/created-at 1653903008388,
+  :block/updated-at 1653903008388}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.request.properties.entitytype",
+  :block/created-at 1653903008387,
+  :block/updated-at 1653903008387}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.request.properties.identity",
+  :block/created-at 1653903008387,
+  :block/updated-at 1653903008387}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.request.properties.offset",
+  :block/created-at 1653903008388,
+  :block/updated-at 1653903008388}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.response.body",
+  :block/created-at 1653903008390,
+  :block/updated-at 1653903008390}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.response.properties.count",
+  :block/created-at 1653903008390,
+  :block/updated-at 1653903008390}
+ {:block/name
+  "entitytypes.org.amqp.management.operationdefs.query.response.properties.identity",
+  :block/created-at 1653903008389,
+  :block/updated-at 1653903008389}
+ {:block/name "entitytypes.policy",
+  :block/created-at 1653903008571,
+  :block/updated-at 1653903008571}
+ {:block/name "entitytypes.policy.attributes.defaultvhost",
+  :block/created-at 1653903008575,
+  :block/updated-at 1653903008575}
+ {:block/name "entitytypes.policy.attributes.enablevhostnamepatterns",
+  :block/created-at 1653903008573,
+  :block/updated-at 1653903008573}
+ {:block/name "entitytypes.policy.attributes.enablevhostpolicy",
+  :block/created-at 1653903008573,
+  :block/updated-at 1653903008573}
+ {:block/name "entitytypes.policy.attributes.linksdenied",
+  :block/created-at 1653903008576,
+  :block/updated-at 1653903008576}
+ {:block/name "entitytypes.policy.attributes.maxconnections",
+  :block/created-at 1653903008572,
+  :block/updated-at 1653903008572}
+ {:block/name "entitytypes.policy.attributes.maxmessagesize",
+  :block/created-at 1653903008572,
+  :block/updated-at 1653903008572}
+ {:block/name "entitytypes.policy.attributes.policydir",
+  :block/created-at 1653903008573,
+  :block/updated-at 1653903008573}
+ {:block/name "entitytypes.policy.attributes.totaldenials",
+  :block/created-at 1653903008576,
+  :block/updated-at 1653903008576}
+ {:block/name "entitytypes.router",
+  :block/created-at 1653903008407,
+  :block/updated-at 1653903008407}
+ {:block/name "entitytypes.router.address",
+  :block/created-at 1653903008544,
+  :block/updated-at 1653903008544}
+ {:block/name "entitytypes.router.address.attributes.containercount",
+  :block/created-at 1653903008547,
+  :block/updated-at 1653903008547}
+ {:block/name "entitytypes.router.address.attributes.deliveriesegress",
+  :block/created-at 1653903008548,
+  :block/updated-at 1653903008548}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriesegressroutecontainer",
+  :block/created-at 1653903008550,
+  :block/updated-at 1653903008550}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriesfromcontainer",
+  :block/created-at 1653903008549,
+  :block/updated-at 1653903008549}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriesingress",
+  :block/created-at 1653903008547,
+  :block/updated-at 1653903008547}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriesingressroutecontainer",
+  :block/created-at 1653903008549,
+  :block/updated-at 1653903008549}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriestocontainer",
+  :block/created-at 1653903008549,
+  :block/updated-at 1653903008549}
+ {:block/name
+  "entitytypes.router.address.attributes.deliveriestransit",
+  :block/created-at 1653903008548,
+  :block/updated-at 1653903008548}
+ {:block/name "entitytypes.router.address.attributes.distribution",
+  :block/created-at 1653903008544,
+  :block/updated-at 1653903008544}
+ {:block/name "entitytypes.router.address.attributes.inprocess",
+  :block/created-at 1653903008546,
+  :block/updated-at 1653903008546}
+ {:block/name "entitytypes.router.address.attributes.key",
+  :block/created-at 1653903008550,
+  :block/updated-at 1653903008550}
+ {:block/name "entitytypes.router.address.attributes.priority",
+  :block/created-at 1653903008552,
+  :block/updated-at 1653903008552}
+ {:block/name "entitytypes.router.address.attributes.remotecount",
+  :block/created-at 1653903008546,
+  :block/updated-at 1653903008546}
+ {:block/name
+  "entitytypes.router.address.attributes.remotehostrouters",
+  :block/created-at 1653903008551,
+  :block/updated-at 1653903008551}
+ {:block/name "entitytypes.router.address.attributes.subscribercount",
+  :block/created-at 1653903008546,
+  :block/updated-at 1653903008546}
+ {:block/name
+  "entitytypes.router.address.attributes.trackeddeliveries",
+  :block/created-at 1653903008551,
+  :block/updated-at 1653903008551}
+ {:block/name
+  "entitytypes.router.address.attributes.transitoutstanding",
+  :block/created-at 1653903008551,
+  :block/updated-at 1653903008551}
+ {:block/name "entitytypes.router.address.attributes.watch",
+  :block/created-at 1653903008552,
+  :block/updated-at 1653903008552}
+ {:block/name "entitytypes.router.attributes.accepteddeliveries",
+  :block/created-at 1653903008421,
+  :block/updated-at 1653903008421}
+ {:block/name "entitytypes.router.attributes.addrcount",
+  :block/created-at 1653903008416,
+  :block/updated-at 1653903008416}
+ {:block/name "entitytypes.router.attributes.area",
+  :block/created-at 1653903008409,
+  :block/updated-at 1653903008409}
+ {:block/name "entitytypes.router.attributes.autolinkcount",
+  :block/created-at 1653903008418,
+  :block/updated-at 1653903008418}
+ {:block/name "entitytypes.router.attributes.blockedlinkcount",
+  :block/created-at 1653903008417,
+  :block/updated-at 1653903008417}
+ {:block/name "entitytypes.router.attributes.connectioncount",
+  :block/created-at 1653903008418,
+  :block/updated-at 1653903008418}
+ {:block/name "entitytypes.router.attributes.debugdumpfile",
+  :block/created-at 1653903008413,
+  :block/updated-at 1653903008413}
+ {:block/name "entitytypes.router.attributes.defaultdistribution",
+  :block/created-at 1653903008415,
+  :block/updated-at 1653903008415}
+ {:block/name "entitytypes.router.attributes.deliveriesdelayed10sec",
+  :block/created-at 1653903008423,
+  :block/updated-at 1653903008423}
+ {:block/name "entitytypes.router.attributes.deliveriesdelayed1sec",
+  :block/created-at 1653903008423,
+  :block/updated-at 1653903008423}
+ {:block/name "entitytypes.router.attributes.deliveriesegress",
+  :block/created-at 1653903008425,
+  :block/updated-at 1653903008425}
+ {:block/name
+  "entitytypes.router.attributes.deliveriesegressroutecontainer",
+  :block/created-at 1653903008426,
+  :block/updated-at 1653903008426}
+ {:block/name "entitytypes.router.attributes.deliveriesingress",
+  :block/created-at 1653903008425,
+  :block/updated-at 1653903008425}
+ {:block/name
+  "entitytypes.router.attributes.deliveriesingressroutecontainer",
+  :block/created-at 1653903008426,
+  :block/updated-at 1653903008426}
+ {:block/name "entitytypes.router.attributes.deliveriesstuck",
+  :block/created-at 1653903008424,
+  :block/updated-at 1653903008424}
+ {:block/name "entitytypes.router.attributes.deliveriestransit",
+  :block/created-at 1653903008426,
+  :block/updated-at 1653903008426}
+ {:block/name
+  "entitytypes.router.attributes.droppedpresettleddeliveries",
+  :block/created-at 1653903008421,
+  :block/updated-at 1653903008421}
+ {:block/name "entitytypes.router.attributes.hellointervalseconds",
+  :block/created-at 1653903008410,
+  :block/updated-at 1653903008410}
+ {:block/name "entitytypes.router.attributes.hellomaxageseconds",
+  :block/created-at 1653903008411,
+  :block/updated-at 1653903008411}
+ {:block/name "entitytypes.router.attributes.hostname",
+  :block/created-at 1653903008410,
+  :block/updated-at 1653903008410}
+ {:block/name "entitytypes.router.attributes.id",
+  :block/created-at 1653903008408,
+  :block/updated-at 1653903008408}
+ {:block/name "entitytypes.router.attributes.linkcount",
+  :block/created-at 1653903008417,
+  :block/updated-at 1653903008417}
+ {:block/name "entitytypes.router.attributes.memoryusage",
+  :block/created-at 1653903008427,
+  :block/updated-at 1653903008427}
+ {:block/name "entitytypes.router.attributes.metadata",
+  :block/created-at 1653903008415,
+  :block/updated-at 1653903008415}
+ {:block/name "entitytypes.router.attributes.mode",
+  :block/created-at 1653903008408,
+  :block/updated-at 1653903008408}
+ {:block/name "entitytypes.router.attributes.modifieddeliveries",
+  :block/created-at 1653903008422,
+  :block/updated-at 1653903008422}
+ {:block/name "entitytypes.router.attributes.nodecount",
+  :block/created-at 1653903008418,
+  :block/updated-at 1653903008418}
+ {:block/name "entitytypes.router.attributes.plogrouterid",
+  :block/created-at 1653903008416,
+  :block/updated-at 1653903008416}
+ {:block/name "entitytypes.router.attributes.plogsiteid",
+  :block/created-at 1653903008416,
+  :block/updated-at 1653903008416}
+ {:block/name "entitytypes.router.attributes.presettleddeliveries",
+  :block/created-at 1653903008420,
+  :block/updated-at 1653903008420}
+ {:block/name "entitytypes.router.attributes.raintervalfluxseconds",
+  :block/created-at 1653903008411,
+  :block/updated-at 1653903008411}
+ {:block/name "entitytypes.router.attributes.raintervalseconds",
+  :block/created-at 1653903008411,
+  :block/updated-at 1653903008411}
+ {:block/name "entitytypes.router.attributes.rejecteddeliveries",
+  :block/created-at 1653903008421,
+  :block/updated-at 1653903008421}
+ {:block/name "entitytypes.router.attributes.releaseddeliveries",
+  :block/created-at 1653903008422,
+  :block/updated-at 1653903008422}
+ {:block/name "entitytypes.router.attributes.remotelsmaxageseconds",
+  :block/created-at 1653903008412,
+  :block/updated-at 1653903008412}
+ {:block/name "entitytypes.router.attributes.saslconfigdir",
+  :block/created-at 1653903008413,
+  :block/updated-at 1653903008413}
+ {:block/name "entitytypes.router.attributes.saslconfigname",
+  :block/created-at 1653903008414,
+  :block/updated-at 1653903008414}
+ {:block/name "entitytypes.router.attributes.tcpconnectioncount",
+  :block/created-at 1653903008420,
+  :block/updated-at 1653903008420}
+ {:block/name "entitytypes.router.attributes.timestampformat",
+  :block/created-at 1653903008414,
+  :block/updated-at 1653903008414}
+ {:block/name "entitytypes.router.attributes.timestampsinutc",
+  :block/created-at 1653903008414,
+  :block/updated-at 1653903008414}
+ {:block/name "entitytypes.router.attributes.uptimeseconds",
+  :block/created-at 1653903008427,
+  :block/updated-at 1653903008427}
+ {:block/name "entitytypes.router.attributes.version",
+  :block/created-at 1653903008409,
+  :block/updated-at 1653903008409}
+ {:block/name "entitytypes.router.attributes.workerthreads",
+  :block/created-at 1653903008412,
+  :block/updated-at 1653903008412}
+ {:block/name "entitytypes.router.config.address",
+  :block/created-at 1653903008529,
+  :block/updated-at 1653903008529}
+ {:block/name
+  "entitytypes.router.config.address.attributes.distribution",
+  :block/created-at 1653903008530,
+  :block/updated-at 1653903008530}
+ {:block/name "entitytypes.router.config.address.attributes.pattern",
+  :block/created-at 1653903008530,
+  :block/updated-at 1653903008530}
+ {:block/name "entitytypes.router.config.address.attributes.prefix",
+  :block/created-at 1653903008529,
+  :block/updated-at 1653903008529}
+ {:block/name "entitytypes.router.config.address.attributes.priority",
+  :block/created-at 1653903008530,
+  :block/updated-at 1653903008530}
+ {:block/name "entitytypes.router.config.autolink",
+  :block/created-at 1653903008531,
+  :block/updated-at 1653903008531}
+ {:block/name "entitytypes.router.config.autolink.attributes.address",
+  :block/created-at 1653903008531,
+  :block/updated-at 1653903008531}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.connection",
+  :block/created-at 1653903008532,
+  :block/updated-at 1653903008532}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.containerid",
+  :block/created-at 1653903008532,
+  :block/updated-at 1653903008532}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.direction",
+  :block/created-at 1653903008531,
+  :block/updated-at 1653903008531}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.externaladdress",
+  :block/created-at 1653903008533,
+  :block/updated-at 1653903008533}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.lasterror",
+  :block/created-at 1653903008534,
+  :block/updated-at 1653903008534}
+ {:block/name "entitytypes.router.config.autolink.attributes.linkref",
+  :block/created-at 1653903008533,
+  :block/updated-at 1653903008533}
+ {:block/name
+  "entitytypes.router.config.autolink.attributes.operstatus",
+  :block/created-at 1653903008533,
+  :block/updated-at 1653903008533}
+ {:block/name "entitytypes.router.link",
+  :block/created-at 1653903008534,
+  :block/updated-at 1653903008534}
+ {:block/name "entitytypes.router.link.attributes.acceptedcount",
+  :block/created-at 1653903008539,
+  :block/updated-at 1653903008539}
+ {:block/name "entitytypes.router.link.attributes.capacity",
+  :block/created-at 1653903008536,
+  :block/updated-at 1653903008536}
+ {:block/name "entitytypes.router.link.attributes.creditavailable",
+  :block/created-at 1653903008542,
+  :block/updated-at 1653903008542}
+ {:block/name
+  "entitytypes.router.link.attributes.deliveriesdelayed10sec",
+  :block/created-at 1653903008541,
+  :block/updated-at 1653903008541}
+ {:block/name
+  "entitytypes.router.link.attributes.deliveriesdelayed1sec",
+  :block/created-at 1653903008540,
+  :block/updated-at 1653903008540}
+ {:block/name "entitytypes.router.link.attributes.deliveriesstuck",
+  :block/created-at 1653903008541,
+  :block/updated-at 1653903008541}
+ {:block/name "entitytypes.router.link.attributes.deliverycount",
+  :block/created-at 1653903008538,
+  :block/updated-at 1653903008538}
+ {:block/name
+  "entitytypes.router.link.attributes.droppedpresettledcount",
+  :block/created-at 1653903008538,
+  :block/updated-at 1653903008538}
+ {:block/name "entitytypes.router.link.attributes.ingresshistogram",
+  :block/created-at 1653903008543,
+  :block/updated-at 1653903008543}
+ {:block/name "entitytypes.router.link.attributes.linkdir",
+  :block/created-at 1653903008535,
+  :block/updated-at 1653903008535}
+ {:block/name "entitytypes.router.link.attributes.linkname",
+  :block/created-at 1653903008535,
+  :block/updated-at 1653903008535}
+ {:block/name "entitytypes.router.link.attributes.linktype",
+  :block/created-at 1653903008535,
+  :block/updated-at 1653903008535}
+ {:block/name "entitytypes.router.link.attributes.modifiedcount",
+  :block/created-at 1653903008540,
+  :block/updated-at 1653903008540}
+ {:block/name "entitytypes.router.link.attributes.owningaddr",
+  :block/created-at 1653903008536,
+  :block/updated-at 1653903008536}
+ {:block/name "entitytypes.router.link.attributes.peer",
+  :block/created-at 1653903008536,
+  :block/updated-at 1653903008536}
+ {:block/name "entitytypes.router.link.attributes.presettledcount",
+  :block/created-at 1653903008538,
+  :block/updated-at 1653903008538}
+ {:block/name "entitytypes.router.link.attributes.priority",
+  :block/created-at 1653903008543,
+  :block/updated-at 1653903008543}
+ {:block/name "entitytypes.router.link.attributes.rejectedcount",
+  :block/created-at 1653903008539,
+  :block/updated-at 1653903008539}
+ {:block/name "entitytypes.router.link.attributes.releasedcount",
+  :block/created-at 1653903008540,
+  :block/updated-at 1653903008540}
+ {:block/name "entitytypes.router.link.attributes.settlerate",
+  :block/created-at 1653903008542,
+  :block/updated-at 1653903008542}
+ {:block/name "entitytypes.router.link.attributes.undeliveredcount",
+  :block/created-at 1653903008537,
+  :block/updated-at 1653903008537}
+ {:block/name "entitytypes.router.link.attributes.unsettledcount",
+  :block/created-at 1653903008537,
+  :block/updated-at 1653903008537}
+ {:block/name "entitytypes.router.link.attributes.zerocreditseconds",
+  :block/created-at 1653903008542,
+  :block/updated-at 1653903008542}
+ {:block/name "entitytypes.router.node",
+  :block/created-at 1653903008553,
+  :block/updated-at 1653903008553}
+ {:block/name "entitytypes.router.node.attributes.address",
+  :block/created-at 1653903008555,
+  :block/updated-at 1653903008555}
+ {:block/name "entitytypes.router.node.attributes.cost",
+  :block/created-at 1653903008556,
+  :block/updated-at 1653903008556}
+ {:block/name "entitytypes.router.node.attributes.id",
+  :block/created-at 1653903008553,
+  :block/updated-at 1653903008553}
+ {:block/name "entitytypes.router.node.attributes.index",
+  :block/created-at 1653903008557,
+  :block/updated-at 1653903008557}
+ {:block/name "entitytypes.router.node.attributes.instance",
+  :block/created-at 1653903008554,
+  :block/updated-at 1653903008554}
+ {:block/name "entitytypes.router.node.attributes.lasttopochange",
+  :block/created-at 1653903008556,
+  :block/updated-at 1653903008556}
+ {:block/name "entitytypes.router.node.attributes.linkstate",
+  :block/created-at 1653903008554,
+  :block/updated-at 1653903008554}
+ {:block/name "entitytypes.router.node.attributes.nexthop",
+  :block/created-at 1653903008554,
+  :block/updated-at 1653903008554}
+ {:block/name "entitytypes.router.node.attributes.protocolversion",
+  :block/created-at 1653903008553,
+  :block/updated-at 1653903008553}
+ {:block/name "entitytypes.router.node.attributes.routerlink",
+  :block/created-at 1653903008556,
+  :block/updated-at 1653903008556}
+ {:block/name "entitytypes.router.node.attributes.validorigins",
+  :block/created-at 1653903008555,
+  :block/updated-at 1653903008555}
+ {:block/name "entitytypes.sslprofile",
+  :block/created-at 1653903008428,
+  :block/updated-at 1653903008428}
+ {:block/name "entitytypes.sslprofile.attributes.cacertfile",
+  :block/created-at 1653903008429,
+  :block/updated-at 1653903008429}
+ {:block/name "entitytypes.sslprofile.attributes.certfile",
+  :block/created-at 1653903008430,
+  :block/updated-at 1653903008430}
+ {:block/name "entitytypes.sslprofile.attributes.ciphers",
+  :block/created-at 1653903008428,
+  :block/updated-at 1653903008428}
+ {:block/name "entitytypes.sslprofile.attributes.password",
+  :block/created-at 1653903008430,
+  :block/updated-at 1653903008430}
+ {:block/name "entitytypes.sslprofile.attributes.privatekeyfile",
+  :block/created-at 1653903008430,
+  :block/updated-at 1653903008430}
+ {:block/name "entitytypes.sslprofile.attributes.protocols",
+  :block/created-at 1653903008429,
+  :block/updated-at 1653903008429}
+ {:block/name "entitytypes.sslprofile.attributes.uidformat",
+  :block/created-at 1653903008431,
+  :block/updated-at 1653903008431}
+ {:block/name "entitytypes.sslprofile.attributes.uidnamemappingfile",
+  :block/created-at 1653903008431,
+  :block/updated-at 1653903008431}
+ {:block/name "entitytypes.tcpconnection",
+  :block/created-at 1653903008566,
+  :block/updated-at 1653903008566}
+ {:block/name "entitytypes.tcpconnection.attributes.address",
+  :block/created-at 1653903008567,
+  :block/updated-at 1653903008567}
+ {:block/name "entitytypes.tcpconnection.attributes.bytesin",
+  :block/created-at 1653903008568,
+  :block/updated-at 1653903008568}
+ {:block/name "entitytypes.tcpconnection.attributes.bytesout",
+  :block/created-at 1653903008568,
+  :block/updated-at 1653903008568}
+ {:block/name "entitytypes.tcpconnection.attributes.direction",
+  :block/created-at 1653903008568,
+  :block/updated-at 1653903008568}
+ {:block/name "entitytypes.tcpconnection.attributes.host",
+  :block/created-at 1653903008567,
+  :block/updated-at 1653903008567}
+ {:block/name "entitytypes.tcpconnection.attributes.lastinseconds",
+  :block/created-at 1653903008570,
+  :block/updated-at 1653903008570}
+ {:block/name "entitytypes.tcpconnection.attributes.lastoutseconds",
+  :block/created-at 1653903008571,
+  :block/updated-at 1653903008571}
+ {:block/name "entitytypes.tcpconnection.attributes.uptimeseconds",
+  :block/created-at 1653903008570,
+  :block/updated-at 1653903008570}
+ {:block/name "entitytypes.tcpconnector",
+  :block/created-at 1653903008520,
+  :block/updated-at 1653903008520}
+ {:block/name "entitytypes.tcpconnector.attributes.address",
+  :block/created-at 1653903008520,
+  :block/updated-at 1653903008520}
+ {:block/name "entitytypes.tcpconnector.attributes.bytesin",
+  :block/created-at 1653903008523,
+  :block/updated-at 1653903008523}
+ {:block/name "entitytypes.tcpconnector.attributes.bytesout",
+  :block/created-at 1653903008523,
+  :block/updated-at 1653903008523}
+ {:block/name "entitytypes.tcpconnector.attributes.connectionsclosed",
+  :block/created-at 1653903008522,
+  :block/updated-at 1653903008522}
+ {:block/name "entitytypes.tcpconnector.attributes.connectionsopened",
+  :block/created-at 1653903008522,
+  :block/updated-at 1653903008522}
+ {:block/name "entitytypes.tcpconnector.attributes.host",
+  :block/created-at 1653903008521,
+  :block/updated-at 1653903008521}
+ {:block/name "entitytypes.tcpconnector.attributes.port",
+  :block/created-at 1653903008521,
+  :block/updated-at 1653903008521}
+ {:block/name "entitytypes.tcpconnector.attributes.siteid",
+  :block/created-at 1653903008522,
+  :block/updated-at 1653903008522}
+ {:block/name "entitytypes.tcplistener",
+  :block/created-at 1653903008515,
+  :block/updated-at 1653903008515}
+ {:block/name "entitytypes.tcplistener.attributes.address",
+  :block/created-at 1653903008516,
+  :block/updated-at 1653903008516}
+ {:block/name "entitytypes.tcplistener.attributes.bytesin",
+  :block/created-at 1653903008518,
+  :block/updated-at 1653903008518}
+ {:block/name "entitytypes.tcplistener.attributes.bytesout",
+  :block/created-at 1653903008519,
+  :block/updated-at 1653903008519}
+ {:block/name "entitytypes.tcplistener.attributes.connectionsclosed",
+  :block/created-at 1653903008518,
+  :block/updated-at 1653903008518}
+ {:block/name "entitytypes.tcplistener.attributes.connectionsopened",
+  :block/created-at 1653903008517,
+  :block/updated-at 1653903008517}
+ {:block/name "entitytypes.tcplistener.attributes.host",
+  :block/created-at 1653903008516,
+  :block/updated-at 1653903008516}
+ {:block/name "entitytypes.tcplistener.attributes.operstatus",
+  :block/created-at 1653903008520,
+  :block/updated-at 1653903008520}
+ {:block/name "entitytypes.tcplistener.attributes.port",
+  :block/created-at 1653903008517,
+  :block/updated-at 1653903008517}
+ {:block/name "entitytypes.tcplistener.attributes.siteid",
+  :block/created-at 1653903008517,
+  :block/updated-at 1653903008517}
+ {:block/name "entitytypes.vhost",
+  :block/created-at 1653903008576,
+  :block/updated-at 1653903008576}
+ {:block/name "entitytypes.vhost.attributes.aliases",
+  :block/created-at 1653903008577,
+  :block/updated-at 1653903008577}
+ {:block/name "entitytypes.vhost.attributes.allowunknownuser",
+  :block/created-at 1653903008579,
+  :block/updated-at 1653903008579}
+ {:block/name "entitytypes.vhost.attributes.groups",
+  :block/created-at 1653903008579,
+  :block/updated-at 1653903008579}
+ {:block/name "entitytypes.vhost.attributes.hostname",
+  :block/created-at 1653903008577,
+  :block/updated-at 1653903008577}
+ {:block/name "entitytypes.vhost.attributes.maxconnections",
+  :block/created-at 1653903008577,
+  :block/updated-at 1653903008577}
+ {:block/name "entitytypes.vhost.attributes.maxconnectionsperhost",
+  :block/created-at 1653903008579,
+  :block/updated-at 1653903008579}
+ {:block/name "entitytypes.vhost.attributes.maxconnectionsperuser",
+  :block/created-at 1653903008578,
+  :block/updated-at 1653903008578}
+ {:block/name "entitytypes.vhost.attributes.maxmessagesize",
+  :block/created-at 1653903008578,
+  :block/updated-at 1653903008578}
+ {:block/name "entitytypes.vhoststats",
+  :block/created-at 1653903008587,
+  :block/updated-at 1653903008587}
+ {:block/name "entitytypes.vhoststats.attributes.hostname",
+  :block/created-at 1653903008588,
+  :block/updated-at 1653903008588}
+ {:block/name "entitytypes.vhoststats.attributes.perhoststate",
+  :block/created-at 1653903008588,
+  :block/updated-at 1653903008588}
+ {:block/name "entitytypes.vhoststats.attributes.peruserstate",
+  :block/created-at 1653903008588,
+  :block/updated-at 1653903008588}
+ {:block/name "entitytypes.vhostusergroupsettings",
+  :block/created-at 1653903008580,
+  :block/updated-at 1653903008580}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.allowadminstatusupdate",
+  :block/created-at 1653903008585,
+  :block/updated-at 1653903008585}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.allowanonymoussender",
+  :block/created-at 1653903008585,
+  :block/updated-at 1653903008585}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.allowdynamicsource",
+  :block/created-at 1653903008584,
+  :block/updated-at 1653903008584}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.allowuseridproxy",
+  :block/created-at 1653903008585,
+  :block/updated-at 1653903008585}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxconnectionsperhost",
+  :block/created-at 1653903008581,
+  :block/updated-at 1653903008581}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxconnectionsperuser",
+  :block/created-at 1653903008581,
+  :block/updated-at 1653903008581}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxframesize",
+  :block/created-at 1653903008582,
+  :block/updated-at 1653903008582}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxmessagesize",
+  :block/created-at 1653903008582,
+  :block/updated-at 1653903008582}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxreceivers",
+  :block/created-at 1653903008584,
+  :block/updated-at 1653903008584}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxsenders",
+  :block/created-at 1653903008583,
+  :block/updated-at 1653903008583}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxsessions",
+  :block/created-at 1653903008583,
+  :block/updated-at 1653903008583}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.maxsessionwindow",
+  :block/created-at 1653903008583,
+  :block/updated-at 1653903008583}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.remotehosts",
+  :block/created-at 1653903008581,
+  :block/updated-at 1653903008581}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.sourcepattern",
+  :block/created-at 1653903008587,
+  :block/updated-at 1653903008587}
+ {:block/name "entitytypes.vhostusergroupsettings.attributes.sources",
+  :block/created-at 1653903008586,
+  :block/updated-at 1653903008586}
+ {:block/name
+  "entitytypes.vhostusergroupsettings.attributes.targetpattern",
+  :block/created-at 1653903008587,
+  :block/updated-at 1653903008587}
+ {:block/name "entitytypes.vhostusergroupsettings.attributes.targets",
+  :block/created-at 1653903008586,
+  :block/updated-at 1653903008586}
+ {:block/name "entitytypes.vhostusergroupsettings.attributes.users",
+  :block/created-at 1653903008580,
+  :block/updated-at 1653903008580}
+ {:block/name "entitytypes/allocator",
+  :block/created-at 1653902728272,
+  :block/updated-at 1653902728272}
+ {:block/name "entitytypes/configurationentity",
+  :block/created-at 1653902728291,
+  :block/updated-at 1653902728291}
+ {:block/name "entitytypes/connection",
+  :block/created-at 1653902728308,
+  :block/updated-at 1653902728308}
+ {:block/name "entitytypes/connection/attributes",
+  :block/created-at 1653902728309,
+  :block/updated-at 1653902728309}
+ {:block/name "entitytypes/connection/attributes/adminstatus",
+  :block/created-at 1653902728306,
+  :block/updated-at 1653902728306}
+ {:block/name "entitytypes/connection/attributes/container",
+  :block/created-at 1653902728375,
+  :block/updated-at 1653902728375}
+ {:block/name "entitytypes/connection/attributes/dir",
+  :block/created-at 1653902728392,
+  :block/updated-at 1653902728392}
+ {:block/name "entitytypes/connection/attributes/enableprotocoltrace",
+  :block/created-at 1653902728413,
+  :block/updated-at 1653902728413}
+ {:block/name "entitytypes/connection/attributes/host",
+  :block/created-at 1653902728429,
+  :block/updated-at 1653902728429}
+ {:block/name "entitytypes/connection/attributes/isauthenticated",
+  :block/created-at 1653902728442,
+  :block/updated-at 1653902728442}
+ {:block/name "entitytypes/connection/attributes/isencrypted",
+  :block/created-at 1653902728460,
+  :block/updated-at 1653902728460}
+ {:block/name "entitytypes/connection/attributes/lastdlvseconds",
+  :block/created-at 1653902728536,
+  :block/updated-at 1653902728536}
+ {:block/name "entitytypes/connection/attributes/opened",
+  :block/created-at 1653902728549,
+  :block/updated-at 1653902728549}
+ {:block/name "entitytypes/connection/attributes/properties",
+  :block/created-at 1653902728572,
+  :block/updated-at 1653902728572}
+ {:block/name "entitytypes/connection/attributes/protocol",
+  :block/created-at 1653902728591,
+  :block/updated-at 1653902728591}
+ {:block/name "entitytypes/connection/attributes/sasl",
+  :block/created-at 1653902728607,
+  :block/updated-at 1653902728607}
+ {:block/name "entitytypes/connection/attributes/ssl",
+  :block/created-at 1653902728623,
+  :block/updated-at 1653902728623}
+ {:block/name "entitytypes/connection/attributes/sslcipher",
+  :block/created-at 1653902728669,
+  :block/updated-at 1653902728669}
+ {:block/name "entitytypes/connection/attributes/sslproto",
+  :block/created-at 1653902728684,
+  :block/updated-at 1653902728684}
+ {:block/name "entitytypes/connection/attributes/sslssf",
+  :block/created-at 1653902728703,
+  :block/updated-at 1653902728703}
+ {:block/name "entitytypes/connection/attributes/uptimeseconds",
+  :block/created-at 1653902728715,
+  :block/updated-at 1653902728715}
+ {:block/name "entitytypes/connection/attributes/user",
+  :block/created-at 1653902728729,
+  :block/updated-at 1653902728729}
+ {:block/name "entitytypes/connector",
+  :block/created-at 1653902728753,
+  :block/updated-at 1653902728753}
+ {:block/name "entitytypes/connector/attributes",
+  :block/created-at 1653902728753,
+  :block/updated-at 1653902728753}
+ {:block/name "entitytypes/connector/attributes/allowredirect",
+  :block/created-at 1653902728752,
+  :block/updated-at 1653902728752}
+ {:block/name "entitytypes/connector/attributes/connectionmsg",
+  :block/created-at 1653902728765,
+  :block/updated-at 1653902728765}
+ {:block/name "entitytypes/connector/attributes/connectionstatus",
+  :block/created-at 1653902728814,
+  :block/updated-at 1653902728814}
+ {:block/name "entitytypes/connector/attributes/cost",
+  :block/created-at 1653902728828,
+  :block/updated-at 1653902728828}
+ {:block/name "entitytypes/connector/attributes/failoverurls",
+  :block/created-at 1653902728839,
+  :block/updated-at 1653902728839}
+ {:block/name "entitytypes/connector/attributes/host",
+  :block/created-at 1653902728856,
+  :block/updated-at 1653902728856}
+ {:block/name "entitytypes/connector/attributes/idletimeoutseconds",
+  :block/created-at 1653902728869,
+  :block/updated-at 1653902728869}
+ {:block/name "entitytypes/connector/attributes/linkcapacity",
+  :block/created-at 1653902728882,
+  :block/updated-at 1653902728882}
+ {:block/name "entitytypes/connector/attributes/maxframesize",
+  :block/created-at 1653902728900,
+  :block/updated-at 1653902728900}
+ {:block/name "entitytypes/connector/attributes/maxsessionframes",
+  :block/created-at 1653902728917,
+  :block/updated-at 1653902728917}
+ {:block/name "entitytypes/connector/attributes/maxsessions",
+  :block/created-at 1653902728968,
+  :block/updated-at 1653902728968}
+ {:block/name
+  "entitytypes/connector/attributes/messageloggingcomponents",
+  :block/created-at 1653902728985,
+  :block/updated-at 1653902728985}
+ {:block/name "entitytypes/connector/attributes/openproperties",
+  :block/created-at 1653902728998,
+  :block/updated-at 1653902728998}
+ {:block/name "entitytypes/connector/attributes/policyvhost",
+  :block/created-at 1653902729014,
+  :block/updated-at 1653902729014}
+ {:block/name "entitytypes/connector/attributes/port",
+  :block/created-at 1653902729028,
+  :block/updated-at 1653902729028}
+ {:block/name "entitytypes/connector/attributes/role",
+  :block/created-at 1653902729047,
+  :block/updated-at 1653902729047}
+ {:block/name "entitytypes/connector/attributes/saslmechanisms",
+  :block/created-at 1653902729057,
+  :block/updated-at 1653902729057}
+ {:block/name "entitytypes/connector/attributes/saslpassword",
+  :block/created-at 1653902729122,
+  :block/updated-at 1653902729122}
+ {:block/name "entitytypes/connector/attributes/saslusername",
+  :block/created-at 1653902729138,
+  :block/updated-at 1653902729138}
+ {:block/name "entitytypes/connector/attributes/socketaddressfamily",
+  :block/created-at 1653902729155,
+  :block/updated-at 1653902729155}
+ {:block/name "entitytypes/connector/attributes/sslprofile",
+  :block/created-at 1653902729169,
+  :block/updated-at 1653902729169}
+ {:block/name "entitytypes/connector/attributes/stripannotations",
+  :block/created-at 1653902729182,
+  :block/updated-at 1653902729182}
+ {:block/name "entitytypes/connector/attributes/verifyhostname",
+  :block/created-at 1653902729197,
+  :block/updated-at 1653902729197}
+ {:block/name "entitytypes/dummy",
+  :block/created-at 1653902729251,
+  :block/updated-at 1653902729251}
+ {:block/name "entitytypes/entity",
+  :block/created-at 1653902729260,
+  :block/updated-at 1653902729260}
+ {:block/name "entitytypes/entity/attributes",
+  :block/created-at 1653902729261,
+  :block/updated-at 1653902729261}
+ {:block/name "entitytypes/entity/attributes/identity",
+  :block/created-at 1653902729260,
+  :block/updated-at 1653902729260}
+ {:block/name "entitytypes/entity/attributes/name",
+  :block/created-at 1653902729271,
+  :block/updated-at 1653902729271}
+ {:block/name "entitytypes/entity/attributes/type",
+  :block/created-at 1653902729280,
+  :block/updated-at 1653902729280}
+ {:block/name "entitytypes/entity/operationdefs",
+  :block/created-at 1653902729301,
+  :block/updated-at 1653902729301}
+ {:block/name "entitytypes/entity/operationdefs/create",
+  :block/created-at 1653902729300,
+  :block/updated-at 1653902729300}
+ {:block/name "entitytypes/entity/operationdefs/create/request",
+  :block/created-at 1653902729316,
+  :block/updated-at 1653902729316}
+ {:block/name "entitytypes/entity/operationdefs/create/request/body",
+  :block/created-at 1653902729314,
+  :block/updated-at 1653902729314}
+ {:block/name
+  "entitytypes/entity/operationdefs/create/request/properties",
+  :block/created-at 1653902729335,
+  :block/updated-at 1653902729335}
+ {:block/name
+  "entitytypes/entity/operationdefs/create/request/properties/name",
+  :block/created-at 1653902729330,
+  :block/updated-at 1653902729330}
+ {:block/name
+  "entitytypes/entity/operationdefs/create/request/properties/type",
+  :block/created-at 1653902729345,
+  :block/updated-at 1653902729345}
+ {:block/name "entitytypes/entity/operationdefs/create/response",
+  :block/created-at 1653902729403,
+  :block/updated-at 1653902729403}
+ {:block/name "entitytypes/entity/operationdefs/create/response/body",
+  :block/created-at 1653902729400,
+  :block/updated-at 1653902729400}
+ {:block/name "entitytypes/entity/operationdefs/delete",
+  :block/created-at 1653902729413,
+  :block/updated-at 1653902729413}
+ {:block/name "entitytypes/entity/operationdefs/delete/request",
+  :block/created-at 1653902729428,
+  :block/updated-at 1653902729428}
+ {:block/name
+  "entitytypes/entity/operationdefs/delete/request/properties",
+  :block/created-at 1653902729428,
+  :block/updated-at 1653902729428}
+ {:block/name
+  "entitytypes/entity/operationdefs/delete/request/properties/identity",
+  :block/created-at 1653902729426,
+  :block/updated-at 1653902729426}
+ {:block/name
+  "entitytypes/entity/operationdefs/delete/request/properties/name",
+  :block/created-at 1653902729442,
+  :block/updated-at 1653902729442}
+ {:block/name
+  "entitytypes/entity/operationdefs/delete/request/properties/type",
+  :block/created-at 1653902729458,
+  :block/updated-at 1653902729458}
+ {:block/name "entitytypes/entity/operationdefs/read",
+  :block/created-at 1653902729473,
+  :block/updated-at 1653902729473}
+ {:block/name "entitytypes/entity/operationdefs/read/request",
+  :block/created-at 1653902729485,
+  :block/updated-at 1653902729485}
+ {:block/name
+  "entitytypes/entity/operationdefs/read/request/properties",
+  :block/created-at 1653902729486,
+  :block/updated-at 1653902729486}
+ {:block/name
+  "entitytypes/entity/operationdefs/read/request/properties/identity",
+  :block/created-at 1653902729483,
+  :block/updated-at 1653902729483}
+ {:block/name
+  "entitytypes/entity/operationdefs/read/request/properties/name",
+  :block/created-at 1653902729546,
+  :block/updated-at 1653902729546}
+ {:block/name
+  "entitytypes/entity/operationdefs/read/request/properties/type",
+  :block/created-at 1653902729561,
+  :block/updated-at 1653902729561}
+ {:block/name "entitytypes/entity/operationdefs/read/response",
+  :block/created-at 1653902729576,
+  :block/updated-at 1653902729576}
+ {:block/name "entitytypes/entity/operationdefs/read/response/body",
+  :block/created-at 1653902729574,
+  :block/updated-at 1653902729574}
+ {:block/name "entitytypes/entity/operationdefs/update",
+  :block/created-at 1653902729583,
+  :block/updated-at 1653902729583}
+ {:block/name "entitytypes/entity/operationdefs/update/request",
+  :block/created-at 1653902729593,
+  :block/updated-at 1653902729593}
+ {:block/name "entitytypes/entity/operationdefs/update/request/body",
+  :block/created-at 1653902729592,
+  :block/updated-at 1653902729592}
+ {:block/name
+  "entitytypes/entity/operationdefs/update/request/properties",
+  :block/created-at 1653902729607,
+  :block/updated-at 1653902729607}
+ {:block/name
+  "entitytypes/entity/operationdefs/update/request/properties/identity",
+  :block/created-at 1653902729603,
+  :block/updated-at 1653902729603}
+ {:block/name
+  "entitytypes/entity/operationdefs/update/request/properties/name",
+  :block/created-at 1653902729617,
+  :block/updated-at 1653902729617}
+ {:block/name
+  "entitytypes/entity/operationdefs/update/request/properties/type",
+  :block/created-at 1653902729629,
+  :block/updated-at 1653902729629}
+ {:block/name "entitytypes/entity/operationdefs/update/response",
+  :block/created-at 1653902729643,
+  :block/updated-at 1653902729643}
+ {:block/name "entitytypes/entity/operationdefs/update/response/body",
+  :block/created-at 1653902729641,
+  :block/updated-at 1653902729641}
+ {:block/name "entitytypes/httpconnector",
+  :block/created-at 1653902729686,
+  :block/updated-at 1653902729686}
+ {:block/name "entitytypes/httpconnector/attributes",
+  :block/created-at 1653902729687,
+  :block/updated-at 1653902729687}
+ {:block/name "entitytypes/httpconnector/attributes/address",
+  :block/created-at 1653902729685,
+  :block/updated-at 1653902729685}
+ {:block/name "entitytypes/httpconnector/attributes/aggregation",
+  :block/created-at 1653902729696,
+  :block/updated-at 1653902729696}
+ {:block/name "entitytypes/httpconnector/attributes/eventchannel",
+  :block/created-at 1653902729709,
+  :block/updated-at 1653902729709}
+ {:block/name "entitytypes/httpconnector/attributes/host",
+  :block/created-at 1653902729722,
+  :block/updated-at 1653902729722}
+ {:block/name "entitytypes/httpconnector/attributes/hostoverride",
+  :block/created-at 1653902729732,
+  :block/updated-at 1653902729732}
+ {:block/name "entitytypes/httpconnector/attributes/port",
+  :block/created-at 1653902729743,
+  :block/updated-at 1653902729743}
+ {:block/name "entitytypes/httpconnector/attributes/protocolversion",
+  :block/created-at 1653902729752,
+  :block/updated-at 1653902729752}
+ {:block/name "entitytypes/httpconnector/attributes/siteid",
+  :block/created-at 1653902729762,
+  :block/updated-at 1653902729762}
+ {:block/name "entitytypes/httpconnector/attributes/sslprofile",
+  :block/created-at 1653902729771,
+  :block/updated-at 1653902729771}
+ {:block/name "entitytypes/httpconnector/attributes/verifyhostname",
+  :block/created-at 1653902729781,
+  :block/updated-at 1653902729781}
+ {:block/name "entitytypes/httplistener",
+  :block/created-at 1653902729830,
+  :block/updated-at 1653902729830}
+ {:block/name "entitytypes/httplistener/attributes",
+  :block/created-at 1653902729831,
+  :block/updated-at 1653902729831}
+ {:block/name "entitytypes/httplistener/attributes/address",
+  :block/created-at 1653902729830,
+  :block/updated-at 1653902729830}
+ {:block/name "entitytypes/httplistener/attributes/aggregation",
+  :block/created-at 1653902729841,
+  :block/updated-at 1653902729841}
+ {:block/name "entitytypes/httplistener/attributes/authenticatepeer",
+  :block/created-at 1653902729850,
+  :block/updated-at 1653902729850}
+ {:block/name "entitytypes/httplistener/attributes/eventchannel",
+  :block/created-at 1653902729861,
+  :block/updated-at 1653902729861}
+ {:block/name "entitytypes/httplistener/attributes/host",
+  :block/created-at 1653902729871,
+  :block/updated-at 1653902729871}
+ {:block/name "entitytypes/httplistener/attributes/port",
+  :block/created-at 1653902729880,
+  :block/updated-at 1653902729880}
+ {:block/name "entitytypes/httplistener/attributes/protocolversion",
+  :block/created-at 1653902729890,
+  :block/updated-at 1653902729890}
+ {:block/name "entitytypes/httplistener/attributes/siteid",
+  :block/created-at 1653902729899,
+  :block/updated-at 1653902729899}
+ {:block/name "entitytypes/httplistener/attributes/sslprofile",
+  :block/created-at 1653902729908,
+  :block/updated-at 1653902729908}
+ {:block/name "entitytypes/httprequestinfo",
+  :block/created-at 1653902729963,
+  :block/updated-at 1653902729963}
+ {:block/name "entitytypes/httprequestinfo/attributes",
+  :block/created-at 1653902729963,
+  :block/updated-at 1653902729963}
+ {:block/name "entitytypes/httprequestinfo/attributes/address",
+  :block/created-at 1653902729962,
+  :block/updated-at 1653902729962}
+ {:block/name "entitytypes/httprequestinfo/attributes/bytesin",
+  :block/created-at 1653902729971,
+  :block/updated-at 1653902729971}
+ {:block/name "entitytypes/httprequestinfo/attributes/bytesout",
+  :block/created-at 1653902729980,
+  :block/updated-at 1653902729980}
+ {:block/name "entitytypes/httprequestinfo/attributes/details",
+  :block/created-at 1653902729991,
+  :block/updated-at 1653902729991}
+ {:block/name "entitytypes/httprequestinfo/attributes/direction",
+  :block/created-at 1653902729999,
+  :block/updated-at 1653902729999}
+ {:block/name "entitytypes/httprequestinfo/attributes/host",
+  :block/created-at 1653902730009,
+  :block/updated-at 1653902730009}
+ {:block/name "entitytypes/httprequestinfo/attributes/maxlatency",
+  :block/created-at 1653902730018,
+  :block/updated-at 1653902730018}
+ {:block/name "entitytypes/httprequestinfo/attributes/requests",
+  :block/created-at 1653902730030,
+  :block/updated-at 1653902730030}
+ {:block/name "entitytypes/httprequestinfo/attributes/site",
+  :block/created-at 1653902730039,
+  :block/updated-at 1653902730039}
+ {:block/name "entitytypes/listener",
+  :block/created-at 1653902730057,
+  :block/updated-at 1653902730057}
+ {:block/name "entitytypes/listener/attributes",
+  :block/created-at 1653902730058,
+  :block/updated-at 1653902730058}
+ {:block/name "entitytypes/listener/attributes/authenticatepeer",
+  :block/created-at 1653902730057,
+  :block/updated-at 1653902730057}
+ {:block/name "entitytypes/listener/attributes/cost",
+  :block/created-at 1653902730099,
+  :block/updated-at 1653902730099}
+ {:block/name "entitytypes/listener/attributes/failoverurls",
+  :block/created-at 1653902730110,
+  :block/updated-at 1653902730110}
+ {:block/name "entitytypes/listener/attributes/healthz",
+  :block/created-at 1653902730119,
+  :block/updated-at 1653902730119}
+ {:block/name "entitytypes/listener/attributes/host",
+  :block/created-at 1653902730131,
+  :block/updated-at 1653902730131}
+ {:block/name "entitytypes/listener/attributes/http",
+  :block/created-at 1653902730140,
+  :block/updated-at 1653902730140}
+ {:block/name "entitytypes/listener/attributes/httprootdir",
+  :block/created-at 1653902730150,
+  :block/updated-at 1653902730150}
+ {:block/name "entitytypes/listener/attributes/idletimeoutseconds",
+  :block/created-at 1653902730160,
+  :block/updated-at 1653902730160}
+ {:block/name
+  "entitytypes/listener/attributes/initialhandshaketimeoutseconds",
+  :block/created-at 1653902730172,
+  :block/updated-at 1653902730172}
+ {:block/name "entitytypes/listener/attributes/linkcapacity",
+  :block/created-at 1653902730182,
+  :block/updated-at 1653902730182}
+ {:block/name "entitytypes/listener/attributes/maxframesize",
+  :block/created-at 1653902730196,
+  :block/updated-at 1653902730196}
+ {:block/name "entitytypes/listener/attributes/maxsessionframes",
+  :block/created-at 1653902730244,
+  :block/updated-at 1653902730244}
+ {:block/name "entitytypes/listener/attributes/maxsessions",
+  :block/created-at 1653902730256,
+  :block/updated-at 1653902730256}
+ {:block/name
+  "entitytypes/listener/attributes/messageloggingcomponents",
+  :block/created-at 1653902730269,
+  :block/updated-at 1653902730269}
+ {:block/name "entitytypes/listener/attributes/metrics",
+  :block/created-at 1653902730280,
+  :block/updated-at 1653902730280}
+ {:block/name "entitytypes/listener/attributes/openproperties",
+  :block/created-at 1653902730312,
+  :block/updated-at 1653902730312}
+ {:block/name "entitytypes/listener/attributes/policyvhost",
+  :block/created-at 1653902730324,
+  :block/updated-at 1653902730324}
+ {:block/name "entitytypes/listener/attributes/port",
+  :block/created-at 1653902730337,
+  :block/updated-at 1653902730337}
+ {:block/name "entitytypes/listener/attributes/requireencryption",
+  :block/created-at 1653902730394,
+  :block/updated-at 1653902730394}
+ {:block/name "entitytypes/listener/attributes/requiressl",
+  :block/created-at 1653902730403,
+  :block/updated-at 1653902730403}
+ {:block/name "entitytypes/listener/attributes/role",
+  :block/created-at 1653902730414,
+  :block/updated-at 1653902730414}
+ {:block/name "entitytypes/listener/attributes/saslmechanisms",
+  :block/created-at 1653902730423,
+  :block/updated-at 1653902730423}
+ {:block/name "entitytypes/listener/attributes/socketaddressfamily",
+  :block/created-at 1653902730437,
+  :block/updated-at 1653902730437}
+ {:block/name "entitytypes/listener/attributes/sslprofile",
+  :block/created-at 1653902730447,
+  :block/updated-at 1653902730447}
+ {:block/name "entitytypes/listener/attributes/stripannotations",
+  :block/created-at 1653902730459,
+  :block/updated-at 1653902730459}
+ {:block/name "entitytypes/listener/attributes/websockets",
+  :block/created-at 1653902730467,
+  :block/updated-at 1653902730467}
+ {:block/name "entitytypes/log",
+  :block/created-at 1653902730487,
+  :block/updated-at 1653902730487}
+ {:block/name "entitytypes/log/attributes",
+  :block/created-at 1653902730487,
+  :block/updated-at 1653902730487}
+ {:block/name "entitytypes/log/attributes/enable",
+  :block/created-at 1653902730486,
+  :block/updated-at 1653902730486}
+ {:block/name "entitytypes/log/attributes/includesource",
+  :block/created-at 1653902730532,
+  :block/updated-at 1653902730532}
+ {:block/name "entitytypes/log/attributes/includetimestamp",
+  :block/created-at 1653902730546,
+  :block/updated-at 1653902730546}
+ {:block/name "entitytypes/log/attributes/module",
+  :block/created-at 1653902730556,
+  :block/updated-at 1653902730556}
+ {:block/name "entitytypes/log/attributes/outputfile",
+  :block/created-at 1653902730565,
+  :block/updated-at 1653902730565}
+ {:block/name "entitytypes/logstats",
+  :block/created-at 1653902730585,
+  :block/updated-at 1653902730585}
+ {:block/name "entitytypes/logstats/attributes",
+  :block/created-at 1653902730585,
+  :block/updated-at 1653902730585}
+ {:block/name "entitytypes/logstats/attributes/criticalcount",
+  :block/created-at 1653902730584,
+  :block/updated-at 1653902730584}
+ {:block/name "entitytypes/logstats/attributes/debugcount",
+  :block/created-at 1653902730594,
+  :block/updated-at 1653902730594}
+ {:block/name "entitytypes/logstats/attributes/errorcount",
+  :block/created-at 1653902730602,
+  :block/updated-at 1653902730602}
+ {:block/name "entitytypes/logstats/attributes/infocount",
+  :block/created-at 1653902730613,
+  :block/updated-at 1653902730613}
+ {:block/name "entitytypes/logstats/attributes/noticecount",
+  :block/created-at 1653902730621,
+  :block/updated-at 1653902730621}
+ {:block/name "entitytypes/logstats/attributes/tracecount",
+  :block/created-at 1653902730663,
+  :block/updated-at 1653902730663}
+ {:block/name "entitytypes/logstats/attributes/warningcount",
+  :block/created-at 1653902730674,
+  :block/updated-at 1653902730674}
+ {:block/name "entitytypes/management",
+  :block/created-at 1653902730700,
+  :block/updated-at 1653902730700}
+ {:block/name "entitytypes/management/operationdefs",
+  :block/created-at 1653902730711,
+  :block/updated-at 1653902730711}
+ {:block/name "entitytypes/management/operationdefs/get-log",
+  :block/created-at 1653902730710,
+  :block/updated-at 1653902730710}
+ {:block/name "entitytypes/management/operationdefs/get-log/request",
+  :block/created-at 1653902730721,
+  :block/updated-at 1653902730721}
+ {:block/name
+  "entitytypes/management/operationdefs/get-log/request/properties",
+  :block/created-at 1653902730722,
+  :block/updated-at 1653902730722}
+ {:block/name
+  "entitytypes/management/operationdefs/get-log/request/properties/identity",
+  :block/created-at 1653902730719,
+  :block/updated-at 1653902730719}
+ {:block/name
+  "entitytypes/management/operationdefs/get-log/request/properties/limit",
+  :block/created-at 1653902730732,
+  :block/updated-at 1653902730732}
+ {:block/name "entitytypes/management/operationdefs/get-log/response",
+  :block/created-at 1653902730745,
+  :block/updated-at 1653902730745}
+ {:block/name
+  "entitytypes/management/operationdefs/get-log/response/body",
+  :block/created-at 1653902730743,
+  :block/updated-at 1653902730743}
+ {:block/name "entitytypes/management/operationdefs/get-schema",
+  :block/created-at 1653902730831,
+  :block/updated-at 1653902730831}
+ {:block/name "entitytypes/management/operationdefs/get-schema-json",
+  :block/created-at 1653902730752,
+  :block/updated-at 1653902730752}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/request",
+  :block/created-at 1653902730763,
+  :block/updated-at 1653902730763}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/request/properties",
+  :block/created-at 1653902730764,
+  :block/updated-at 1653902730764}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/request/properties/identity",
+  :block/created-at 1653902730761,
+  :block/updated-at 1653902730761}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/request/properties/indent",
+  :block/created-at 1653902730806,
+  :block/updated-at 1653902730806}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/response",
+  :block/created-at 1653902730822,
+  :block/updated-at 1653902730822}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema-json/response/body",
+  :block/created-at 1653902730820,
+  :block/updated-at 1653902730820}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema/request",
+  :block/created-at 1653902730842,
+  :block/updated-at 1653902730842}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema/request/properties",
+  :block/created-at 1653902730843,
+  :block/updated-at 1653902730843}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema/request/properties/identity",
+  :block/created-at 1653902730840,
+  :block/updated-at 1653902730840}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema/response",
+  :block/created-at 1653902730857,
+  :block/updated-at 1653902730857}
+ {:block/name
+  "entitytypes/management/operationdefs/get-schema/response/body",
+  :block/created-at 1653902730855,
+  :block/updated-at 1653902730855}
+ {:block/name "entitytypes/operationalentity",
+  :block/created-at 1653902730870,
+  :block/updated-at 1653902730870}
+ {:block/name "entitytypes/org",
+  :block/created-at 1653902730880,
+  :block/updated-at 1653902730880}
+ {:block/name "entitytypes/org/amqp",
+  :block/created-at 1653902730881,
+  :block/updated-at 1653902730881}
+ {:block/name "entitytypes/org/amqp/management",
+  :block/created-at 1653902730879,
+  :block/updated-at 1653902730879}
+ {:block/name "entitytypes/org/amqp/management/operationdefs",
+  :block/created-at 1653902730893,
+  :block/updated-at 1653902730893}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations",
+  :block/created-at 1653902730893,
+  :block/updated-at 1653902730893}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/request",
+  :block/created-at 1653902730894,
+  :block/updated-at 1653902730894}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/request/properties",
+  :block/created-at 1653902730894,
+  :block/updated-at 1653902730894}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/request/properties/entitytype",
+  :block/created-at 1653902730891,
+  :block/updated-at 1653902730891}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/request/properties/identity",
+  :block/created-at 1653902730906,
+  :block/updated-at 1653902730906}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/response",
+  :block/created-at 1653902730962,
+  :block/updated-at 1653902730962}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-annotations/response/body",
+  :block/created-at 1653902730959,
+  :block/updated-at 1653902730959}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes",
+  :block/created-at 1653902730973,
+  :block/updated-at 1653902730973}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/request",
+  :block/created-at 1653902730985,
+  :block/updated-at 1653902730985}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/request/properties",
+  :block/created-at 1653902730985,
+  :block/updated-at 1653902730985}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/request/properties/entitytype",
+  :block/created-at 1653902730983,
+  :block/updated-at 1653902730983}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/request/properties/identity",
+  :block/created-at 1653902730996,
+  :block/updated-at 1653902730996}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/response",
+  :block/created-at 1653902731012,
+  :block/updated-at 1653902731012}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-attributes/response/body",
+  :block/created-at 1653902731008,
+  :block/updated-at 1653902731008}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes",
+  :block/created-at 1653902731021,
+  :block/updated-at 1653902731021}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes/request",
+  :block/created-at 1653902731033,
+  :block/updated-at 1653902731033}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes/request/properties",
+  :block/created-at 1653902731034,
+  :block/updated-at 1653902731034}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes/request/properties/identity",
+  :block/created-at 1653902731031,
+  :block/updated-at 1653902731031}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes/response",
+  :block/created-at 1653902731046,
+  :block/updated-at 1653902731046}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-mgmt-nodes/response/body",
+  :block/created-at 1653902731043,
+  :block/updated-at 1653902731043}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations",
+  :block/created-at 1653902731056,
+  :block/updated-at 1653902731056}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/request",
+  :block/created-at 1653902731100,
+  :block/updated-at 1653902731100}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/request/properties",
+  :block/created-at 1653902731101,
+  :block/updated-at 1653902731101}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/request/properties/entitytype",
+  :block/created-at 1653902731098,
+  :block/updated-at 1653902731098}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/request/properties/identity",
+  :block/created-at 1653902731111,
+  :block/updated-at 1653902731111}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/response",
+  :block/created-at 1653902731125,
+  :block/updated-at 1653902731125}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-operations/response/body",
+  :block/created-at 1653902731123,
+  :block/updated-at 1653902731123}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types",
+  :block/created-at 1653902731135,
+  :block/updated-at 1653902731135}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/request",
+  :block/created-at 1653902731148,
+  :block/updated-at 1653902731148}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/request/properties",
+  :block/created-at 1653902731148,
+  :block/updated-at 1653902731148}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/request/properties/entitytype",
+  :block/created-at 1653902731145,
+  :block/updated-at 1653902731145}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/request/properties/identity",
+  :block/created-at 1653902731158,
+  :block/updated-at 1653902731158}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/response",
+  :block/created-at 1653902731174,
+  :block/updated-at 1653902731174}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/get-types/response/body",
+  :block/created-at 1653902731171,
+  :block/updated-at 1653902731171}
+ {:block/name "entitytypes/org/amqp/management/operationdefs/query",
+  :block/created-at 1653902731185,
+  :block/updated-at 1653902731185}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request",
+  :block/created-at 1653902731198,
+  :block/updated-at 1653902731198}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/body",
+  :block/created-at 1653902731196,
+  :block/updated-at 1653902731196}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/properties",
+  :block/created-at 1653902731241,
+  :block/updated-at 1653902731241}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/properties/count",
+  :block/created-at 1653902731238,
+  :block/updated-at 1653902731238}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/properties/entitytype",
+  :block/created-at 1653902731251,
+  :block/updated-at 1653902731251}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/properties/identity",
+  :block/created-at 1653902731267,
+  :block/updated-at 1653902731267}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/request/properties/offset",
+  :block/created-at 1653902731286,
+  :block/updated-at 1653902731286}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/response",
+  :block/created-at 1653902731311,
+  :block/updated-at 1653902731311}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/response/body",
+  :block/created-at 1653902731306,
+  :block/updated-at 1653902731306}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/response/properties",
+  :block/created-at 1653902731332,
+  :block/updated-at 1653902731332}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/response/properties/count",
+  :block/created-at 1653902731325,
+  :block/updated-at 1653902731325}
+ {:block/name
+  "entitytypes/org/amqp/management/operationdefs/query/response/properties/identity",
+  :block/created-at 1653902731371,
+  :block/updated-at 1653902731371}
+ {:block/name "entitytypes/policy",
+  :block/created-at 1653902731387,
+  :block/updated-at 1653902731387}
+ {:block/name "entitytypes/policy/attributes",
+  :block/created-at 1653902731387,
+  :block/updated-at 1653902731387}
+ {:block/name "entitytypes/policy/attributes/defaultvhost",
+  :block/created-at 1653902731386,
+  :block/updated-at 1653902731386}
+ {:block/name "entitytypes/policy/attributes/enablevhostnamepatterns",
+  :block/created-at 1653902731395,
+  :block/updated-at 1653902731395}
+ {:block/name "entitytypes/policy/attributes/enablevhostpolicy",
+  :block/created-at 1653902731403,
+  :block/updated-at 1653902731403}
+ {:block/name "entitytypes/policy/attributes/linksdenied",
+  :block/created-at 1653902731413,
+  :block/updated-at 1653902731413}
+ {:block/name "entitytypes/policy/attributes/maxconnections",
+  :block/created-at 1653902731423,
+  :block/updated-at 1653902731423}
+ {:block/name "entitytypes/policy/attributes/maxmessagesize",
+  :block/created-at 1653902731439,
+  :block/updated-at 1653902731439}
+ {:block/name "entitytypes/policy/attributes/policydir",
+  :block/created-at 1653902731449,
+  :block/updated-at 1653902731449}
+ {:block/name "entitytypes/policy/attributes/totaldenials",
+  :block/created-at 1653902731459,
+  :block/updated-at 1653902731459}
+ {:block/name "entitytypes/router",
+  :block/created-at 1653902731514,
+  :block/updated-at 1653902731514}
+ {:block/name "entitytypes/router/address",
+  :block/created-at 1653902731514,
+  :block/updated-at 1653902731514}
+ {:block/name "entitytypes/router/address/attributes",
+  :block/created-at 1653902731514,
+  :block/updated-at 1653902731514}
+ {:block/name "entitytypes/router/address/attributes/containercount",
+  :block/created-at 1653902731513,
+  :block/updated-at 1653902731513}
+ {:block/name "entitytypes/router/address/attributes/deliveriesegress",
+  :block/created-at 1653902731522,
+  :block/updated-at 1653902731522}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriesegressroutecontainer",
+  :block/created-at 1653902731531,
+  :block/updated-at 1653902731531}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriesfromcontainer",
+  :block/created-at 1653902731541,
+  :block/updated-at 1653902731541}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriesingress",
+  :block/created-at 1653902731551,
+  :block/updated-at 1653902731551}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriesingressroutecontainer",
+  :block/created-at 1653902731561,
+  :block/updated-at 1653902731561}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriestocontainer",
+  :block/created-at 1653902731570,
+  :block/updated-at 1653902731570}
+ {:block/name
+  "entitytypes/router/address/attributes/deliveriestransit",
+  :block/created-at 1653902731582,
+  :block/updated-at 1653902731582}
+ {:block/name "entitytypes/router/address/attributes/distribution",
+  :block/created-at 1653902731594,
+  :block/updated-at 1653902731594}
+ {:block/name "entitytypes/router/address/attributes/inprocess",
+  :block/created-at 1653902731602,
+  :block/updated-at 1653902731602}
+ {:block/name "entitytypes/router/address/attributes/key",
+  :block/created-at 1653902731650,
+  :block/updated-at 1653902731650}
+ {:block/name "entitytypes/router/address/attributes/priority",
+  :block/created-at 1653902731660,
+  :block/updated-at 1653902731660}
+ {:block/name "entitytypes/router/address/attributes/remotecount",
+  :block/created-at 1653902731670,
+  :block/updated-at 1653902731670}
+ {:block/name
+  "entitytypes/router/address/attributes/remotehostrouters",
+  :block/created-at 1653902731680,
+  :block/updated-at 1653902731680}
+ {:block/name "entitytypes/router/address/attributes/subscribercount",
+  :block/created-at 1653902731692,
+  :block/updated-at 1653902731692}
+ {:block/name
+  "entitytypes/router/address/attributes/trackeddeliveries",
+  :block/created-at 1653902731701,
+  :block/updated-at 1653902731701}
+ {:block/name
+  "entitytypes/router/address/attributes/transitoutstanding",
+  :block/created-at 1653902731713,
+  :block/updated-at 1653902731713}
+ {:block/name "entitytypes/router/address/attributes/watch",
+  :block/created-at 1653902731722,
+  :block/updated-at 1653902731722}
+ {:block/name "entitytypes/router/attributes",
+  :block/created-at 1653902731740,
+  :block/updated-at 1653902731740}
+ {:block/name "entitytypes/router/attributes/accepteddeliveries",
+  :block/created-at 1653902731739,
+  :block/updated-at 1653902731739}
+ {:block/name "entitytypes/router/attributes/addrcount",
+  :block/created-at 1653902731748,
+  :block/updated-at 1653902731748}
+ {:block/name "entitytypes/router/attributes/area",
+  :block/created-at 1653902731790,
+  :block/updated-at 1653902731790}
+ {:block/name "entitytypes/router/attributes/autolinkcount",
+  :block/created-at 1653902731799,
+  :block/updated-at 1653902731799}
+ {:block/name "entitytypes/router/attributes/blockedlinkcount",
+  :block/created-at 1653902731807,
+  :block/updated-at 1653902731807}
+ {:block/name "entitytypes/router/attributes/connectioncount",
+  :block/created-at 1653902731817,
+  :block/updated-at 1653902731817}
+ {:block/name "entitytypes/router/attributes/debugdumpfile",
+  :block/created-at 1653902731828,
+  :block/updated-at 1653902731828}
+ {:block/name "entitytypes/router/attributes/defaultdistribution",
+  :block/created-at 1653902731837,
+  :block/updated-at 1653902731837}
+ {:block/name "entitytypes/router/attributes/deliveriesdelayed10sec",
+  :block/created-at 1653902731846,
+  :block/updated-at 1653902731846}
+ {:block/name "entitytypes/router/attributes/deliveriesdelayed1sec",
+  :block/created-at 1653902731856,
+  :block/updated-at 1653902731856}
+ {:block/name "entitytypes/router/attributes/deliveriesegress",
+  :block/created-at 1653902731864,
+  :block/updated-at 1653902731864}
+ {:block/name
+  "entitytypes/router/attributes/deliveriesegressroutecontainer",
+  :block/created-at 1653902731875,
+  :block/updated-at 1653902731875}
+ {:block/name "entitytypes/router/attributes/deliveriesingress",
+  :block/created-at 1653902731885,
+  :block/updated-at 1653902731885}
+ {:block/name
+  "entitytypes/router/attributes/deliveriesingressroutecontainer",
+  :block/created-at 1653902731923,
+  :block/updated-at 1653902731923}
+ {:block/name "entitytypes/router/attributes/deliveriesstuck",
+  :block/created-at 1653902731933,
+  :block/updated-at 1653902731933}
+ {:block/name "entitytypes/router/attributes/deliveriestransit",
+  :block/created-at 1653902731943,
+  :block/updated-at 1653902731943}
+ {:block/name
+  "entitytypes/router/attributes/droppedpresettleddeliveries",
+  :block/created-at 1653902731951,
+  :block/updated-at 1653902731951}
+ {:block/name "entitytypes/router/attributes/hellointervalseconds",
+  :block/created-at 1653902731960,
+  :block/updated-at 1653902731960}
+ {:block/name "entitytypes/router/attributes/hellomaxageseconds",
+  :block/created-at 1653902731967,
+  :block/updated-at 1653902731967}
+ {:block/name "entitytypes/router/attributes/hostname",
+  :block/created-at 1653902731976,
+  :block/updated-at 1653902731976}
+ {:block/name "entitytypes/router/attributes/id",
+  :block/created-at 1653902731987,
+  :block/updated-at 1653902731987}
+ {:block/name "entitytypes/router/attributes/linkcount",
+  :block/created-at 1653902731996,
+  :block/updated-at 1653902731996}
+ {:block/name "entitytypes/router/attributes/memoryusage",
+  :block/created-at 1653902732006,
+  :block/updated-at 1653902732006}
+ {:block/name "entitytypes/router/attributes/metadata",
+  :block/created-at 1653902732015,
+  :block/updated-at 1653902732015}
+ {:block/name "entitytypes/router/attributes/mode",
+  :block/created-at 1653902732057,
+  :block/updated-at 1653902732057}
+ {:block/name "entitytypes/router/attributes/modifieddeliveries",
+  :block/created-at 1653902732067,
+  :block/updated-at 1653902732067}
+ {:block/name "entitytypes/router/attributes/nodecount",
+  :block/created-at 1653902732076,
+  :block/updated-at 1653902732076}
+ {:block/name "entitytypes/router/attributes/plogrouterid",
+  :block/created-at 1653902732085,
+  :block/updated-at 1653902732085}
+ {:block/name "entitytypes/router/attributes/plogsiteid",
+  :block/created-at 1653902732095,
+  :block/updated-at 1653902732095}
+ {:block/name "entitytypes/router/attributes/presettleddeliveries",
+  :block/created-at 1653902732103,
+  :block/updated-at 1653902732103}
+ {:block/name "entitytypes/router/attributes/raintervalfluxseconds",
+  :block/created-at 1653902732113,
+  :block/updated-at 1653902732113}
+ {:block/name "entitytypes/router/attributes/raintervalseconds",
+  :block/created-at 1653902732121,
+  :block/updated-at 1653902732121}
+ {:block/name "entitytypes/router/attributes/rejecteddeliveries",
+  :block/created-at 1653902732131,
+  :block/updated-at 1653902732131}
+ {:block/name "entitytypes/router/attributes/releaseddeliveries",
+  :block/created-at 1653902732139,
+  :block/updated-at 1653902732139}
+ {:block/name "entitytypes/router/attributes/remotelsmaxageseconds",
+  :block/created-at 1653902732149,
+  :block/updated-at 1653902732149}
+ {:block/name "entitytypes/router/attributes/saslconfigdir",
+  :block/created-at 1653902732189,
+  :block/updated-at 1653902732189}
+ {:block/name "entitytypes/router/attributes/saslconfigname",
+  :block/created-at 1653902732200,
+  :block/updated-at 1653902732200}
+ {:block/name "entitytypes/router/attributes/tcpconnectioncount",
+  :block/created-at 1653902732213,
+  :block/updated-at 1653902732213}
+ {:block/name "entitytypes/router/attributes/timestampformat",
+  :block/created-at 1653902732221,
+  :block/updated-at 1653902732221}
+ {:block/name "entitytypes/router/attributes/timestampsinutc",
+  :block/created-at 1653902732230,
+  :block/updated-at 1653902732230}
+ {:block/name "entitytypes/router/attributes/uptimeseconds",
+  :block/created-at 1653902732241,
+  :block/updated-at 1653902732241}
+ {:block/name "entitytypes/router/attributes/version",
+  :block/created-at 1653902732249,
+  :block/updated-at 1653902732249}
+ {:block/name "entitytypes/router/attributes/workerthreads",
+  :block/created-at 1653902732260,
+  :block/updated-at 1653902732260}
+ {:block/name "entitytypes/router/config",
+  :block/created-at 1653902732270,
+  :block/updated-at 1653902732270}
+ {:block/name "entitytypes/router/config/address",
+  :block/created-at 1653902732270,
+  :block/updated-at 1653902732270}
+ {:block/name "entitytypes/router/config/address/attributes",
+  :block/created-at 1653902732270,
+  :block/updated-at 1653902732270}
+ {:block/name
+  "entitytypes/router/config/address/attributes/distribution",
+  :block/created-at 1653902732268,
+  :block/updated-at 1653902732268}
+ {:block/name "entitytypes/router/config/address/attributes/pattern",
+  :block/created-at 1653902732282,
+  :block/updated-at 1653902732282}
+ {:block/name "entitytypes/router/config/address/attributes/prefix",
+  :block/created-at 1653902732325,
+  :block/updated-at 1653902732325}
+ {:block/name "entitytypes/router/config/address/attributes/priority",
+  :block/created-at 1653902732337,
+  :block/updated-at 1653902732337}
+ {:block/name "entitytypes/router/config/autolink",
+  :block/created-at 1653902732358,
+  :block/updated-at 1653902732358}
+ {:block/name "entitytypes/router/config/autolink/attributes",
+  :block/created-at 1653902732358,
+  :block/updated-at 1653902732358}
+ {:block/name "entitytypes/router/config/autolink/attributes/address",
+  :block/created-at 1653902732356,
+  :block/updated-at 1653902732356}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/connection",
+  :block/created-at 1653902732368,
+  :block/updated-at 1653902732368}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/containerid",
+  :block/created-at 1653902732379,
+  :block/updated-at 1653902732379}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/direction",
+  :block/created-at 1653902732391,
+  :block/updated-at 1653902732391}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/externaladdress",
+  :block/created-at 1653902732403,
+  :block/updated-at 1653902732403}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/lasterror",
+  :block/created-at 1653902732415,
+  :block/updated-at 1653902732415}
+ {:block/name "entitytypes/router/config/autolink/attributes/linkref",
+  :block/created-at 1653902732455,
+  :block/updated-at 1653902732455}
+ {:block/name
+  "entitytypes/router/config/autolink/attributes/operstatus",
+  :block/created-at 1653902732467,
+  :block/updated-at 1653902732467}
+ {:block/name "entitytypes/router/link",
+  :block/created-at 1653902732488,
+  :block/updated-at 1653902732488}
+ {:block/name "entitytypes/router/link/attributes",
+  :block/created-at 1653902732488,
+  :block/updated-at 1653902732488}
+ {:block/name "entitytypes/router/link/attributes/acceptedcount",
+  :block/created-at 1653902732486,
+  :block/updated-at 1653902732486}
+ {:block/name "entitytypes/router/link/attributes/capacity",
+  :block/created-at 1653902732500,
+  :block/updated-at 1653902732500}
+ {:block/name "entitytypes/router/link/attributes/creditavailable",
+  :block/created-at 1653902732509,
+  :block/updated-at 1653902732509}
+ {:block/name
+  "entitytypes/router/link/attributes/deliveriesdelayed10sec",
+  :block/created-at 1653902732518,
+  :block/updated-at 1653902732518}
+ {:block/name
+  "entitytypes/router/link/attributes/deliveriesdelayed1sec",
+  :block/created-at 1653902732527,
+  :block/updated-at 1653902732527}
+ {:block/name "entitytypes/router/link/attributes/deliveriesstuck",
+  :block/created-at 1653902732537,
+  :block/updated-at 1653902732537}
+ {:block/name "entitytypes/router/link/attributes/deliverycount",
+  :block/created-at 1653902732550,
+  :block/updated-at 1653902732550}
+ {:block/name
+  "entitytypes/router/link/attributes/droppedpresettledcount",
+  :block/created-at 1653902732586,
+  :block/updated-at 1653902732586}
+ {:block/name "entitytypes/router/link/attributes/ingresshistogram",
+  :block/created-at 1653902732597,
+  :block/updated-at 1653902732597}
+ {:block/name "entitytypes/router/link/attributes/linkdir",
+  :block/created-at 1653902732606,
+  :block/updated-at 1653902732606}
+ {:block/name "entitytypes/router/link/attributes/linkname",
+  :block/created-at 1653902732615,
+  :block/updated-at 1653902732615}
+ {:block/name "entitytypes/router/link/attributes/linktype",
+  :block/created-at 1653902732625,
+  :block/updated-at 1653902732625}
+ {:block/name "entitytypes/router/link/attributes/modifiedcount",
+  :block/created-at 1653902732634,
+  :block/updated-at 1653902732634}
+ {:block/name "entitytypes/router/link/attributes/owningaddr",
+  :block/created-at 1653902732644,
+  :block/updated-at 1653902732644}
+ {:block/name "entitytypes/router/link/attributes/peer",
+  :block/created-at 1653902732654,
+  :block/updated-at 1653902732654}
+ {:block/name "entitytypes/router/link/attributes/presettledcount",
+  :block/created-at 1653902732665,
+  :block/updated-at 1653902732665}
+ {:block/name "entitytypes/router/link/attributes/priority",
+  :block/created-at 1653902732674,
+  :block/updated-at 1653902732674}
+ {:block/name "entitytypes/router/link/attributes/rejectedcount",
+  :block/created-at 1653902732684,
+  :block/updated-at 1653902732684}
+ {:block/name "entitytypes/router/link/attributes/releasedcount",
+  :block/created-at 1653902732724,
+  :block/updated-at 1653902732724}
+ {:block/name "entitytypes/router/link/attributes/settlerate",
+  :block/created-at 1653902732735,
+  :block/updated-at 1653902732735}
+ {:block/name "entitytypes/router/link/attributes/undeliveredcount",
+  :block/created-at 1653902732745,
+  :block/updated-at 1653902732745}
+ {:block/name "entitytypes/router/link/attributes/unsettledcount",
+  :block/created-at 1653902732755,
+  :block/updated-at 1653902732755}
+ {:block/name "entitytypes/router/link/attributes/zerocreditseconds",
+  :block/created-at 1653902732767,
+  :block/updated-at 1653902732767}
+ {:block/name "entitytypes/router/node",
+  :block/created-at 1653902732798,
+  :block/updated-at 1653902732798}
+ {:block/name "entitytypes/router/node/attributes",
+  :block/created-at 1653902732799,
+  :block/updated-at 1653902732799}
+ {:block/name "entitytypes/router/node/attributes/address",
+  :block/created-at 1653902732797,
+  :block/updated-at 1653902732797}
+ {:block/name "entitytypes/router/node/attributes/cost",
+  :block/created-at 1653902732806,
+  :block/updated-at 1653902732806}
+ {:block/name "entitytypes/router/node/attributes/id",
+  :block/created-at 1653902732816,
+  :block/updated-at 1653902732816}
+ {:block/name "entitytypes/router/node/attributes/index",
+  :block/created-at 1653902732852,
+  :block/updated-at 1653902732852}
+ {:block/name "entitytypes/router/node/attributes/instance",
+  :block/created-at 1653902732863,
+  :block/updated-at 1653902732863}
+ {:block/name "entitytypes/router/node/attributes/lasttopochange",
+  :block/created-at 1653902732872,
+  :block/updated-at 1653902732872}
+ {:block/name "entitytypes/router/node/attributes/linkstate",
+  :block/created-at 1653902732882,
+  :block/updated-at 1653902732882}
+ {:block/name "entitytypes/router/node/attributes/nexthop",
+  :block/created-at 1653902732890,
+  :block/updated-at 1653902732890}
+ {:block/name "entitytypes/router/node/attributes/protocolversion",
+  :block/created-at 1653902732900,
+  :block/updated-at 1653902732900}
+ {:block/name "entitytypes/router/node/attributes/routerlink",
+  :block/created-at 1653902732909,
+  :block/updated-at 1653902732909}
+ {:block/name "entitytypes/router/node/attributes/validorigins",
+  :block/created-at 1653902732919,
+  :block/updated-at 1653902732919}
+ {:block/name "entitytypes/sslprofile",
+  :block/created-at 1653902732939,
+  :block/updated-at 1653902732939}
+ {:block/name "entitytypes/sslprofile/attributes",
+  :block/created-at 1653902732939,
+  :block/updated-at 1653902732939}
+ {:block/name "entitytypes/sslprofile/attributes/cacertfile",
+  :block/created-at 1653902732938,
+  :block/updated-at 1653902732938}
+ {:block/name "entitytypes/sslprofile/attributes/certfile",
+  :block/created-at 1653902732947,
+  :block/updated-at 1653902732947}
+ {:block/name "entitytypes/sslprofile/attributes/ciphers",
+  :block/created-at 1653902732988,
+  :block/updated-at 1653902732988}
+ {:block/name "entitytypes/sslprofile/attributes/password",
+  :block/created-at 1653902733001,
+  :block/updated-at 1653902733001}
+ {:block/name "entitytypes/sslprofile/attributes/privatekeyfile",
+  :block/created-at 1653902733010,
+  :block/updated-at 1653902733010}
+ {:block/name "entitytypes/sslprofile/attributes/protocols",
+  :block/created-at 1653902733020,
+  :block/updated-at 1653902733020}
+ {:block/name "entitytypes/sslprofile/attributes/uidformat",
+  :block/created-at 1653902733034,
+  :block/updated-at 1653902733034}
+ {:block/name "entitytypes/sslprofile/attributes/uidnamemappingfile",
+  :block/created-at 1653902733044,
+  :block/updated-at 1653902733044}
+ {:block/name "entitytypes/tcpconnection",
+  :block/created-at 1653902733060,
+  :block/updated-at 1653902733060}
+ {:block/name "entitytypes/tcpconnection/attributes",
+  :block/created-at 1653902733061,
+  :block/updated-at 1653902733061}
+ {:block/name "entitytypes/tcpconnection/attributes/address",
+  :block/created-at 1653902733060,
+  :block/updated-at 1653902733060}
+ {:block/name "entitytypes/tcpconnection/attributes/bytesin",
+  :block/created-at 1653902733068,
+  :block/updated-at 1653902733068}
+ {:block/name "entitytypes/tcpconnection/attributes/bytesout",
+  :block/created-at 1653902733078,
+  :block/updated-at 1653902733078}
+ {:block/name "entitytypes/tcpconnection/attributes/direction",
+  :block/created-at 1653902733118,
+  :block/updated-at 1653902733118}
+ {:block/name "entitytypes/tcpconnection/attributes/host",
+  :block/created-at 1653902733129,
+  :block/updated-at 1653902733129}
+ {:block/name "entitytypes/tcpconnection/attributes/lastinseconds",
+  :block/created-at 1653902733138,
+  :block/updated-at 1653902733138}
+ {:block/name "entitytypes/tcpconnection/attributes/lastoutseconds",
+  :block/created-at 1653902733149,
+  :block/updated-at 1653902733149}
+ {:block/name "entitytypes/tcpconnection/attributes/uptimeseconds",
+  :block/created-at 1653902733160,
+  :block/updated-at 1653902733160}
+ {:block/name "entitytypes/tcpconnector",
+  :block/created-at 1653902733177,
+  :block/updated-at 1653902733177}
+ {:block/name "entitytypes/tcpconnector/attributes",
+  :block/created-at 1653902733177,
+  :block/updated-at 1653902733177}
+ {:block/name "entitytypes/tcpconnector/attributes/address",
+  :block/created-at 1653902733176,
+  :block/updated-at 1653902733176}
+ {:block/name "entitytypes/tcpconnector/attributes/bytesin",
+  :block/created-at 1653902733185,
+  :block/updated-at 1653902733185}
+ {:block/name "entitytypes/tcpconnector/attributes/bytesout",
+  :block/created-at 1653902733196,
+  :block/updated-at 1653902733196}
+ {:block/name "entitytypes/tcpconnector/attributes/connectionsclosed",
+  :block/created-at 1653902733206,
+  :block/updated-at 1653902733206}
+ {:block/name "entitytypes/tcpconnector/attributes/connectionsopened",
+  :block/created-at 1653902733215,
+  :block/updated-at 1653902733215}
+ {:block/name "entitytypes/tcpconnector/attributes/host",
+  :block/created-at 1653902733254,
+  :block/updated-at 1653902733254}
+ {:block/name "entitytypes/tcpconnector/attributes/port",
+  :block/created-at 1653902733266,
+  :block/updated-at 1653902733266}
+ {:block/name "entitytypes/tcpconnector/attributes/siteid",
+  :block/created-at 1653902733278,
+  :block/updated-at 1653902733278}
+ {:block/name "entitytypes/tcplistener",
+  :block/created-at 1653902733295,
+  :block/updated-at 1653902733295}
+ {:block/name "entitytypes/tcplistener/attributes",
+  :block/created-at 1653902733295,
+  :block/updated-at 1653902733295}
+ {:block/name "entitytypes/tcplistener/attributes/address",
+  :block/created-at 1653902733294,
+  :block/updated-at 1653902733294}
+ {:block/name "entitytypes/tcplistener/attributes/bytesin",
+  :block/created-at 1653902733303,
+  :block/updated-at 1653902733303}
+ {:block/name "entitytypes/tcplistener/attributes/bytesout",
+  :block/created-at 1653902733313,
+  :block/updated-at 1653902733313}
+ {:block/name "entitytypes/tcplistener/attributes/connectionsclosed",
+  :block/created-at 1653902733321,
+  :block/updated-at 1653902733321}
+ {:block/name "entitytypes/tcplistener/attributes/connectionsopened",
+  :block/created-at 1653902733332,
+  :block/updated-at 1653902733332}
+ {:block/name "entitytypes/tcplistener/attributes/host",
+  :block/created-at 1653902733341,
+  :block/updated-at 1653902733341}
+ {:block/name "entitytypes/tcplistener/attributes/operstatus",
+  :block/created-at 1653902733350,
+  :block/updated-at 1653902733350}
+ {:block/name "entitytypes/tcplistener/attributes/port",
+  :block/created-at 1653902733388,
+  :block/updated-at 1653902733388}
+ {:block/name "entitytypes/tcplistener/attributes/siteid",
+  :block/created-at 1653902733397,
+  :block/updated-at 1653902733397}
+ {:block/name "entitytypes/vhost",
+  :block/created-at 1653902733415,
+  :block/updated-at 1653902733415}
+ {:block/name "entitytypes/vhost/attributes",
+  :block/created-at 1653902733415,
+  :block/updated-at 1653902733415}
+ {:block/name "entitytypes/vhost/attributes/aliases",
+  :block/created-at 1653902733414,
+  :block/updated-at 1653902733414}
+ {:block/name "entitytypes/vhost/attributes/allowunknownuser",
+  :block/created-at 1653902733424,
+  :block/updated-at 1653902733424}
+ {:block/name "entitytypes/vhost/attributes/groups",
+  :block/created-at 1653902733435,
+  :block/updated-at 1653902733435}
+ {:block/name "entitytypes/vhost/attributes/hostname",
+  :block/created-at 1653902733443,
+  :block/updated-at 1653902733443}
+ {:block/name "entitytypes/vhost/attributes/maxconnections",
+  :block/created-at 1653902733453,
+  :block/updated-at 1653902733453}
+ {:block/name "entitytypes/vhost/attributes/maxconnectionsperhost",
+  :block/created-at 1653902733465,
+  :block/updated-at 1653902733465}
+ {:block/name "entitytypes/vhost/attributes/maxconnectionsperuser",
+  :block/created-at 1653902733475,
+  :block/updated-at 1653902733475}
+ {:block/name "entitytypes/vhost/attributes/maxmessagesize",
+  :block/created-at 1653902733486,
+  :block/updated-at 1653902733486}
+ {:block/name "entitytypes/vhoststats",
+  :block/created-at 1653902733533,
+  :block/updated-at 1653902733533}
+ {:block/name "entitytypes/vhoststats/attributes",
+  :block/created-at 1653902733533,
+  :block/updated-at 1653902733533}
+ {:block/name "entitytypes/vhoststats/attributes/hostname",
+  :block/created-at 1653902733532,
+  :block/updated-at 1653902733532}
+ {:block/name "entitytypes/vhoststats/attributes/perhoststate",
+  :block/created-at 1653902733542,
+  :block/updated-at 1653902733542}
+ {:block/name "entitytypes/vhoststats/attributes/peruserstate",
+  :block/created-at 1653902733551,
+  :block/updated-at 1653902733551}
+ {:block/name "entitytypes/vhostusergroupsettings",
+  :block/created-at 1653902733569,
+  :block/updated-at 1653902733569}
+ {:block/name "entitytypes/vhostusergroupsettings/attributes",
+  :block/created-at 1653902733570,
+  :block/updated-at 1653902733570}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/allowadminstatusupdate",
+  :block/created-at 1653902733569,
+  :block/updated-at 1653902733569}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/allowanonymoussender",
+  :block/created-at 1653902733582,
+  :block/updated-at 1653902733582}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/allowdynamicsource",
+  :block/created-at 1653902733591,
+  :block/updated-at 1653902733591}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/allowuseridproxy",
+  :block/created-at 1653902733601,
+  :block/updated-at 1653902733601}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxconnectionsperhost",
+  :block/created-at 1653902733611,
+  :block/updated-at 1653902733611}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxconnectionsperuser",
+  :block/created-at 1653902733623,
+  :block/updated-at 1653902733623}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxframesize",
+  :block/created-at 1653902733660,
+  :block/updated-at 1653902733660}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxmessagesize",
+  :block/created-at 1653902733670,
+  :block/updated-at 1653902733670}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxreceivers",
+  :block/created-at 1653902733681,
+  :block/updated-at 1653902733681}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxsenders",
+  :block/created-at 1653902733690,
+  :block/updated-at 1653902733690}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxsessions",
+  :block/created-at 1653902733711,
+  :block/updated-at 1653902733711}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/maxsessionwindow",
+  :block/created-at 1653902733701,
+  :block/updated-at 1653902733701}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/remotehosts",
+  :block/created-at 1653902733721,
+  :block/updated-at 1653902733721}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/sourcepattern",
+  :block/created-at 1653902733734,
+  :block/updated-at 1653902733734}
+ {:block/name "entitytypes/vhostusergroupsettings/attributes/sources",
+  :block/created-at 1653902733746,
+  :block/updated-at 1653902733746}
+ {:block/name
+  "entitytypes/vhostusergroupsettings/attributes/targetpattern",
+  :block/created-at 1653902733758,
+  :block/updated-at 1653902733758}
+ {:block/name "entitytypes/vhostusergroupsettings/attributes/targets",
+  :block/created-at 1653902733797,
+  :block/updated-at 1653902733797}
+ {:block/name "entitytypes/vhostusergroupsettings/attributes/users",
+  :block/created-at 1653902733806,
+  :block/updated-at 1653902733806}
+ {:block/name "event-channel",
+  :block/created-at 1652356478490,
+  :block/updated-at 1652356478490}
+ {:block/name "example ",
+  :block/created-at 1643021412792,
+  :block/updated-at 1643021412792}
+ {:block/name "examples",
+  :block/created-at 1639069915644,
+  :block/updated-at 1639073074977}
+ {:block/name "expiry",
+  :block/created-at 1652356478489,
+  :block/updated-at 1652356478489}
+ {:block/name "expose",
+  :block/created-at 1652367092235,
+  :block/updated-at 1652368026722}
  {:block/name "favorites",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}
- {:block/name "font glossary",
-  :block/created-at 1656845812083,
-  :block/updated-at 1656845812083}
- {:block/name "fonts",
-  :block/created-at 1656845810028,
-  :block/updated-at 1656845810028}
- {:block/name "fri, 2021",
-  :block/created-at 1656846012463,
-  :block/updated-at 1656846012463}
- {:block/name "fri, 2021/01",
-  :block/created-at 1656846012464,
-  :block/updated-at 1656846012464}
- {:block/name "fri, 2021/01/01",
-  :block/created-at 1656846012461,
-  :block/updated-at 1656846612589}
- {:block/name "fri, 2021/07",
-  :block/created-at 1656845814442,
-  :block/updated-at 1656845814442}
- {:block/name "fri, 2021/07/30",
-  :block/created-at 1656845811825,
-  :block/updated-at 1656845811825}
- {:block/name "fri, 2022",
-  :block/created-at 1656845808438,
-  :block/updated-at 1656845808438}
- {:block/name "fri, 2022/03",
-  :block/created-at 1656845810663,
-  :block/updated-at 1656845810663}
- {:block/name "fri, 2022/03/25",
-  :block/created-at 1656845810662,
-  :block/updated-at 1656845810662}
- {:block/name "fri, 2022/04",
-  :block/created-at 1656845809604,
-  :block/updated-at 1656845809604}
- {:block/name "fri, 2022/04/01",
-  :block/created-at 1656845810443,
-  :block/updated-at 1656845810443}
- {:block/name "fri, 2022/04/08",
-  :block/created-at 1656845810366,
-  :block/updated-at 1656845810366}
- {:block/name "fri, 2022/04/15",
-  :block/created-at 1656845810029,
-  :block/updated-at 1656845810029}
- {:block/name "fri, 2022/04/22",
-  :block/created-at 1656845809863,
-  :block/updated-at 1656845809863}
- {:block/name "fri, 2022/04/29",
-  :block/created-at 1656845809604,
-  :block/updated-at 1656845809604}
- {:block/name "fri, 2022/05",
-  :block/created-at 1656845808917,
-  :block/updated-at 1656845808917}
- {:block/name "fri, 2022/05/06",
-  :block/created-at 1656845809400,
-  :block/updated-at 1656845809400}
- {:block/name "fri, 2022/05/20",
-  :block/created-at 1656845809068,
-  :block/updated-at 1656845809068}
- {:block/name "fri, 2022/05/27",
-  :block/created-at 1656845808916,
-  :block/updated-at 1656845808916}
- {:block/name "fri, 2022/06",
-  :block/created-at 1656845808438,
-  :block/updated-at 1656845808438}
- {:block/name "fri, 2022/06/17",
-  :block/created-at 1656845808550,
-  :block/updated-at 1656845808550}
- {:block/name "fri, 2022/06/24",
-  :block/created-at 1656845808437,
-  :block/updated-at 1656845808437}
- {:block/name "fri, 2022/07",
-  :block/created-at 1657246771693,
-  :block/updated-at 1657246771693}
- {:block/name "fri, 2022/07/08",
-  :block/created-at 1657209604750,
-  :block/updated-at 1657209604750}
- {:block/name "front-end performance 2021: planning and metrics",
-  :block/created-at 1656845810027,
-  :block/updated-at 1656845810027}
- {:block/name "frontend",
-  :block/created-at 1656845813862,
-  :block/updated-at 1656845813862}
- {:block/name "frontend brown bag",
-  :block/created-at 1656845812347,
-  :block/updated-at 1656845812347}
- {:block/name "genshin (font)",
-  :block/created-at 1656845812274,
-  :block/updated-at 1656845812274}
- {:block/name "genshin impact",
-  :block/created-at 1656845812273,
-  :block/updated-at 1656845812273}
- {:block/name "ghcr.io",
-  :block/created-at 1656845812713,
-  :block/updated-at 1656845812713}
- {:block/name "github action",
-  :block/created-at 1656845812292,
-  :block/updated-at 1656845812292}
- {:block/name "github copilot",
-  :block/created-at 1656845812398,
-  :block/updated-at 1656845812398}
- {:block/name "github copilot - the good, bad and evil",
-  :block/created-at 1656845812346,
-  :block/updated-at 1656845812346}
- {:block/name "google zx",
-  :block/created-at 1656845812422,
-  :block/updated-at 1656845812422}
- {:block/name "gpt",
-  :block/created-at 1656845812225,
-  :block/updated-at 1656845812225}
- {:block/name "gpt2",
-  :block/created-at 1656845813639,
-  :block/updated-at 1656845813639}
- {:block/name "gpt3",
-  :block/created-at 1656845812247,
-  :block/updated-at 1656845812247}
- {:block/name "graphql",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645083481545}
- {:block/name "guess your code's intent which yourself may don't know",
-  :block/created-at 1656845812334,
-  :block/updated-at 1656845812334}
- {:block/name "hackernews",
-  :block/created-at 1656845809598,
-  :block/updated-at 1656845809598}
- {:block/name "hard link",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
- {:block/name "hello world",
-  :block/created-at 1656042228349,
-  :block/updated-at 1656042228349}
- {:block/name "hmr",
-  :block/created-at 1656845812454,
-  :block/updated-at 1656845812454}
- {:block/name "homebase-react",
-  :block/created-at 1656042228333,
-  :block/updated-at 1656042228333}
- {:block/name "hosted language",
-  :block/created-at 1656845812596,
-  :block/updated-at 1656845812596}
- {:block/name "hot module reload",
-  :block/created-at 1656845812455,
-  :block/updated-at 1656845812455}
- {:block/name "how to debug minified code in logseq-tldraw",
-  :block/created-at 1656845808471,
-  :block/updated-at 1656845808471}
- {:block/name "how to design programs, second edition",
-  :block/created-at 1656845812480,
-  :block/updated-at 1656845812480}
- {:block/name "https://4clojure.oxal.org",
-  :block/created-at 1656845810480,
-  :block/updated-at 1656845810480}
- {:block/name "impostor factory",
-  :block/created-at 1657166152904,
-  :block/updated-at 1657166152904}
+ {:block/name "force-restart",
+  :block/created-at 1652356478488,
+  :block/updated-at 1652356478488}
+ {:block/name "gateway",
+  :block/created-at 1652350633678,
+  :block/updated-at 1652350684917}
+ {:block/name "glossary of terms",
+  :block/created-at 1652350020455,
+  :block/updated-at 1652350020455}
+ {:block/name "glossary-of-terms",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "headless",
+  :block/created-at 1652356478516,
+  :block/updated-at 1652356478516}
+ {:block/name "home",
+  :block/created-at 1639052955746,
+  :block/updated-at 1639052955746}
+ {:block/name
+  "https://github.com/skupperproject/skupper-docs/blob/main/modules/root/assets/images/overview.svg",
+  :block/created-at 1653904478091,
+  :block/updated-at 1653904478091}
  {:block/name "in-progress",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "inode",
-  :block/created-at 1645599789377,
-  :block/updated-at 1645599789377}
- {:block/name "inter (typeface)",
-  :block/created-at 1656845812504,
-  :block/updated-at 1656845812504}
- {:block/name "is clojure good for making games?",
-  :block/created-at 1656845810660,
-  :block/updated-at 1656845810660}
- {:block/name "json modules",
-  :block/created-at 1656845810299,
-  :block/updated-at 1656845810299}
- {:block/name "justfont: 字型下載之前，先看看 ⋯⋯",
-  :block/created-at 1656042228443,
-  :block/updated-at 1656042228443}
- {:block/name "kibana",
-  :block/created-at 1656845812041,
-  :block/updated-at 1656845812041}
- {:block/name "knowledge garden",
-  :block/created-at 1656845811002,
-  :block/updated-at 1656845811002}
+ {:block/name "ingress",
+  :block/created-at 1652356478510,
+  :block/updated-at 1652356478510}
+ {:block/name "ingress-annotations",
+  :block/created-at 1652356478509,
+  :block/updated-at 1652356478509}
+ {:block/name "ingress-host",
+  :block/created-at 1652356478509,
+  :block/updated-at 1652356478509}
+ {:block/name "init",
+  :block/created-at 1652351315144,
+  :block/updated-at 1652353196339}
+ {:block/name "introduction",
+  :block/created-at 1639052955746,
+  :block/updated-at 1639054187224}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657533552174,
+  :block/updated-at 1657533552174}
+ {:block/name "kubeconfig",
+  :block/created-at 1652356478487,
+  :block/updated-at 1652356478487}
+ {:block/name "labels",
+  :block/created-at 1652356478508,
+  :block/updated-at 1652356478508}
  {:block/name "later",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "leaking sensitive personal data",
-  :block/created-at 1656845812340,
-  :block/updated-at 1656845812340}
- {:block/name "learning clj",
-  :block/created-at 1656845809601,
-  :block/updated-at 1656845809601}
- {:block/name "learning clojure",
-  :block/created-at 1656845809438,
-  :block/updated-at 1656845809438}
- {:block/name "leiningen",
-  :block/created-at 1656845812598,
-  :block/updated-at 1656845812598}
- {:block/name "linux link",
-  :block/created-at 1656042228435,
-  :block/updated-at 1656042228435}
- {:block/name "logseq",
-  :block/created-at 1656845809503,
-  :block/updated-at 1656845809503}
- {:block/name "logseq default theme enhancements",
-  :block/created-at 1656845812808,
-  :block/updated-at 1656845812808}
- {:block/name "logseq dev theme",
-  :block/created-at 1656845811001,
-  :block/updated-at 1656845811001}
- {:block/name "logseq ideas",
-  :block/created-at 1656845810027,
-  :block/updated-at 1656845810027}
- {:block/name "logseq plugin link preview",
-  :block/created-at 1656845810301,
-  :block/updated-at 1656845810301}
- {:block/name "logseq plugin reload",
-  :block/created-at 1656845812659,
-  :block/updated-at 1656845812659}
- {:block/name "logseq plugins",
-  :block/created-at 1656845808509,
-  :block/updated-at 1656845808509}
- {:block/name "logseq publish github action",
-  :block/created-at 1656845811002,
-  :block/updated-at 1656845811002}
- {:block/name "logseq query playground ui",
-  :block/created-at 1656845809287,
-  :block/updated-at 1656845809287}
- {:block/name "logseq theme",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
- {:block/name "logseq whiteboard with tldraw",
-  :block/created-at 1656845808274,
-  :block/updated-at 1656845808274}
- {:block/name "logseq whiteboard with tldraw/arrow",
-  :block/created-at 1656845808617,
-  :block/updated-at 1656845808617}
- {:block/name
-  "logseq whiteboard with tldraw/arrow binding not working correctly when using in cljs",
-  :block/created-at 1656845808436,
-  :block/updated-at 1656845808436}
- {:block/name "logseq whiteboard with tldraw/context menu drifting",
-  :block/created-at 1656845808676,
-  :block/updated-at 1656845808676}
- {:block/name "logseq whiteboard with tldraw/pointer offset",
-  :block/created-at 1656845808853,
-  :block/updated-at 1656845808853}
- {:block/name "logseq whiteboard with tldraw/preview",
-  :block/created-at 1656845808648,
-  :block/updated-at 1656845808648}
- {:block/name "logseq whiteboard with tldraw/save as logseq page",
-  :block/created-at 1656845808274,
-  :block/updated-at 1656919825331}
- {:block/name "logseq-plugin-heatmap",
-  :block/created-at 1656845809945,
-  :block/updated-at 1656845809945}
- {:block/name "logseq-plugin-tabs",
-  :block/created-at 1656845809603,
-  :block/updated-at 1656845809603}
- {:block/name "logseq-plugin-todo-master",
-  :block/created-at 1656042228649,
-  :block/updated-at 1656042228649}
- {:block/name "logseq/embed twitter",
-  :block/created-at 1656042228686,
-  :block/updated-at 1656042228686}
- {:block/name "logstash",
-  :block/created-at 1656845812041,
-  :block/updated-at 1656845812041}
- {:block/name "macchiato",
-  :block/created-at 1656845809436,
-  :block/updated-at 1656845809436}
- {:block/name "magic-string",
-  :block/created-at 1656845810696,
-  :block/updated-at 1656845810696}
- {:block/name "mdx",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
- {:block/name "meta: lexical",
-  :block/created-at 1656845810757,
-  :block/updated-at 1656845810757}
- {:block/name "mhr in vite",
-  :block/created-at 1656845813152,
-  :block/updated-at 1656845813152}
- {:block/name "microsoft",
-  :block/created-at 1656845812333,
-  :block/updated-at 1656845812333}
- {:block/name "minetype",
-  :block/created-at 1656042228765,
-  :block/updated-at 1656042228765}
- {:block/name "mix require & import in node",
-  :block/created-at 1656845813394,
-  :block/updated-at 1656845813394}
- {:block/name "mmr",
-  :block/created-at 1656845813343,
-  :block/updated-at 1656845813343}
- {:block/name "mobx",
-  :block/created-at 1656845808549,
-  :block/updated-at 1656845808549}
- {:block/name "module federation",
-  :block/created-at 1656845813343,
-  :block/updated-at 1656845813343}
- {:block/name
-  "module federation, hot prod reloading, ssr & next.js, for real this time.",
-  :block/created-at 1656845810660,
-  :block/updated-at 1656845810660}
- {:block/name "mon, 2022",
-  :block/created-at 1656845808855,
-  :block/updated-at 1656845808855}
- {:block/name "mon, 2022/01",
-  :block/created-at 1656845812716,
-  :block/updated-at 1656845812716}
- {:block/name "mon, 2022/01/10",
-  :block/created-at 1656845812716,
-  :block/updated-at 1656845812716}
- {:block/name "mon, 2022/03",
-  :block/created-at 1656845810593,
-  :block/updated-at 1656845810593}
- {:block/name "mon, 2022/03/21",
-  :block/created-at 1656845810812,
-  :block/updated-at 1656845810812}
- {:block/name "mon, 2022/03/28",
-  :block/created-at 1656845810592,
-  :block/updated-at 1656845810592}
- {:block/name "mon, 2022/04",
-  :block/created-at 1656845809801,
-  :block/updated-at 1656845809801}
- {:block/name "mon, 2022/04/11",
-  :block/created-at 1656845810302,
-  :block/updated-at 1656845810302}
- {:block/name "mon, 2022/04/18",
-  :block/created-at 1656845809973,
-  :block/updated-at 1656845809973}
- {:block/name "mon, 2022/04/25",
-  :block/created-at 1656845809800,
-  :block/updated-at 1656845809800}
- {:block/name "mon, 2022/05",
-  :block/created-at 1656845808855,
-  :block/updated-at 1656845808855}
- {:block/name "mon, 2022/05/02",
-  :block/created-at 1656845809532,
-  :block/updated-at 1656845809532}
- {:block/name "mon, 2022/05/09",
-  :block/created-at 1656845809291,
-  :block/updated-at 1656845809291}
- {:block/name "mon, 2022/05/16",
-  :block/created-at 1656845809117,
-  :block/updated-at 1656845809117}
- {:block/name "mon, 2022/05/23",
-  :block/created-at 1656845808997,
-  :block/updated-at 1656845808997}
- {:block/name "mon, 2022/05/30",
-  :block/created-at 1656845808854,
-  :block/updated-at 1656845808854}
+ {:block/name "loopback",
+  :block/created-at 1652356478513,
+  :block/updated-at 1652356478513}
+ {:block/name "mapping",
+  :block/created-at 1652356478490,
+  :block/updated-at 1652356478490}
+ {:block/name "may 12th, 2022",
+  :block/created-at 1652350019152,
+  :block/updated-at 1652371245845}
+ {:block/name "may 30th, 2022",
+  :block/created-at 1653902730289,
+  :block/updated-at 1653913552463}
  {:block/name "mon, 2022/07",
-  :block/created-at 1656903484308,
-  :block/updated-at 1656903484308}
- {:block/name "mon, 2022/07/04",
-  :block/created-at 1656903315784,
-  :block/updated-at 1656903315784}
- {:block/name "mono wang",
-  :block/created-at 1656845812711,
-  :block/updated-at 1656845812711}
- {:block/name "my personal blog",
-  :block/created-at 1656845810524,
-  :block/updated-at 1656845810524}
- {:block/name "natto.dev",
-  :block/created-at 1656845810106,
-  :block/updated-at 1656845810106}
- {:block/name "nbb",
-  :block/created-at 1656845809800,
-  :block/updated-at 1656845809800}
- {:block/name "nbb-logseq",
-  :block/created-at 1656845809473,
-  :block/updated-at 1656845809473}
- {:block/name "next.js",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645083481545}
- {:block/name "nextjournal",
-  :block/created-at 1656845810105,
-  :block/updated-at 1656845810105}
- {:block/name "nextjournal/clerk",
-  :block/created-at 1656845810105,
-  :block/updated-at 1656845810105}
- {:block/name "nextjs",
-  :block/created-at 1656845814082,
-  :block/updated-at 1656845814082}
- {:block/name "nextjs esm",
-  :block/created-at 1656845813395,
-  :block/updated-at 1656845813395}
- {:block/name "nextjs mdx rendering",
-  :block/created-at 1656042228815,
-  :block/updated-at 1656822403281}
- {:block/name "nginx",
-  :block/created-at 1656042228787,
-  :block/updated-at 1656042228787}
- {:block/name "no matter what is the license",
-  :block/created-at 1656845812339,
-  :block/updated-at 1656845812339}
- {:block/name "no more tofu",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
- {:block/name "node vm module",
-  :block/created-at 1656845813420,
-  :block/updated-at 1656845813420}
- {:block/name "noto",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1657537271839,
+  :block/updated-at 1657537271839}
+ {:block/name "mon, 2022/07/11",
+  :block/created-at 1657537152350,
+  :block/updated-at 1657537152350}
+ {:block/name "name",
+  :block/created-at 1652356478489,
+  :block/updated-at 1652356478489}
  {:block/name "now",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "npm package dependency graph",
-  :block/created-at 1656845813372,
-  :block/updated-at 1656845813372}
- {:block/name "open ai 5 - dota 2",
-  :block/created-at 1656845813444,
-  :block/updated-at 1656845813444}
- {:block/name "openai",
-  :block/created-at 1656845812332,
-  :block/updated-at 1656845812332}
- {:block/name "openai dall-e 2",
-  :block/created-at 1656845809973,
-  :block/updated-at 1656845809973}
- {:block/name "pengx17",
-  :block/created-at 1656845810067,
-  :block/updated-at 1656845810067}
- {:block/name "pengx17/logseq-publish",
-  :block/created-at 1656845810067,
-  :block/updated-at 1656845810067}
- {:block/name "playground",
-  :block/created-at 1656845810482,
-  :block/updated-at 1656845810482}
- {:block/name "playwright",
-  :block/created-at 1656845809799,
-  :block/updated-at 1656845809799}
- {:block/name "podcast: tldraw with steve ruiz",
-  :block/created-at 1656845809370,
-  :block/updated-at 1656845809370}
- {:block/name "podcast_ tldraw with steve ruiz",
-  :block/created-at 1656845813697,
-  :block/updated-at 1656845813697}
- {:block/name "re-frame",
-  :block/created-at 1656845809763,
-  :block/updated-at 1656845809763}
- {:block/name "react",
-  :block/created-at 1646984894544,
-  :block/updated-at 1646984894544}
- {:block/name "react 18",
-  :block/created-at 1656845810300,
-  :block/updated-at 1656845810300}
- {:block/name "react 18 issues",
-  :block/created-at 1656845810440,
-  :block/updated-at 1656845810440}
- {:block/name "react hot module reloading",
-  :block/created-at 1656845813760,
-  :block/updated-at 1656845813760}
- {:block/name "react types: removal of implicit children",
-  :block/created-at 1656845813721,
-  :block/updated-at 1656845813721}
- {:block/name "react-runner",
-  :block/created-at 1656845810757,
-  :block/updated-at 1656845810757}
- {:block/name "reaction on mobx array",
-  :block/created-at 1656845808914,
-  :block/updated-at 1656845808914}
- {:block/name "reading notes",
-  :block/created-at 1656845810153,
-  :block/updated-at 1656845810153}
+ {:block/name "port",
+  :block/created-at 1652356478516,
+  :block/updated-at 1652356478516}
+ {:block/name "protocol",
+  :block/created-at 1652356478492,
+  :block/updated-at 1652356478492}
+ {:block/name "proxy-cpu",
+  :block/created-at 1652356478515,
+  :block/updated-at 1652356478515}
+ {:block/name "proxy-cpu-limit",
+  :block/created-at 1652356478515,
+  :block/updated-at 1652356478515}
+ {:block/name "proxy-memory",
+  :block/created-at 1652356478515,
+  :block/updated-at 1652356478515}
+ {:block/name "proxy-memory-limit",
+  :block/created-at 1652356478514,
+  :block/updated-at 1652356478514}
+ {:block/name "proxy-node-selector",
+  :block/created-at 1652356478514,
+  :block/updated-at 1652356478514}
+ {:block/name "proxy-pod-affinity",
+  :block/created-at 1652356478514,
+  :block/updated-at 1652356478514}
+ {:block/name "proxy-pod-antiaffinity",
+  :block/created-at 1652356478513,
+  :block/updated-at 1652356478513}
  {:block/name "readme",
   :block/created-at 1656845811080,
   :block/updated-at 1656845811080}
- {:block/name "references to urls should not be protocol-relative.",
-  :block/created-at 1656845810811,
-  :block/updated-at 1656845810811}
- {:block/name "rehype",
-  :block/created-at 1656845810150,
-  :block/updated-at 1656845810150}
- {:block/name "reitit.ring",
-  :block/created-at 1656845809435,
-  :block/updated-at 1656845809435}
- {:block/name "remark",
-  :block/created-at 1656845810150,
-  :block/updated-at 1656845810150}
- {:block/name "remix",
-  :block/created-at 1656845813860,
-  :block/updated-at 1656845813860}
- {:block/name "remix in react router",
-  :block/created-at 1656845810659,
-  :block/updated-at 1656845810659}
- {:block/name "render as you fetch",
-  :block/created-at 1656845813859,
-  :block/updated-at 1656845813859}
- {:block/name "rollup",
-  :block/created-at 1656845810482,
-  :block/updated-at 1656845810482}
- {:block/name "rollup commonjs plugin",
-  :block/created-at 1656845813899,
-  :block/updated-at 1656845813899}
- {:block/name "rum",
-  :block/created-at 1656845809662,
-  :block/updated-at 1656845809662}
- {:block/name "rum react interop",
-  :block/created-at 1656845809602,
-  :block/updated-at 1656845809602}
- {:block/name "run testing & repl in logseq with vscode + calva",
-  :block/created-at 1657177755987,
-  :block/updated-at 1657177977924}
- {:block/name "same-origin iframes",
-  :block/created-at 1656042229170,
-  :block/updated-at 1656042229170}
- {:block/name "sat, 2021",
-  :block/created-at 1654069284901,
-  :block/updated-at 1654069284901}
- {:block/name "sat, 2021/06",
-  :block/created-at 1654069284901,
-  :block/updated-at 1654069284901}
- {:block/name "sat, 2021/06/19",
-  :block/created-at 1654069284900,
-  :block/updated-at 1654069284900}
- {:block/name "sat, 2022",
-  :block/created-at 1656845808276,
-  :block/updated-at 1656845808276}
- {:block/name "sat, 2022/03",
-  :block/created-at 1656845810621,
-  :block/updated-at 1656845810621}
- {:block/name "sat, 2022/03/26",
-  :block/created-at 1656845810620,
-  :block/updated-at 1656845810620}
- {:block/name "sat, 2022/04",
-  :block/created-at 1656845809559,
-  :block/updated-at 1656845809559}
- {:block/name "sat, 2022/04/30",
-  :block/created-at 1656845809558,
-  :block/updated-at 1656845809558}
- {:block/name "sat, 2022/05",
-  :block/created-at 1656845808889,
-  :block/updated-at 1656845808889}
- {:block/name "sat, 2022/05/07",
-  :block/created-at 1656845809371,
-  :block/updated-at 1656845809371}
- {:block/name "sat, 2022/05/14",
-  :block/created-at 1656845809178,
-  :block/updated-at 1656845809178}
- {:block/name "sat, 2022/05/21",
-  :block/created-at 1656845809042,
-  :block/updated-at 1656845809042}
- {:block/name "sat, 2022/05/28",
-  :block/created-at 1656845808889,
-  :block/updated-at 1656845808889}
- {:block/name "sat, 2022/07",
-  :block/created-at 1656845808277,
-  :block/updated-at 1656845808277}
- {:block/name "sat, 2022/07/02",
-  :block/created-at 1656845808275,
-  :block/updated-at 1656845808275}
- {:block/name "see - https:",
-  :block/created-at 1654069285116,
-  :block/updated-at 1654069285116}
- {:block/name "see - https://pengx17-logseq.builtwithdark.com",
-  :block/created-at 1654069285117,
-  :block/updated-at 1654069285117}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https:",
-  :block/created-at 1654069285119,
-  :block/updated-at 1654069285119}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https://codesandbox.io",
-  :block/created-at 1654069285120,
-  :block/updated-at 1654069285120}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https://codesandbox.io/s",
-  :block/created-at 1654069285121,
-  :block/updated-at 1654069285121}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https://codesandbox.io/s/74rn3r9k0?fontsize=14&file=",
-  :block/created-at 1654069285122,
-  :block/updated-at 1654069285122}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https://codesandbox.io/s/74rn3r9k0?fontsize=14&file=/src",
-  :block/created-at 1654069285123,
-  :block/updated-at 1654069285123}
- {:block/name
-  "see - https://pengx17-logseq.builtwithdark.com/get-tweet?id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox: https://codesandbox.io/s/74rn3r9k0?fontsize=14&file=/src/index.tsx:83-100",
-  :block/created-at 1654069285115,
-  :block/updated-at 1654069285115}
- {:block/name "shadow-cljs",
-  :block/created-at 1656845809205,
-  :block/updated-at 1656845809205}
- {:block/name "shadowrealm",
-  :block/created-at 1656845813932,
-  :block/updated-at 1656845813932}
- {:block/name "shadowrealm vs same-origin iframes",
-  :block/created-at 1656042229171,
-  :block/updated-at 1656042229171}
- {:block/name "shiki",
-  :block/created-at 1656845810149,
-  :block/updated-at 1656845810149}
- {:block/name "simd",
-  :block/created-at 1656845814232,
-  :block/updated-at 1656845814232}
- {:block/name "snyk",
-  :block/created-at 1656845814284,
-  :block/updated-at 1656845814284}
- {:block/name "solving rubik’s cube with a robot hand",
-  :block/created-at 1656845813640,
-  :block/updated-at 1656845813640}
- {:block/name "source sans",
-  :block/created-at 1656845812805,
-  :block/updated-at 1656845812805}
- {:block/name "source serif",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
- {:block/name "starship config",
-  :block/created-at 1656845813988,
-  :block/updated-at 1656845813988}
- {:block/name "state management",
-  :block/created-at 1646984894543,
-  :block/updated-at 1646984894543}
- {:block/name "state of js",
-  :block/created-at 1656845810523,
-  :block/updated-at 1656845810523}
- {:block/name "sun, 2020",
-  :block/created-at 1656845879728,
-  :block/updated-at 1656845879728}
- {:block/name "sun, 2022",
-  :block/created-at 1656845808226,
-  :block/updated-at 1656845808226}
- {:block/name "sun, 2022/04",
-  :block/created-at 1656845809833,
-  :block/updated-at 1656845809833}
- {:block/name "sun, 2022/04/17",
-  :block/created-at 1656845809997,
-  :block/updated-at 1656845809997}
- {:block/name "sun, 2022/04/24",
-  :block/created-at 1656845809832,
-  :block/updated-at 1656845809832}
- {:block/name "sun, 2022/05",
-  :block/created-at 1656845809018,
-  :block/updated-at 1656845809018}
- {:block/name "sun, 2022/05/08",
-  :block/created-at 1656845809339,
-  :block/updated-at 1656845809339}
- {:block/name "sun, 2022/05/15",
-  :block/created-at 1656845809151,
-  :block/updated-at 1656845809151}
- {:block/name "sun, 2022/05/22",
-  :block/created-at 1656845809017,
-  :block/updated-at 1656845809017}
- {:block/name "sun, 2022/06",
-  :block/created-at 1656845808512,
-  :block/updated-at 1656845808512}
- {:block/name "sun, 2022/06/05",
-  :block/created-at 1656845808677,
-  :block/updated-at 1656845808677}
- {:block/name "sun, 2022/06/19",
-  :block/created-at 1656845808510,
-  :block/updated-at 1656845808510}
- {:block/name "sun, 2022/07",
-  :block/created-at 1656845808227,
-  :block/updated-at 1656845808227}
- {:block/name "sun, 2022/07/03",
-  :block/created-at 1656845808228,
-  :block/updated-at 1656903473221}
- {:block/name "sun, 2022/07/44",
-  :block/created-at 1656845808226,
-  :block/updated-at 1656845808226}
- {:block/name "svelte",
-  :block/created-at 1656845811695,
-  :block/updated-at 1656845811695}
- {:block/name "swc",
-  :block/created-at 1656845814316,
-  :block/updated-at 1656845814316}
- {:block/name "symbolic link",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
- {:block/name "tailwind css",
-  :block/created-at 1656845809661,
-  :block/updated-at 1656845809661}
- {:block/name "tailwind ui",
-  :block/created-at 1656845814063,
-  :block/updated-at 1656845814063}
- {:block/name "tc39",
-  :block/created-at 1656845808583,
-  :block/updated-at 1656845808583}
- {:block/name "telemetry issues",
-  :block/created-at 1656845812344,
-  :block/updated-at 1656845812344}
- {:block/name "test123",
-  :block/created-at 1656042229233,
-  :block/updated-at 1656042229233}
- {:block/name "test3",
-  :block/created-at 1656042229622,
-  :block/updated-at 1656042229622}
- {:block/name "test5",
-  :block/created-at 1656042229248,
-  :block/updated-at 1656042229248}
- {:block/name "thoughtworks radar",
-  :block/created-at 1656845810521,
-  :block/updated-at 1656845810521}
- {:block/name "thu, 2022",
-  :block/created-at 1656845808338,
-  :block/updated-at 1656845808338}
- {:block/name "thu, 2022/01",
-  :block/created-at 1656845812715,
-  :block/updated-at 1656845812715}
- {:block/name "thu, 2022/01/06",
-  :block/created-at 1656845812715,
-  :block/updated-at 1656845812715}
- {:block/name "thu, 2022/03",
-  :block/created-at 1656845810484,
-  :block/updated-at 1656845810484}
- {:block/name "thu, 2022/03/24",
-  :block/created-at 1656845810696,
-  :block/updated-at 1656845810696}
- {:block/name "thu, 2022/03/31",
-  :block/created-at 1656845810483,
-  :block/updated-at 1656845810483}
- {:block/name "thu, 2022/04",
-  :block/created-at 1656845809668,
-  :block/updated-at 1656845809668}
- {:block/name "thu, 2022/04/14",
-  :block/created-at 1656845810068,
-  :block/updated-at 1656845810068}
- {:block/name "thu, 2022/04/21",
-  :block/created-at 1656845809888,
-  :block/updated-at 1656845809888}
- {:block/name "thu, 2022/04/28",
-  :block/created-at 1656845809667,
-  :block/updated-at 1656845809667}
- {:block/name "thu, 2022/05",
-  :block/created-at 1656845808945,
-  :block/updated-at 1656845808945}
- {:block/name "thu, 2022/05/05",
-  :block/created-at 1656845809439,
-  :block/updated-at 1656845809439}
- {:block/name "thu, 2022/05/12",
-  :block/created-at 1656845809205,
-  :block/updated-at 1656845809205}
- {:block/name "thu, 2022/05/26",
-  :block/created-at 1656845808944,
-  :block/updated-at 1656845808944}
- {:block/name "thu, 2022/06",
-  :block/created-at 1656845808338,
-  :block/updated-at 1656845808338}
- {:block/name "thu, 2022/06/02",
-  :block/created-at 1656845808711,
-  :block/updated-at 1656845808711}
- {:block/name "thu, 2022/06/09",
-  :block/created-at 1656845808619,
-  :block/updated-at 1656845808619}
- {:block/name "thu, 2022/06/23",
-  :block/created-at 1656845808474,
-  :block/updated-at 1656845808474}
- {:block/name "thu, 2022/06/30",
-  :block/created-at 1656845808337,
-  :block/updated-at 1656845808337}
- {:block/name "thu, 2022/07",
-  :block/created-at 1657172528983,
-  :block/updated-at 1657172528983}
- {:block/name "thu, 2022/07/07",
-  :block/created-at 1657158949088,
-  :block/updated-at 1657191347102}
- {:block/name "til",
-  :block/created-at 1656845810660,
-  :block/updated-at 1656845810660}
- {:block/name "tl:draw",
-  :block/created-at 1654069285590,
-  :block/updated-at 1654069285590}
- {:block/name "tldraw",
-  :block/created-at 1656845809558,
-  :block/updated-at 1656845809558}
- {:block/name "tldraw next",
-  :block/created-at 1656845811751,
-  :block/updated-at 1656845811751}
+ {:block/name "router",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "router-cpu",
+  :block/created-at 1652356478505,
+  :block/updated-at 1652356478505}
+ {:block/name "router-cpu-limit",
+  :block/created-at 1652356478505,
+  :block/updated-at 1652356478505}
+ {:block/name "router-debug-mode",
+  :block/created-at 1652356478506,
+  :block/updated-at 1652356478506}
+ {:block/name "router-ingress-host",
+  :block/created-at 1652356478503,
+  :block/updated-at 1652356478503}
+ {:block/name "router-load-balancer-ip",
+  :block/created-at 1652356478501,
+  :block/updated-at 1652356478501}
+ {:block/name "router-logging",
+  :block/created-at 1652356478507,
+  :block/updated-at 1652356478507}
+ {:block/name "router-memory",
+  :block/created-at 1652356478505,
+  :block/updated-at 1652356478505}
+ {:block/name "router-memory-limit",
+  :block/created-at 1652356478504,
+  :block/updated-at 1652356478504}
+ {:block/name "router-mode",
+  :block/created-at 1652356478508,
+  :block/updated-at 1652356478508}
+ {:block/name "router-node-selector",
+  :block/created-at 1652356478504,
+  :block/updated-at 1652356478504}
+ {:block/name "router-pod-affinity",
+  :block/created-at 1652356478503,
+  :block/updated-at 1652356478503}
+ {:block/name "router-pod-antiaffinity",
+  :block/created-at 1652356478503,
+  :block/updated-at 1652356478503}
+ {:block/name "router-service-annotations",
+  :block/created-at 1652356478502,
+  :block/updated-at 1652356478502}
+ {:block/name "routers",
+  :block/created-at 1652356478506,
+  :block/updated-at 1652356478506}
+ {:block/name "schema",
+  :block/created-at 1653903008592,
+  :block/updated-at 1653903008592}
+ {:block/name "service network",
+  :block/created-at 1652350020432,
+  :block/updated-at 1652350020432}
+ {:block/name "service-network",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "show-labels",
+  :block/created-at 1652356478490,
+  :block/updated-at 1652356478490}
+ {:block/name "site-name",
+  :block/created-at 1652356478512,
+  :block/updated-at 1652356478512}
+ {:block/name "skupper",
+  :block/created-at 1652350331622,
+  :block/updated-at 1652350331622}
+ {:block/name "skupper completion",
+  :block/created-at 1652350492521,
+  :block/updated-at 1652350492521}
+ {:block/name "skupper debug",
+  :block/created-at 1652350492520,
+  :block/updated-at 1652350492520}
+ {:block/name "skupper debug dump",
+  :block/created-at 1652350492594,
+  :block/updated-at 1652350492594}
+ {:block/name "skupper debug events",
+  :block/created-at 1652350492593,
+  :block/updated-at 1652350492593}
+ {:block/name "skupper debug service",
+  :block/created-at 1652350492593,
+  :block/updated-at 1652350492593}
+ {:block/name "skupper delete",
+  :block/created-at 1652350492520,
+  :block/updated-at 1652350492520}
+ {:block/name "skupper expose",
+  :block/created-at 1652350492519,
+  :block/updated-at 1652350492519}
+ {:block/name "skupper gateway",
+  :block/created-at 1652350492519,
+  :block/updated-at 1652350492519}
+ {:block/name "skupper gateway bind",
+  :block/created-at 1652350492758,
+  :block/updated-at 1652350492758}
+ {:block/name "skupper gateway delete",
+  :block/created-at 1652350492758,
+  :block/updated-at 1652350492758}
+ {:block/name "skupper gateway export-config",
+  :block/created-at 1652350492757,
+  :block/updated-at 1652350492757}
+ {:block/name "skupper gateway expose",
+  :block/created-at 1652350492757,
+  :block/updated-at 1652350492757}
+ {:block/name "skupper gateway forward",
+  :block/created-at 1652350492756,
+  :block/updated-at 1652350492756}
+ {:block/name "skupper gateway generate-bundle",
+  :block/created-at 1652350492756,
+  :block/updated-at 1652350492756}
+ {:block/name "skupper gateway init",
+  :block/created-at 1652350492755,
+  :block/updated-at 1652350492755}
+ {:block/name "skupper gateway status",
+  :block/created-at 1652350492755,
+  :block/updated-at 1652350492755}
+ {:block/name "skupper gateway unbind",
+  :block/created-at 1652350492755,
+  :block/updated-at 1652350492755}
+ {:block/name "skupper gateway unexpose",
+  :block/created-at 1652350492754,
+  :block/updated-at 1652350492754}
+ {:block/name "skupper gateway unforward",
+  :block/created-at 1652350492754,
+  :block/updated-at 1652350492754}
+ {:block/name "skupper init",
+  :block/created-at 1652350492518,
+  :block/updated-at 1652350492518}
+ {:block/name "skupper link",
+  :block/created-at 1652350492518,
+  :block/updated-at 1652350492518}
+ {:block/name "skupper link create",
+  :block/created-at 1652350493106,
+  :block/updated-at 1652350493106}
+ {:block/name "skupper link delete",
+  :block/created-at 1652350493105,
+  :block/updated-at 1652350493105}
+ {:block/name "skupper link status",
+  :block/created-at 1652350493105,
+  :block/updated-at 1652350493105}
+ {:block/name "skupper man",
+  :block/created-at 1652350492518,
+  :block/updated-at 1652350492518}
+ {:block/name "skupper network",
+  :block/created-at 1652350492517,
+  :block/updated-at 1652350492517}
+ {:block/name "skupper network status",
+  :block/created-at 1652350493225,
+  :block/updated-at 1652350493225}
+ {:block/name "skupper revoke-access",
+  :block/created-at 1652350492517,
+  :block/updated-at 1652350492517}
+ {:block/name "skupper service",
+  :block/created-at 1652350492516,
+  :block/updated-at 1652350492516}
+ {:block/name "skupper service bind",
+  :block/created-at 1652350493308,
+  :block/updated-at 1652350493308}
+ {:block/name "skupper service create",
+  :block/created-at 1652350493307,
+  :block/updated-at 1652350493307}
+ {:block/name "skupper service delete",
+  :block/created-at 1652350493307,
+  :block/updated-at 1652350493307}
+ {:block/name "skupper service label",
+  :block/created-at 1652350493306,
+  :block/updated-at 1652350493306}
+ {:block/name "skupper service status",
+  :block/created-at 1652350493306,
+  :block/updated-at 1652350493306}
+ {:block/name "skupper service unbind",
+  :block/created-at 1652350493306,
+  :block/updated-at 1652350493306}
+ {:block/name "skupper status",
+  :block/created-at 1652350492516,
+  :block/updated-at 1652350492516}
+ {:block/name "skupper token",
+  :block/created-at 1652350492516,
+  :block/updated-at 1652350492516}
+ {:block/name "skupper token create",
+  :block/created-at 1652350493507,
+  :block/updated-at 1652350493507}
+ {:block/name "skupper unexpose",
+  :block/created-at 1652350492515,
+  :block/updated-at 1652350492515}
+ {:block/name "skupper update",
+  :block/created-at 1652350492515,
+  :block/updated-at 1652350492515}
+ {:block/name "skupper version",
+  :block/created-at 1652350492515,
+  :block/updated-at 1652350492515}
+ {:block/name "skupper-example",
+  :block/created-at 1652371187435,
+  :block/updated-at 1652371277156}
+ {:block/name "skupper-example-bookinfo",
+  :block/created-at 1652435131927,
+  :block/updated-at 1652435131927}
+ {:block/name "skupper-example-grpc",
+  :block/created-at 1652435131927,
+  :block/updated-at 1652435131927}
+ {:block/name "skupper-example-http-load-balancing",
+  :block/created-at 1652435130819,
+  :block/updated-at 1652435130819}
+ {:block/name "skupper-example-iperf",
+  :block/created-at 1652435131929,
+  :block/updated-at 1652435131929}
+ {:block/name "skupper-example-mongodb-replica-set",
+  :block/created-at 1652435131928,
+  :block/updated-at 1652435131928}
+ {:block/name "skupper-example-postgresql",
+  :block/created-at 1652435131926,
+  :block/updated-at 1652435131926}
+ {:block/name "skupper-example-prometheus",
+  :block/created-at 1652435131925,
+  :block/updated-at 1652435131925}
+ {:block/name "skupper-example-tcp-echo",
+  :block/created-at 1652435131928,
+  :block/updated-at 1652435131928}
+ {:block/name "skupper-example/bookinfo",
+  :block/created-at 1652371188412,
+  :block/updated-at 1652371188412}
+ {:block/name "skupper-example/camel-integration",
+  :block/created-at 1652371456642,
+  :block/updated-at 1652371456642}
+ {:block/name "skupper-example/grpc",
+  :block/created-at 1652371188647,
+  :block/updated-at 1652371188647}
+ {:block/name "skupper-example/hello-world",
+  :block/created-at 1652371456793,
+  :block/updated-at 1652371456793}
+ {:block/name "skupper-example/http-load-balancing",
+  :block/created-at 1652371219703,
+  :block/updated-at 1652371219703}
+ {:block/name "skupper-example/iperf",
+  :block/created-at 1652371189736,
+  :block/updated-at 1652371189736}
+ {:block/name "skupper-example/mongodb-replica-set",
+  :block/created-at 1652371189352,
+  :block/updated-at 1652371189352}
+ {:block/name "skupper-example/postgresql",
+  :block/created-at 1652371187957,
+  :block/updated-at 1652371187957}
+ {:block/name "skupper-example/prometheus",
+  :block/created-at 1652371187435,
+  :block/updated-at 1652371187435}
+ {:block/name "skupper-example/tcp-echo",
+  :block/created-at 1652371189112,
+  :block/updated-at 1652371189112}
+ {:block/name "skupper-example/trade-zoo",
+  :block/created-at 1652371190069,
+  :block/updated-at 1652371190069}
+ {:block/name "skupper_completion",
+  :block/created-at 1652350492562,
+  :block/updated-at 1652350492562}
+ {:block/name "skupper_debug",
+  :block/created-at 1652350492595,
+  :block/updated-at 1652350492595}
+ {:block/name "skupper_debug_dump",
+  :block/created-at 1652350492620,
+  :block/updated-at 1652350492620}
+ {:block/name "skupper_debug_events",
+  :block/created-at 1652350492647,
+  :block/updated-at 1652350492647}
+ {:block/name "skupper_debug_service",
+  :block/created-at 1652350492672,
+  :block/updated-at 1652350492672}
+ {:block/name "skupper_delete",
+  :block/created-at 1652350492696,
+  :block/updated-at 1652350492696}
+ {:block/name "skupper_expose",
+  :block/created-at 1652350492723,
+  :block/updated-at 1652350492723}
+ {:block/name "skupper_gateway",
+  :block/created-at 1652350492760,
+  :block/updated-at 1652350492760}
+ {:block/name "skupper_gateway_bind",
+  :block/created-at 1652350492796,
+  :block/updated-at 1652350492796}
+ {:block/name "skupper_gateway_delete",
+  :block/created-at 1652350492819,
+  :block/updated-at 1652350492819}
+ {:block/name "skupper_gateway_export-config",
+  :block/created-at 1652350492847,
+  :block/updated-at 1652350492847}
+ {:block/name "skupper_gateway_expose",
+  :block/created-at 1652350492876,
+  :block/updated-at 1652350492876}
+ {:block/name "skupper_gateway_forward",
+  :block/created-at 1652350492899,
+  :block/updated-at 1652350492899}
+ {:block/name "skupper_gateway_generate-bundle",
+  :block/created-at 1652350492929,
+  :block/updated-at 1652350492929}
+ {:block/name "skupper_gateway_init",
+  :block/created-at 1652350492955,
+  :block/updated-at 1652350492955}
+ {:block/name "skupper_gateway_status",
+  :block/created-at 1652350492978,
+  :block/updated-at 1652350492978}
+ {:block/name "skupper_gateway_unbind",
+  :block/created-at 1652350493000,
+  :block/updated-at 1652350493000}
+ {:block/name "skupper_gateway_unexpose",
+  :block/created-at 1652350493027,
+  :block/updated-at 1652350493027}
+ {:block/name "skupper_gateway_unforward",
+  :block/created-at 1652350493049,
+  :block/updated-at 1652350493049}
+ {:block/name "skupper_init",
+  :block/created-at 1652350493081,
+  :block/updated-at 1652351373418}
+ {:block/name "skupper_link",
+  :block/created-at 1652350493107,
+  :block/updated-at 1652350493107}
+ {:block/name "skupper_link_create",
+  :block/created-at 1652350493131,
+  :block/updated-at 1652350493131}
+ {:block/name "skupper_link_delete",
+  :block/created-at 1652350493157,
+  :block/updated-at 1652350493157}
+ {:block/name "skupper_link_status",
+  :block/created-at 1652350493180,
+  :block/updated-at 1652350493180}
+ {:block/name "skupper_man",
+  :block/created-at 1652350493201,
+  :block/updated-at 1652350493201}
+ {:block/name "skupper_network",
+  :block/created-at 1652350493226,
+  :block/updated-at 1652350493226}
+ {:block/name "skupper_network_status",
+  :block/created-at 1652350493250,
+  :block/updated-at 1652350493250}
+ {:block/name "skupper_revoke-access",
+  :block/created-at 1652350493278,
+  :block/updated-at 1652350493278}
+ {:block/name "skupper_service",
+  :block/created-at 1652350493308,
+  :block/updated-at 1652350493308}
+ {:block/name "skupper_service_bind",
+  :block/created-at 1652350493334,
+  :block/updated-at 1652350493334}
+ {:block/name "skupper_service_create",
+  :block/created-at 1652350493357,
+  :block/updated-at 1652350493357}
+ {:block/name "skupper_service_delete",
+  :block/created-at 1652350493384,
+  :block/updated-at 1652350493384}
+ {:block/name "skupper_service_label",
+  :block/created-at 1652350493410,
+  :block/updated-at 1652350493410}
+ {:block/name "skupper_service_status",
+  :block/created-at 1652350493434,
+  :block/updated-at 1652350493434}
+ {:block/name "skupper_service_unbind",
+  :block/created-at 1652350493460,
+  :block/updated-at 1652350493460}
+ {:block/name "skupper_status",
+  :block/created-at 1652350493484,
+  :block/updated-at 1652350493484}
+ {:block/name "skupper_token",
+  :block/created-at 1652350493508,
+  :block/updated-at 1652350493508}
+ {:block/name "skupper_token_create",
+  :block/created-at 1652350493534,
+  :block/updated-at 1652350493534}
+ {:block/name "skupper_unexpose",
+  :block/created-at 1652350493557,
+  :block/updated-at 1652350493557}
+ {:block/name "skupper_update",
+  :block/created-at 1652350493582,
+  :block/updated-at 1652350493582}
+ {:block/name "skupper_version",
+  :block/created-at 1652350493603,
+  :block/updated-at 1652350493603}
+ {:block/name "target-port",
+  :block/created-at 1652356478491,
+  :block/updated-at 1652356478491}
+ {:block/name "terminology review",
+  :block/created-at 1652367074178,
+  :block/updated-at 1652371585093}
+ {:block/name "terms",
+  :block/created-at 1652353981844,
+  :block/updated-at 1652353981844}
+ {:block/name "test-example",
+  :block/created-at 1643021412792,
+  :block/updated-at 1643021412792}
+ {:block/name "test-example/planofile",
+  :block/created-at 1643021412792,
+  :block/updated-at 1643021412792}
+ {:block/name "test-example/skewer.yaml",
+  :block/created-at 1643021412792,
+  :block/updated-at 1643021412792}
  {:block/name "todo",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "true - for the technical preview",
-  :block/created-at 1656845812342,
-  :block/updated-at 1656845812342}
- {:block/name "tue, 2020/07",
-  :block/created-at 1656854393409,
-  :block/updated-at 1656854393409}
- {:block/name "tue, 2022",
-  :block/created-at 1656845808405,
-  :block/updated-at 1656845808405}
- {:block/name "tue, 2022/03",
-  :block/created-at 1656845810562,
-  :block/updated-at 1656845810562}
- {:block/name "tue, 2022/03/08",
-  :block/created-at 1656845812717,
-  :block/updated-at 1656845812717}
- {:block/name "tue, 2022/03/22",
-  :block/created-at 1656845810790,
-  :block/updated-at 1656845810790}
- {:block/name "tue, 2022/03/29",
-  :block/created-at 1656845810561,
-  :block/updated-at 1656845810561}
- {:block/name "tue, 2022/04",
-  :block/created-at 1656845809765,
-  :block/updated-at 1656845809765}
- {:block/name "tue, 2022/04/12",
-  :block/created-at 1656845810154,
-  :block/updated-at 1656845810154}
- {:block/name "tue, 2022/04/19",
-  :block/created-at 1656845809946,
-  :block/updated-at 1656845809946}
- {:block/name "tue, 2022/04/26",
-  :block/created-at 1656845809765,
-  :block/updated-at 1656845809765}
- {:block/name "tue, 2022/05",
-  :block/created-at 1656845808791,
-  :block/updated-at 1656845808791}
- {:block/name "tue, 2022/05/03",
-  :block/created-at 1656845809504,
-  :block/updated-at 1656845809504}
- {:block/name "tue, 2022/05/17",
-  :block/created-at 1656845809092,
-  :block/updated-at 1656845809092}
- {:block/name "tue, 2022/05/24",
-  :block/created-at 1656845808972,
-  :block/updated-at 1656845808972}
- {:block/name "tue, 2022/05/31",
-  :block/created-at 1656845808790,
-  :block/updated-at 1656845808790}
- {:block/name "tue, 2022/06",
-  :block/created-at 1656845808405,
-  :block/updated-at 1656845808405}
- {:block/name "tue, 2022/06/28",
-  :block/created-at 1656845808405,
-  :block/updated-at 1657161602290}
- {:block/name "tue, 2022/07",
-  :block/created-at 1657075371019,
-  :block/updated-at 1657075371019}
- {:block/name "tue, 2022/07/05",
-  :block/created-at 1657032142259,
-  :block/updated-at 1657076259278}
- {:block/name "tweet content getter",
-  :block/created-at 1651914855563,
-  :block/updated-at 1651914855563}
- {:block/name "twoslash",
-  :block/created-at 1656845810152,
-  :block/updated-at 1656845810152}
- {:block/name "typeface",
-  :block/created-at 1656845812504,
-  :block/updated-at 1656845812504}
- {:block/name "typescript 4.6",
-  :block/created-at 1656845814107,
-  :block/updated-at 1656845814107}
- {:block/name "valtio",
-  :block/created-at 1656845809289,
-  :block/updated-at 1656845809289}
- {:block/name "variable fonts",
-  :block/created-at 1656845814130,
-  :block/updated-at 1656845814130}
- {:block/name "vite 3",
-  :block/created-at 1656845808472,
-  :block/updated-at 1656845808472}
- {:block/name "vite-logseq-plugin",
-  :block/created-at 1656845810694,
-  :block/updated-at 1656845810694}
- {:block/name "vitest",
-  :block/created-at 1656845809913,
-  :block/updated-at 1656845809913}
- {:block/name "w3c 中文排版需求",
-  :block/created-at 1656845814162,
-  :block/updated-at 1656845814162}
+ {:block/name "type",
+  :block/created-at 1652356478512,
+  :block/updated-at 1652356478512}
+ {:block/name "uses",
+  :block/created-at 1652356478488,
+  :block/updated-at 1652356478488}
  {:block/name "wait",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}
  {:block/name "waiting",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}
- {:block/name "wasm",
-  :block/created-at 1656845811193,
-  :block/updated-at 1656845811193}
- {:block/name
-  "we have implemented a rudimentary filter that blocks emails when shown in standard formats",
-  :block/created-at 1656845812343,
-  :block/updated-at 1656845812343}
- {:block/name "web api intl",
-  :block/created-at 1656845810364,
-  :block/updated-at 1656845810364}
- {:block/name "web api: clipboard",
-  :block/created-at 1656845808509,
-  :block/updated-at 1656845808509}
- {:block/name "web security",
-  :block/created-at 1656845810106,
-  :block/updated-at 1656845810106}
- {:block/name "webpack",
-  :block/created-at 1656845813344,
-  :block/updated-at 1656845813344}
- {:block/name "webpack tree shaking",
-  :block/created-at 1656845814316,
-  :block/updated-at 1656845814316}
- {:block/name "wed, 2022",
-  :block/created-at 1656845808368,
-  :block/updated-at 1656845808368}
- {:block/name "wed, 2022/03",
-  :block/created-at 1656845810526,
-  :block/updated-at 1656845810526}
- {:block/name "wed, 2022/03/23",
-  :block/created-at 1656845810758,
-  :block/updated-at 1656845810758}
- {:block/name "wed, 2022/03/30",
-  :block/created-at 1656845810525,
-  :block/updated-at 1656845810525}
- {:block/name "wed, 2022/04",
-  :block/created-at 1656845809710,
-  :block/updated-at 1656845809710}
- {:block/name "wed, 2022/04/06",
-  :block/created-at 1656845810402,
-  :block/updated-at 1656845810402}
- {:block/name "wed, 2022/04/13",
-  :block/created-at 1656845810106,
-  :block/updated-at 1656845810106}
- {:block/name "wed, 2022/04/20",
-  :block/created-at 1656845809915,
-  :block/updated-at 1656845809915}
- {:block/name "wed, 2022/04/27",
-  :block/created-at 1656845809710,
-  :block/updated-at 1656845809710}
- {:block/name "wed, 2022/05",
-  :block/created-at 1656845809251,
-  :block/updated-at 1656845809251}
- {:block/name "wed, 2022/05/04",
-  :block/created-at 1656845809474,
-  :block/updated-at 1656845809474}
- {:block/name "wed, 2022/05/11",
-  :block/created-at 1656845809250,
-  :block/updated-at 1656845809250}
- {:block/name "wed, 2022/06",
-  :block/created-at 1656845808369,
-  :block/updated-at 1656845808369}
- {:block/name "wed, 2022/06/01",
-  :block/created-at 1656845808752,
-  :block/updated-at 1656845808752}
- {:block/name "wed, 2022/06/08",
-  :block/created-at 1656845808649,
-  :block/updated-at 1656845808649}
- {:block/name "wed, 2022/06/15",
-  :block/created-at 1656845808583,
-  :block/updated-at 1656845808583}
- {:block/name "wed, 2022/06/29",
-  :block/created-at 1656845808368,
-  :block/updated-at 1656845808368}
- {:block/name "wed, 2022/07",
-  :block/created-at 1657075371019,
-  :block/updated-at 1657075371019}
- {:block/name "wed, 2022/07/06",
-  :block/created-at 1657036803709,
-  :block/updated-at 1657076232116}
- {:block/name
-  "what is the differences between clojurescript with clojure",
-  :block/created-at 1656845809762,
-  :block/updated-at 1656845809762}
- {:block/name "whiteboard ux ideas",
-  :block/created-at 1656845808790,
-  :block/updated-at 1656845808790}
- {:block/name "why pnpm use hard link instead of symbolic link?",
-  :block/created-at 1656042228434,
-  :block/updated-at 1656042228434}
- {:block/name "why react 18 types break?",
-  :block/created-at 1656845810103,
-  :block/updated-at 1656845810103}
- {:block/name "why we don't have a parent selector",
-  :block/created-at 1656845810066,
-  :block/updated-at 1656845810066}
- {:block/name "xdm",
-  :block/created-at 1656042228813,
-  :block/updated-at 1656042228813}
- {:block/name "xuanwo",
-  :block/created-at 1656845812716,
-  :block/updated-at 1656845812716}
- {:block/name "“一把梭：rest api 全用 post”",
-  :block/created-at 1656042229474,
-  :block/updated-at 1656042229474}
- {:block/name "业务逻辑拆分模式",
-  :block/created-at 1656042229884,
-  :block/updated-at 1656042229884}
- {:block/name "字体",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
- {:block/name "小红书: 52 设计原则",
-  :block/created-at 1656042229571,
-  :block/updated-at 1656042229571}
- {:block/name "小红书: 52设计原则",
-  :block/created-at 1656845810811,
-  :block/updated-at 1656845810811}
- {:block/name "思源字体",
-  :block/created-at 1656845812806,
-  :block/updated-at 1656845812806}
- {:block/name "斗鱼追光体",
-  :block/created-at 1656042229629,
-  :block/updated-at 1656042229629}
- {:block/name "架构设计",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
- {:block/name "汉字测试",
-  :block/created-at 1656042229564,
-  :block/updated-at 1656042229564}
- {:block/name "重点",
-  :block/created-at 1651134236961,
-  :block/updated-at 1651134236961}
- {:block/name "野生架构师newsletter",
-  :block/created-at 1656845810026, 
-  :block/updated-at 1656845810026}]
+ {:block/name "what is the router",
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "what skupper is not",
+  :block/created-at 1639069837362, 
+  :block/updated-at 1639069837362}]
