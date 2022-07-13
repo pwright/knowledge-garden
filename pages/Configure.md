@@ -8,3 +8,4 @@
 	- If you want a specific ingress type, you can specify that:
 	  `skupper init --ingress nodeport`
 	- See
+- {{embed [[skupper_init]]}}

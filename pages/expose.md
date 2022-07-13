@@ -1,7 +1,10 @@
-- tls
-- headless
-- k8s
-	- pods
+- The easiest way to expose a service to all sites is `skupper expose`
+- Some more complex scenarios include:
+  collapsed:: true
+	- tls
+	- headless
+	- k8s
+		- pods
 -
 - {{embed [[skupper_expose]]}}
 -
