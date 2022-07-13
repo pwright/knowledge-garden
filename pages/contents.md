@@ -1,2 +1,6 @@
-- [[schema]] for skupper router
+- [[Configure]] a site
+- [[Link]] sites
+- [[Expose]] and consume services
 -
+- Reference
+	- [[schema]] for skupper router

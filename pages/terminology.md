@@ -1,0 +1,12 @@
+- Service network
+	- skupper network
+	- application service network
+	- virtual application network
+- initialize a site
+	- deploy skupper
+	- install skupper
+- expose a service
+	- create and bind
+- declarative
+	- operator
+-

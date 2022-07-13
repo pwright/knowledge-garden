@@ -4,9 +4,24 @@
  {:block/name "0002-avoid-router-restarts",
   :block/created-at 1652350492475,
   :block/updated-at 1652350492475}
+ {:block/name "2021-12-09",
+  :block/created-at 1657539416078,
+  :block/updated-at 1657539416078}
+ {:block/name "2021-12-10",
+  :block/created-at 1657539416045,
+  :block/updated-at 1657539416045}
+ {:block/name "2022-05-12",
+  :block/created-at 1657539416017,
+  :block/updated-at 1657539416017}
+ {:block/name "2022-05-30",
+  :block/created-at 1657539415986,
+  :block/updated-at 1657539415986}
  {:block/name "2022-07-11",
   :block/created-at 1657539407305,
-  :block/updated-at 1657539407305}
+  :block/updated-at 1657544887530}
+ {:block/name "2022-07-12",
+  :block/created-at 1657614933162,
+  :block/updated-at 1657614933162}
  {:block/name "a",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -16,18 +31,12 @@
  {:block/name "aggregate",
   :block/created-at 1652356478491,
   :block/updated-at 1652356478491}
- {:block/name "amqp",
-  :block/created-at 1639069837362,
-  :block/updated-at 1639069837362}
  {:block/name "annotations",
   :block/created-at 1652356478508,
   :block/updated-at 1652356478508}
  {:block/name "b",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "building",
-  :block/created-at 1639069837362,
-  :block/updated-at 1639069837362}
  {:block/name "c",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -40,18 +49,33 @@
  {:block/name "card",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "cli",
-  :block/created-at 1652350020433,
-  :block/updated-at 1652350020433}
  {:block/name "config",
   :block/created-at 1652356478513,
   :block/updated-at 1652356478513}
+ {:block/name "config-sync-cpu",
+  :block/created-at 1657545082917,
+  :block/updated-at 1657545082917}
+ {:block/name "config-sync-cpu-limit",
+  :block/created-at 1657545082918,
+  :block/updated-at 1657545082918}
+ {:block/name "config-sync-memory",
+  :block/created-at 1657545082917,
+  :block/updated-at 1657545082917}
+ {:block/name "config-sync-memory-limit",
+  :block/created-at 1657545082919,
+  :block/updated-at 1657545082919}
  {:block/name "connectivity",
   :block/created-at 1643021412792,
   :block/updated-at 1643021412792}
+ {:block/name "console",
+  :block/created-at 1657545082886,
+  :block/updated-at 1657545082886}
  {:block/name "console-auth",
   :block/created-at 1652356478511,
   :block/updated-at 1652356478511}
+ {:block/name "console-authentication",
+  :block/created-at 1657545082886,
+  :block/updated-at 1657545082886}
  {:block/name "console-ingress",
   :block/created-at 1652356478509,
   :block/updated-at 1652356478509}
@@ -64,9 +88,6 @@
  {:block/name "contents",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}
- {:block/name "contribution guide",
-  :block/created-at 1652350020455,
-  :block/updated-at 1652350020455}
  {:block/name "controller-cpu",
   :block/created-at 1652356478500,
   :block/updated-at 1652356478500}
@@ -97,18 +118,15 @@
  {:block/name "controller-service-annotation",
   :block/created-at 1652356478495,
   :block/updated-at 1652356478495}
+ {:block/name "controller-service-annotations",
+  :block/created-at 1657545082915,
+  :block/updated-at 1657545082915}
  {:block/name "cost",
   :block/created-at 1652356478492,
   :block/updated-at 1652356478492}
  {:block/name "create-network-policy",
   :block/created-at 1652356478511,
   :block/updated-at 1652356478511}
- {:block/name "dec 10th, 2021",
-  :block/created-at 1639094400000,
-  :block/updated-at 1639094400000}
- {:block/name "dec 9th, 2021",
-  :block/created-at 1639052943155,
-  :block/updated-at 1639069906529}
  {:block/name "delete-last",
   :block/created-at 1652356478512,
   :block/updated-at 1652356478512}
@@ -118,9 +136,9 @@
  {:block/name "done",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "draws/2021-12-10-10-03-28.excalidraw",
-  :block/created-at 1657539415252,
-  :block/updated-at 1657539415252}
+ {:block/name "draws/overview.excalidraw",
+  :block/created-at 1657632363828,
+  :block/updated-at 1657632363828}
  {:block/name "enable-console",
   :block/created-at 1652356478511,
   :block/updated-at 1652356478511}
@@ -2791,9 +2809,6 @@
  {:block/name "event-channel",
   :block/created-at 1652356478490,
   :block/updated-at 1652356478490}
- {:block/name "example ",
-  :block/created-at 1643021412792,
-  :block/updated-at 1643021412792}
  {:block/name "examples",
   :block/created-at 1639069915644,
   :block/updated-at 1639073074977}
@@ -2812,22 +2827,9 @@
  {:block/name "gateway",
   :block/created-at 1652350633678,
   :block/updated-at 1652350684917}
- {:block/name "glossary of terms",
-  :block/created-at 1652350020455,
-  :block/updated-at 1652350020455}
- {:block/name "glossary-of-terms",
-  :block/created-at 1639069837362,
-  :block/updated-at 1639069837362}
  {:block/name "headless",
   :block/created-at 1652356478516,
   :block/updated-at 1652356478516}
- {:block/name "home",
-  :block/created-at 1639052955746,
-  :block/updated-at 1639052955746}
- {:block/name
-  "https://github.com/skupperproject/skupper-docs/blob/main/modules/root/assets/images/overview.svg",
-  :block/created-at 1653904478091,
-  :block/updated-at 1653904478091}
  {:block/name "in-progress",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -2846,9 +2848,6 @@
  {:block/name "introduction",
   :block/created-at 1639052955746,
   :block/updated-at 1639054187224}
- {:block/name "jul 11th, 2022",
-  :block/created-at 1657533552174,
-  :block/updated-at 1657533552174}
  {:block/name "kubeconfig",
   :block/created-at 1652356478487,
   :block/updated-at 1652356478487}
@@ -2864,18 +2863,6 @@
  {:block/name "mapping",
   :block/created-at 1652356478490,
   :block/updated-at 1652356478490}
- {:block/name "may 12th, 2022",
-  :block/created-at 1652350019152,
-  :block/updated-at 1652371245845}
- {:block/name "may 30th, 2022",
-  :block/created-at 1653902730289,
-  :block/updated-at 1653913552463}
- {:block/name "mon, 2022/07",
-  :block/created-at 1657537271839,
-  :block/updated-at 1657537271839}
- {:block/name "mon, 2022/07/11",
-  :block/created-at 1657537152350,
-  :block/updated-at 1657537152350}
  {:block/name "name",
   :block/created-at 1652356478489,
   :block/updated-at 1652356478489}
@@ -2912,9 +2899,9 @@
  {:block/name "readme",
   :block/created-at 1656845811080,
   :block/updated-at 1656845811080}
- {:block/name "router",
-  :block/created-at 1639069837362,
-  :block/updated-at 1639069837362}
+ {:block/name "router-console",
+  :block/created-at 1657545082891,
+  :block/updated-at 1657545082891}
  {:block/name "router-cpu",
   :block/created-at 1652356478505,
   :block/updated-at 1652356478505}
@@ -2960,18 +2947,21 @@
  {:block/name "schema",
   :block/created-at 1653903008592,
   :block/updated-at 1653903008592}
- {:block/name "service network",
-  :block/created-at 1652350020432,
-  :block/updated-at 1652350020432}
- {:block/name "service-network",
-  :block/created-at 1639069837362,
-  :block/updated-at 1639069837362}
+ {:block/name "service-controller",
+  :block/created-at 1657545082908,
+  :block/updated-at 1657545082908}
+ {:block/name "service-sync",
+  :block/created-at 1657545082908,
+  :block/updated-at 1657545082908}
  {:block/name "show-labels",
   :block/created-at 1652356478490,
   :block/updated-at 1652356478490}
  {:block/name "site-name",
   :block/created-at 1652356478512,
   :block/updated-at 1652356478512}
+ {:block/name "site.ingress-annotations",
+  :block/created-at 1657545082881,
+  :block/updated-at 1657545082881}
  {:block/name "skupper",
   :block/created-at 1652350331622,
   :block/updated-at 1652350331622}
@@ -3158,6 +3148,9 @@
  {:block/name "skupper-example/trade-zoo",
   :block/created-at 1652371190069,
   :block/updated-at 1652371190069}
+ {:block/name "skupper/init",
+  :block/created-at 1657544887472,
+  :block/updated-at 1657545625867}
  {:block/name "skupper_completion",
   :block/created-at 1652350492562,
   :block/updated-at 1652350492562}
@@ -3284,21 +3277,15 @@
  {:block/name "target-port",
   :block/created-at 1652356478491,
   :block/updated-at 1652356478491}
+ {:block/name "terminology",
+  :block/created-at 1657542915496,
+  :block/updated-at 1657543169510}
  {:block/name "terminology review",
   :block/created-at 1652367074178,
   :block/updated-at 1652371585093}
  {:block/name "terms",
   :block/created-at 1652353981844,
   :block/updated-at 1652353981844}
- {:block/name "test-example",
-  :block/created-at 1643021412792,
-  :block/updated-at 1643021412792}
- {:block/name "test-example/planofile",
-  :block/created-at 1643021412792,
-  :block/updated-at 1643021412792}
- {:block/name "test-example/skewer.yaml",
-  :block/created-at 1643021412792,
-  :block/updated-at 1643021412792}
  {:block/name "todo",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -3318,5 +3305,11 @@
   :block/created-at 1639069837362,
   :block/updated-at 1639069837362}
  {:block/name "what skupper is not",
-  :block/created-at 1639069837362, 
-  :block/updated-at 1639069837362}]
+  :block/created-at 1639069837362,
+  :block/updated-at 1639069837362}
+ {:block/name "xp-router-max-frame-size",
+  :block/created-at 1657545082902,
+  :block/updated-at 1657545082902}
+ {:block/name "xp-router-max-session-frames",
+  :block/created-at 1657545082903, 
+  :block/updated-at 1657545082903}]
