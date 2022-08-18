@@ -1,0 +1,2 @@
+- `skupper init --site-name <site-name>`
+- [[skupper_init]]

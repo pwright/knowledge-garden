@@ -25,12 +25,6 @@
  {:block/name "2022-07-19",
   :block/created-at 1658216992749,
   :block/updated-at 1658227468995}
- {:block/name "2022-07-20",
-  :block/created-at 1658303399688,
-  :block/updated-at 1658303399688}
- {:block/name "2022-07-21",
-  :block/created-at 1658405208045,
-  :block/updated-at 1658405208045}
  {:block/name "2022-07-26",
   :block/created-at 1658845328591,
   :block/updated-at 1658846546285}
@@ -45,16 +39,13 @@
   :block/updated-at 1659956695666}
  {:block/name "2022-08-08",
   :block/created-at 1659948970845,
-  :block/updated-at 1659956956291}
+  :block/updated-at 1660806210596}
  {:block/name "2022-08-17",
   :block/created-at 1660764832754,
-  :block/updated-at 1660765408452}
- {:block/name "62cc0b59-8f49-4c84-af77-245f06273431",
-  :block/created-at 1659010549444,
-  :block/updated-at 1659010549444}
- {:block/name "62cc0b59-d1d4-4a2f-a4a6-23a3345c1bea",
-  :block/created-at 1659010489523,
-  :block/updated-at 1659010489523}
+  :block/updated-at 1660806042338}
+ {:block/name "2022-08-18",
+  :block/created-at 1660769303317,
+  :block/updated-at 1660769455817}
  {:block/name "a",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -70,9 +61,6 @@
  {:block/name "b",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "bob",
-  :block/created-at 1660034090928,
-  :block/updated-at 1660034090928}
  {:block/name "c",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -175,9 +163,6 @@
  {:block/name "done",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "draws/overview.excalidraw",
-  :block/created-at 1657632363828,
-  :block/updated-at 1657632363828}
  {:block/name "enable-console",
   :block/created-at 1652356478511,
   :block/updated-at 1652356478511}
@@ -2887,9 +2872,6 @@
  {:block/name "introduction",
   :block/created-at 1639052955746,
   :block/updated-at 1639054187224}
- {:block/name "justin",
-  :block/created-at 1660034078650,
-  :block/updated-at 1660034078650}
  {:block/name "kubeconfig",
   :block/created-at 1652356478487,
   :block/updated-at 1652356478487}
@@ -2911,6 +2893,9 @@
  {:block/name "name",
   :block/created-at 1652356478489,
   :block/updated-at 1652356478489}
+ {:block/name "naming sites",
+  :block/created-at 1660806033750,
+  :block/updated-at 1660806129513}
  {:block/name "now",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
