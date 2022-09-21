@@ -1,6 +1,11 @@
-- [[Configure]] a site
-- [[Link]] sites
+- [[Configure]] a site by installing Skupper
+- [[Link]] sites (not necessary for gateways)
 - [[Expose]] and consume services
 -
+- Check out articles relating to:
+	- [[Ingress]]
+	- [[Jokes]]
+	- [[examples]]
+	-
 - Reference
 	- [[schema]] for skupper router
