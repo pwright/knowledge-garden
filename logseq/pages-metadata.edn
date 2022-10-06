@@ -142,15 +142,9 @@
  {:block/name "done",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
- {:block/name "draws/overview.excalidraw",
-  :block/created-at 1663773161654,
-  :block/updated-at 1663773161654}
  {:block/name "enable-console",
   :block/created-at 1662389285283,
   :block/updated-at 1662389285283}
- {:block/name "enable-router-console",
-  :block/created-at 1662389285249,
-  :block/updated-at 1662389285249}
  {:block/name "enable-service-sync",
   :block/created-at 1662389285252,
   :block/updated-at 1662389285252}
@@ -2815,6 +2809,9 @@
  {:block/name "event-channel",
   :block/created-at 1662389285330,
   :block/updated-at 1662389285330}
+ {:block/name "example ",
+  :block/created-at 1665069538814,
+  :block/updated-at 1665069538814}
  {:block/name "examples",
   :block/created-at 1639069915644,
   :block/updated-at 1663773095185}
@@ -2890,9 +2887,6 @@
  {:block/name "loopback",
   :block/created-at 1662389285154,
   :block/updated-at 1662389285154}
- {:block/name "mapping",
-  :block/created-at 1662389285328,
-  :block/updated-at 1662389285328}
  {:block/name "may 12th, 2022",
   :block/created-at 1663770254809,
   :block/updated-at 1663770254809}
@@ -2908,6 +2902,9 @@
  {:block/name "now",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665069532983,
+  :block/updated-at 1665069622711}
  {:block/name "port",
   :block/created-at 1652356478516,
   :block/updated-at 1652356478516}
@@ -2935,6 +2932,15 @@
  {:block/name "proxy-pod-antiaffinity",
   :block/created-at 1662389285093,
   :block/updated-at 1662389285093}
+ {:block/name "publish-not-ready-addresses",
+  :block/created-at 1665069536283,
+  :block/updated-at 1665069536283}
+ {:block/name "python",
+  :block/created-at 1665069538815,
+  :block/updated-at 1665069538815}
+ {:block/name "python/skewer.yaml",
+  :block/created-at 1665069538815,
+  :block/updated-at 1665069538815}
  {:block/name "readme",
   :block/created-at 1656845811080,
   :block/updated-at 1656845811080}
@@ -3094,9 +3100,6 @@
  {:block/name "skupper link status",
   :block/created-at 1662389338820,
   :block/updated-at 1662389338820}
- {:block/name "skupper man",
-  :block/created-at 1662389337578,
-  :block/updated-at 1662389337578}
  {:block/name "skupper network",
   :block/created-at 1662389337577,
   :block/updated-at 1662389337577}
@@ -3148,30 +3151,9 @@
  {:block/name "skupper-example",
   :block/created-at 1652371187435,
   :block/updated-at 1652371277156}
- {:block/name "skupper-example-bookinfo",
-  :block/created-at 1662389282165,
-  :block/updated-at 1662389282165}
- {:block/name "skupper-example-grpc",
-  :block/created-at 1662389282167,
-  :block/updated-at 1662389282167}
  {:block/name "skupper-example-http-load-balancing",
   :block/created-at 1652435130819,
   :block/updated-at 1652435130819}
- {:block/name "skupper-example-iperf",
-  :block/created-at 1662389282174,
-  :block/updated-at 1662389282174}
- {:block/name "skupper-example-mongodb-replica-set",
-  :block/created-at 1662389282172,
-  :block/updated-at 1662389282172}
- {:block/name "skupper-example-postgresql",
-  :block/created-at 1662389282163,
-  :block/updated-at 1662389282163}
- {:block/name "skupper-example-prometheus",
-  :block/created-at 1662389282159,
-  :block/updated-at 1662389282159}
- {:block/name "skupper-example-tcp-echo",
-  :block/created-at 1662389282171,
-  :block/updated-at 1662389282171}
  {:block/name "skupper-example/bookinfo",
   :block/created-at 1652371188412,
   :block/updated-at 1652371188412}
@@ -3280,9 +3262,6 @@
  {:block/name "skupper_link_status",
   :block/created-at 1662389341111,
   :block/updated-at 1662389341111}
- {:block/name "skupper_man",
-  :block/created-at 1662389339059,
-  :block/updated-at 1662389339059}
  {:block/name "skupper_network",
   :block/created-at 1662389339382,
   :block/updated-at 1662389339382}
@@ -3343,6 +3322,15 @@
  {:block/name "terms",
   :block/created-at 1652353981844,
   :block/updated-at 1652353981844}
+ {:block/name "test-example",
+  :block/created-at 1665069538815,
+  :block/updated-at 1665069538815}
+ {:block/name "test-example/skewer.yaml",
+  :block/created-at 1665069538815,
+  :block/updated-at 1665069538815}
+ {:block/name "timeout",
+  :block/created-at 1665069536283,
+  :block/updated-at 1665069536283}
  {:block/name "todo",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -3352,6 +3340,9 @@
  {:block/name "uses",
   :block/created-at 1662389285350,
   :block/updated-at 1662389285350}
+ {:block/name "verbose",
+  :block/created-at 1665069536282,
+  :block/updated-at 1665069536282}
  {:block/name "wait",
   :block/created-at 1656845814441,
   :block/updated-at 1656845814441}

@@ -36,7 +36,7 @@
 * [[address]]
       --address string                  The Skupper address to expose
 * [[enable-tls]]
-      --enable-tls                      If specified, the service will be exposed over TLS
+      --enable-tls                      If specified, the service will be exposed over TLS (valid only for http2 protocol)
 * [[headless]]
       --headless                        Expose through a headless service (valid only for a statefulset target)
 * [[port]]
@@ -57,6 +57,8 @@
       --proxy-pod-affinity string       Pod affinity label matches to control placement of router pods
 * [[proxy-pod-antiaffinity]]
       --proxy-pod-antiaffinity string   Pod antiaffinity label matches to control placement of router pods
+* [[publish-not-ready-addresses]]
+      --publish-not-ready-addresses     If specified, skupper will not wait for pods to be ready
 * [[target-port]]
       --target-port strings             The ports to target on pods
 * [[kubeconfig]]
@@ -137,6 +139,20 @@
 ## cli/skupper_init.md
 * [[site-name]]
       --site-name string                        Provide a specific name for this skupper installation
+* [[ingress]]
+      --ingress string                          Setup Skupper ingress to one of: [route|loadbalancer|nodeport|nginx-ingress-v1|contour-http-proxy|ingress|none]. If not specified route is used when available, otherwise loadbalancer is used.
+* [[ingress-host]]
+      --ingress-host string                     Hostname or alias by which the ingress route or proxy can be reached
+* [[router-mode]]
+      --router-mode string                      Skupper router-mode (default "interior")
+* [[labels]]
+      --labels strings                          Labels to add to skupper pods
+* [[router-logging]]
+      --router-logging string                   Logging settings for router. 'trace', 'debug', 'info' (default), 'notice', 'warning', and 'error' are valid values.
+* [[router-debug-mode]]
+      --router-debug-mode string                Enable debug mode for router ('asan' or 'gdb' are valid values)
+* [[routers]]
+      --routers int                             Number of router replicas to start
 * [[enable-console]]
       --enable-console                          Enable skupper console (default true)
 * [[create-network-policy]]
@@ -147,30 +163,18 @@
       --console-user string                     Skupper console user. Valid only when --console-auth=internal
 * [[console-password]]
       --console-password string                 Skupper console user. Valid only when --console-auth=internal
-* [[ingress]]
-      --ingress string                          Setup Skupper ingress to one of: [route|loadbalancer|nodeport|nginx-ingress-v1|contour-http-proxy|ingress|none]. If not specified route is used when available, otherwise loadbalancer is used.
-* [[ingress-annotations]]
-      --ingress-annotations strings             Annotations to add to skupper ingress
 * [[console-ingress]]
       --console-ingress string                  Determines if/how console is exposed outside cluster. If not specified uses value of --ingress. One of: [route|loadbalancer|nodeport|nginx-ingress-v1|contour-http-proxy|ingress|none].
-* [[ingress-host]]
-      --ingress-host string                     Hostname or alias by which the ingress route or proxy can be reached
-* [[router-mode]]
-      --router-mode string                      Skupper router-mode (default "interior")
+* [[ingress-annotations]]
+      --ingress-annotations strings             Annotations to add to skupper ingress
 * [[annotations]]
       --annotations strings                     Annotations to add to skupper pods
-* [[labels]]
-      --labels strings                          Labels to add to skupper pods
+* [[router-service-annotations]]
+      --router-service-annotations strings      Annotations to add to skupper router service
+* [[controller-service-annotation]]
+      --controller-service-annotation strings   Annotations to add to skupper controller service
 * [[enable-service-sync]]
       --enable-service-sync                     Participate in cross-site service synchronization (default true)
-* [[enable-router-console]]
-      --enable-router-console                   Enable router console
-* [[router-logging]]
-      --router-logging string                   Logging settings for router. 'trace', 'debug', 'info' (default), 'notice', 'warning', and 'error' are valid values.
-* [[router-debug-mode]]
-      --router-debug-mode string                Enable debug mode for router ('asan' or 'gdb' are valid values)
-* [[routers]]
-      --routers int                             Number of router replicas to start
 * [[router-cpu]]
       --router-cpu string                       CPU request for router pods
 * [[router-memory]]
@@ -187,8 +191,6 @@
       --router-pod-antiaffinity string          Pod antiaffinity label matches to control placement of router pods
 * [[router-ingress-host]]
       --router-ingress-host string              Host through which node is accessible when using nodeport as ingress.
-* [[router-service-annotations]]
-      --router-service-annotations strings      Annotations to add to skupper router service
 * [[router-load-balancer-ip]]
       --router-load-balancer-ip string          Load balancer ip that will be used for router service, if supported by cloud provider
 * [[controller-cpu]]
@@ -207,10 +209,18 @@
       --controller-pod-antiaffinity string      Pod antiaffinity label matches to control placement of controller pods
 * [[controller-ingress-host]]
       --controller-ingress-host string          Host through which node is accessible when using nodeport as ingress.
-* [[controller-service-annotation]]
-      --controller-service-annotation strings   Annotations to add to skupper controller service
 * [[controller-load-balancer-ip]]
       --controller-load-balancer-ip string      Load balancer ip that will be used for controller service, if supported by cloud provider
+* [[config-sync-cpu]]
+      --config-sync-cpu string                  CPU request for config-sync pods
+* [[config-sync-memory]]
+      --config-sync-memory string               Memory request for config-sync pods
+* [[config-sync-cpu-limit]]
+      --config-sync-cpu-limit string            CPU limit for config-sync pods
+* [[config-sync-memory-limit]]
+      --config-sync-memory-limit string         Memory limit for config-sync pods
+* [[timeout]]
+      --timeout duration                        Configurable timeout for the ingress loadbalancer option. (default 2m0s)
 * [[kubeconfig]]
       --kubeconfig string   Path to the kubeconfig file to use
 
@@ -231,12 +241,12 @@
       --kubeconfig string   Path to the kubeconfig file to use
 
 ## cli/skupper_link_status.md
+* [[timeout]]
+      --timeout duration   Configurable timeout for retrieving information about remote links (default 2m0s)
+* [[verbose]]
+      --verbose            Show detailed information about a link
 * [[wait]]
-      --wait int   The number of seconds to wait for links to become active
-* [[kubeconfig]]
-      --kubeconfig string   Path to the kubeconfig file to use
-
-## cli/skupper_man.md
+      --wait int           The number of seconds to wait for links to become active
 * [[kubeconfig]]
       --kubeconfig string   Path to the kubeconfig file to use
 
@@ -245,6 +255,8 @@
       --kubeconfig string   Path to the kubeconfig file to use
 
 ## cli/skupper_network_status.md
+* [[timeout]]
+      --timeout duration   Configurable timeout for retrieving remote information (default 2m0s)
 * [[kubeconfig]]
       --kubeconfig string   Path to the kubeconfig file to use
 
@@ -258,9 +270,11 @@
 
 ## cli/skupper_service_bind.md
 * [[protocol]]
-      --protocol string       The protocol to proxy (tcp, http or http2).
+      --protocol string               The protocol to proxy (tcp, http or http2).
+* [[publish-not-ready-addresses]]
+      --publish-not-ready-addresses   If specified, skupper will not wait for pods to be ready
 * [[target-port]]
-      --target-port strings   The port the target is listening on (you can also use colon to map source-port to a target-port).
+      --target-port strings           The port the target is listening on (you can also use colon to map source-port to a target-port).
 * [[kubeconfig]]
       --kubeconfig string   Path to the kubeconfig file to use
 
@@ -271,8 +285,8 @@
       --enable-tls         If specified, the service communication will be encrypted using TLS
 * [[event-channel]]
       --event-channel      If specified, this service will be a channel for multicast events.
-* [[mapping]]
-      --mapping string     The mapping in use for this service address (currently one of tcp or http) (default "tcp")
+* [[protocol]]
+      --protocol string    The mapping in use for this service address (tcp, http, http2) (default "tcp")
 * [[kubeconfig]]
       --kubeconfig string   Path to the kubeconfig file to use
 
@@ -314,9 +328,9 @@
 
 ## cli/skupper_unexpose.md
 * [[address]]
-    --address string   Skupper address the target was exposed as
+      --address string   Skupper address the target was exposed as
 * [[kubeconfig]]
-    --kubeconfig string   Path to the kubeconfig file to use
+      --kubeconfig string   Path to the kubeconfig file to use
 
 ## cli/skupper_update.md
 * [[force-restart]]

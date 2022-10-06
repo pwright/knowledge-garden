@@ -10,7 +10,7 @@ nl='\n'
 
 
 @command
-def generate(app):
+def generate():
     """
     Generate terminology
     """
