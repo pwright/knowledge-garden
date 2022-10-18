@@ -1,3 +1,4 @@
+from distutils.file_util import write_file
 from plano import *
 import csv
 import os
@@ -7,6 +8,73 @@ import sys;print(sys.version)
 
 regexp_term = re.compile(r'^\s*\-\-(.*?) .*')
 nl='\n'
+
+@command
+def generateAdoc():
+    """
+    Generate asciidoc files
+    """
+    logseqDir = get_current_dir()
+    dirName='skupper-generate'
+    with working_dir(dirName):
+        print(get_current_dir())
+        for path in find("./", "*.md"):
+            print(path)
+            cmd = "kramdoc --format=GFM --wrap=ventilate " + path 
+            
+            result = call(cmd,"","shell=true")
+            print(result)
+
+
+@command
+def updateAdoc():
+    """
+    Update asciidoc files
+    """
+    logseqDir = get_current_dir()
+    dirName='skupper-generate'
+    with working_dir(dirName):
+        print(get_current_dir())
+        for path in find("./", "*.adoc"):
+            print(path)
+            lines=read_lines(path)
+            write_file(path, '')
+            for line in lines:
+                 # H1
+                 line = replace(line,'^==','=')
+                 line = replace(line,'== Synopsis','.Synopsis')
+                 line = replace(line,'----','')
+                 line = replace(line,'== Options', '.Options')
+                 
+                 # find end material
+                 #
+
+
+                 line = replace(line,'  -h, --help                                    help for init','// ')
+                 line = replace(line,'  -c, --context string      The kubeconfig context to use','// ')
+                 line = replace(line,'.*--kubeconfig.*','// ')
+                 line = replace(line,'  -n, --namespace string    The Kubernetes namespace to use','// ')
+
+                 
+                 
+                 # find options
+
+                 if (result := re.match(r"skupper (.*)\[flags\]", line)) is not None:
+                    line= ' skupper ' + result[1] + ' --[option]\n\n'
+                 if (result := re.match(r"      --(.*)\b(.*)?[ ]{2,}(.*)", line)) is not None:
+                    if (optionType := re.split(r"\s", result[1])) is not None:
+                        if len(optionType)>1:
+                            line=  optionType[0] + ':: \n' + result[3] + '\n ('+ optionType[1] +')\n'
+                        else:
+                            line=  optionType[0] + ':: \n' + result[3] + '\n (bool)\n'
+                 line = replace(line,'== SEE ALSO','.See also')
+                 line = replace(line,'\[discrete\]','')
+                 line = replace(line,'^====','// ')
+                 
+
+                 append_lines(path, line)
+
+            
 
 
 @command
