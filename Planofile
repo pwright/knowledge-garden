@@ -50,7 +50,7 @@ def updateAdoc():
                  #
 
 
-                 line = replace(line,'  -h, --help                                    help for init','// ')
+                 line = replace(line,'.*  -h, --help .*','// ')
                  line = replace(line,'  -c, --context string      The kubeconfig context to use','// ')
                  line = replace(line,'.*--kubeconfig.*','// ')
                  line = replace(line,'  -n, --namespace string    The Kubernetes namespace to use','// ')
