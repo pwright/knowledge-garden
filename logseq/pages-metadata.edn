@@ -2899,12 +2899,15 @@
  {:block/name "naming sites",
   :block/created-at 1660806033750,
   :block/updated-at 1660806129513}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668420850451,
+  :block/updated-at 1668421113559}
  {:block/name "now",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666604371264,
-  :block/updated-at 1666604371264}
+  :block/updated-at 1666606505007}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665069532983,
   :block/updated-at 1665069622711}
@@ -3187,6 +3190,12 @@
  {:block/name "skupper-example/trade-zoo",
   :block/created-at 1652371190069,
   :block/updated-at 1652371190069}
+ {:block/name "skupper/cli",
+  :block/created-at 1666606454527,
+  :block/updated-at 1666606468973}
+ {:block/name "skupper/docs",
+  :block/created-at 1666606504949,
+  :block/updated-at 1666606551808}
  {:block/name "skupper/init",
   :block/created-at 1657544887472,
   :block/updated-at 1657545625867}
