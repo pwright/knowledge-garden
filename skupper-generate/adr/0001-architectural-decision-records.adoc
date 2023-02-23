@@ -2,19 +2,19 @@
 
 Date: 2022-03-16
 
-= Status
+== Status
 
 Accepted
 
-= Context
+== Context
 
 We need to record the architecture decision records in order to have information about important  changes made in the project.
 
-= Decision
+== Decision
 
 We will use Architecture Decision Records, as long it provides value to the project.
 
-= Consequences
+== Consequences
 
 Each record will include a single decision.
 
