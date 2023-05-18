@@ -1,14 +1,14 @@
-endif::mod-loc[]
-[id="skupper-console"] 
-= Using the Skupper console
+
+sid:: skupper-console 
+# Using the Skupper console
 
 The Skupper console provides data and visualizations of the traffic flow between Skupper sites.
 
 **📌 NOTE**\
 This is a preview feature and may change before becoming fully supported by [skupper.io](https://skupper.io).
 
-[id="enabling-console"] 
-== Enabling the Skupper console
+sid:: enabling-console 
+## Enabling the Skupper console
 
 By default, when you create a {skupper-name} site, a Skupper console is not available.
 
@@ -19,11 +19,6 @@ When enabled, the Skupper console URL is displayed whenever you check site statu
 1. Determine which site in your {service-network} is best to enable the console.
 
    Enabling the console also requires that you enable the flow-collector component, which requires resources to process traffic data from all sites.
-
-   **📌 NOTE**\
-   The flow-collector makes all services that are available in the namespace visible in the console.
-   For example, if you deploy a `frontend` component in the namespace where the flow-collector exists, the `frontend` is visible in the console even though that is not a component exposed on the {service-network}.
-
    You might locate the console using the following criteria:
 
    * Does the {service-network} cross a firewall?
@@ -41,8 +36,8 @@ When enabled, the Skupper console URL is displayed whenever you check site statu
    **❗ IMPORTANT**\
    Currently, you must enable the console on the same site as you enable the flow collector. This requirement may change before the console is fully supported by [skupper.io](https://skupper.io).
 
-[id="accessing-console"] 
-== Accessing the Skupper console
+sid:: accessing-console 
+## Accessing the Skupper console
 
 By default, the Skupper console is protected by credentials available in the `skupper-console-users` secret.
 
@@ -69,8 +64,8 @@ To retrieve the password the `admin` user:
    JNZWzMHtyg
    ```
 
-[id="exploring-console"] 
-== Exploring the Skupper console
+sid:: exploring-console 
+## Exploring the Skupper console
 
 After exposing a service on the {service-network}, you create an _address_, that is, a service name and port number associated with a site. 
 There might be many replicas associated with an address.

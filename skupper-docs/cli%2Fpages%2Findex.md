@@ -1,14 +1,14 @@
-endif::mod-loc[]
 
-[id="skupper-cli"] 
-= Using the Skupper CLI
+
+sid:: skupper-cli 
+# Using the Skupper CLI
 
 Using the `skupper` command-line interface (CLI) allows you to create and manage {skupper-name} sites from the context of the current namespace.
 
 A typical workflow is to create a site, link sites together, and expose services to the {service-network}.
 
-[id="creating-using-cli"] 
-== Creating a site using the CLI
+sid:: creating-using-cli 
+## Creating a site using the CLI
 
 A {service-network} consists of {skupper-name} sites.
 This section describes how to create a site using the default settings.
@@ -36,8 +36,8 @@ This section describes how to create a site using the default settings.
 
 By default, the site name defaults to the namespace name, for example, `west`.
 
-[id="custom-sites"] 
-== Custom sites
+sid:: custom-sites 
+## Custom sites
 
 The default `skupper init` creates sites that satisfy typical requirements. 
 
@@ -74,8 +74,8 @@ There are several `skupper` options regarding authentication for the console:
 
   You can use the `--create-network-policy` option to restrict the `database` service access to `projectA` of `clusterA`.
 
-[id="linking-sites"] 
-== Linking sites
+sid:: linking-sites 
+## Linking sites
 
 A {service-network} consists of {skupper-name} sites.
 This section describes how to link sites to form a {service-network}.
@@ -126,8 +126,8 @@ Linking two sites requires a single initial directional connection. However:
    ```
    where `<link-name>` is the name of the link specified during creation.
 
-[id="link-cost"] 
-== Specifying link cost
+sid:: link-cost 
+## Specifying link cost
 
 When linking sites, you can assign a cost to each link to influence the traffic flow. By default, link cost is set to `1` for a new link.
 In a {service-network}, the routing algorithm attempts to use the path with the lowest total cost from caller to target service.
@@ -167,8 +167,8 @@ In this case, you can specify a cost of greater than `1`.
     Status:        Connected
    ```
 
-[id="exposing-services-ns"] 
-== Exposing services on the {service-network} from a namespace
+sid:: exposing-services-ns 
+## Exposing services on the {service-network} from a namespace
 
 After creating a {service-network}, exposed services can communicate across that network.
 
@@ -179,8 +179,8 @@ See [exposing-simple-services](#exposing-simple-services) for instructions.
 * `service create` and `service bind` is a more flexible method of exposing services, for example, if you have multiple services for a deployment.
 See [exposing-complex-services](#exposing-complex-services) for instructions.
 
-[id="exposing-simple-services"] 
-=== Exposing simple services on the {service-network}
+sid:: exposing-simple-services 
+##= Exposing simple services on the {service-network}
 This section describes how services can be enabled for a {service-network} for simple use cases.
 
 1. Create a deployment, some pods, or a service in one of your sites, for example:
@@ -217,8 +217,8 @@ This section describes how services can be enabled for a {service-network} for s
 **📌 NOTE**\
 If you do not specify ports, `skupper` uses the `containerPort` value of the deployment.
 
-[id="exposing-complex-services"] 
-=== Exposing complex services on the {service-network}
+sid:: exposing-complex-services 
+##= Exposing complex services on the {service-network}
 
 This section describes how services can be enabled for a {service-network} for more complex use cases.
 
@@ -262,8 +262,8 @@ This section describes how services can be enabled for a {service-network} for m
    $ skupper service bind hello-world-backend deployment hello-world-backend
    ```
 
-[id="exposing-services-from-different-ns"] 
-=== Exposing services from a different namespace to the {service-network}
+sid:: exposing-services-from-different-ns 
+##= Exposing services from a different namespace to the {service-network}
 
 This section shows how to expose a service from a namespace where {skupper-name} is not deployed.
 
@@ -292,15 +292,15 @@ This section shows how to expose a service from a namespace where {skupper-name}
      If you want to expose a deployment from another namespace, create a service from the deployment before you try to expose it.
      </dd></dl>
 
-[id="exposing-services-local"] 
-== Exposing services on the {service-network} from a local machine
+sid:: exposing-services-local 
+## Exposing services on the {service-network} from a local machine
 
 After creating a {service-network}, you can expose services from a local machine on the {service-network}.
 
 For example, if you run a database on a server in your data center, you can deploy a front end in a cluster that can access the data as if the database was running in the cluster.
 
-[id="exposing-service-gateway"] 
-=== Exposing simple local services to the {service-network}
+sid:: exposing-service-gateway 
+##= Exposing simple local services to the {service-network}
 
 This section shows how to expose a single service running locally on a {service-network}.
 
@@ -341,8 +341,8 @@ This section shows how to expose a single service running locally on a {service-
 
    The URL field shows the underlying communication and can be ignored.
 
-[id="exposing-services-gateway"] 
-=== Working with complex local services on the {service-network}
+sid:: exposing-services-gateway 
+##= Working with complex local services on the {service-network}
 
 This section shows more advanced usage of skupper gateway.
 
@@ -409,8 +409,8 @@ This section shows more advanced usage of skupper gateway.
    * `<service>` is the name of an existing service on the {service-network}. 
    * `<port>` is the port on the local machine that you want to use.
 
-[id="exporting-gateway"] 
-=== Creating a gateway and applying it on a different machine
+sid:: exporting-gateway 
+##= Creating a gateway and applying it on a different machine
 
 If you have access to a cluster from one machine but want to create a gateway to the {service-network} from a different machine, you can create the gateway definition bundle on the first machine and later apply that definition bundle on a second machine as described in this procedure.
 For example, if you want to expose a local database service to the {service-network}, but you never want to access the cluster from the database server, you can use this procedure to create the definition bundle and apply it on the database server.
@@ -524,8 +524,8 @@ For example, if you want to expose a local database service to the {service-netw
 **📌 NOTE**\
 If you need to change the gateway definition, for example to change port, you need to remove the existing gateway and repeat this procedure from the start to redefine the gateway.
 
-[id="gateway-reference"] 
-=== Gateway YAML reference
+sid:: gateway-reference 
+##= Gateway YAML reference
 
 The [exporting-gateway](#exporting-gateway) describes how to create a gateway to apply on a separate machine using a gateway definition YAML file.
 
@@ -578,8 +578,8 @@ Hostname for skupper router, typically `localhost`.
 * **qdr-listeners.port**\
 Port for skupper router, typically `5672`.
 
-[id="cli-global-options"] 
-== CLI options for working with different clusters
+sid:: cli-global-options 
+## CLI options for working with different clusters
 
 By default, all `skupper` commands apply to the cluster you are logged into and the current namespace.
 The following `skupper` options allow you to override that behavior and apply to all commands:

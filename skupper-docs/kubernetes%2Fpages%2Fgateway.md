@@ -1,8 +1,8 @@
-endif::mod-loc[]
+
 :sectnums:
 
-[id="gateway-tutorial"] 
-= Creating a {service-network} with Kubernetes and accessing a backend service using a gateway
+sid:: gateway-tutorial 
+# Creating a {service-network} with Kubernetes and accessing a backend service using a gateway
 
 This tutorial describes how to connect a local backend service on a local machine with a frontend service running on a {kubernetes-flavor} cluster. 
 
@@ -19,8 +19,8 @@ This tutorial shows how to connect the following:
 **📌 NOTE**\
 Although this tutorial demonstrates exposing a Python service on the {service-network}, a more typical use case would involve a database service, for example, MySQL.
 
-[id="introduction-to-skupper"] 
-== Introduction to {skupper-name} {product-version}
+sid:: introduction-to-skupper 
+## Introduction to {skupper-name} {product-version}
 
 A {service-network} enables communication between services running in different network locations. 
 It allows geographically distributed services to connect as if they were all running in the same site.
@@ -33,8 +33,8 @@ You deploy and manage a {service-network}, including a gateway, using the `skupp
 
 * {SkupperOverviewBookLink}
 
-[id="creating-backend"] 
-== Creating a backend service
+sid:: creating-backend 
+## Creating a backend service
 
 This procedure describes how to create a backend service on your local machine that is accessed from the {service-network}.
 
@@ -78,8 +78,8 @@ This procedure describes how to create a backend service on your local machine t
    ```
    This indicates that the backend service is running and available.
 
-[id="configuring-consoles"] 
-== Logging into cluster
+sid:: configuring-consoles 
+## Logging into cluster
 
 * The kubectl CLI is installed.
 
@@ -92,8 +92,8 @@ This procedure describes how to create a backend service on your local machine t
    This session is referred to later as the _west_ terminal session.
 2. Log into the {kubernetes-flavor} cluster.
 
-[id="installing-skupper"] 
-== Creating a skupper site
+sid:: installing-skupper 
+## Creating a skupper site
 
 1. Create the `west` namespace:
 
@@ -116,8 +116,8 @@ This procedure describes how to create a backend service on your local machine t
    Skupper enabled for namespace 'west'. It is not connected to any other sites.
    ```
 
-[id="frontend"] 
-== Creating the frontend service
+sid:: frontend 
+## Creating the frontend service
 
 The frontend service is a simple Python application that displays a message from the backend application.
 
@@ -159,8 +159,8 @@ Perform all tasks in the west terminal session:
 
       To resolve this situation, you must make the backend service available on the {service-network} using a gateway.
 
-[id="gateway"] 
-== Creating and using a Skupper gateway
+sid:: gateway 
+## Creating and using a Skupper gateway
 
 This procedure describes how to create a gateway and make a backend service available on the {service-network}.
 
@@ -198,8 +198,8 @@ This procedure describes how to create a gateway and make a backend service avai
 
    ```
 
-[id="check"] 
-== Checking service access from the frontend
+sid:: check 
+## Checking service access from the frontend
 
 1. Get the URL details:
 
@@ -225,8 +225,8 @@ This shows how the frontend calls the backend over the {service-network} from an
 * {SkupperConsoleBookLink}
 * {SkupperCliBookLink}
 
-[id="tearing-down"] 
-== Tearing down the {service-network}
+sid:: tearing-down 
+## Tearing down the {service-network}
 
 This procedure describes how to remove the {service-network} you created.
 

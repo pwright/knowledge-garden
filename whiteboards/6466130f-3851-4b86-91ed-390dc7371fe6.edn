@@ -1,0 +1,130 @@
+{:blocks (
+{:block/created-at 1684414576809
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "cli/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [730.7208551282879 1689.459629186604]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6b275f60-f573-11ed-b689-212278edef7a"
+:noFill false
+:point [-689.7197455994497 672.4733427609507]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684411159128}}
+:block/updated-at 1684414576809} 
+{:block/created-at 1684414574888
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "cli/pages/protocols"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [464.97921650717694 694.046638592579]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2e4eeba0-f57b-11ed-b689-212278edef7a"
+:noFill false
+:isLocked false
+:point [-1328.8809336362267 827.70528665086]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684414492793}}
+:block/updated-at 1684414574888} 
+{:block/created-at 1684414738337
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "cli/pages/installing"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 500.4844970703125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65be3460-f57b-11ed-b689-212278edef7a"
+:noFill false
+:point [271.593345918071 333.88147931323886]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684414585824}}
+:block/updated-at 1684414738337} 
+{:block/created-at 1684414748864
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "cli/pages/native-security-options"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 846.0097334742441]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9c211630-f57b-11ed-b689-212278edef7a"
+:noFill false
+:isLocked false
+:point [305.1530749777178 1104.9167405771511]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684414677261}}
+:block/updated-at 1684414748864})
+:pages (
+{:block/created-at 1684411151282
+:block/name "6466130f-3851-4b86-91ed-390dc7371fe6"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6466130f-3851-4b86-91ed-390dc7371fe6"
+:name "6466130f-3851-4b86-91ed-390dc7371fe6"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("6b275f60-f573-11ed-b689-212278edef7a" "2e4eeba0-f57b-11ed-b689-212278edef7a" "65be3460-f57b-11ed-b689-212278edef7a" "9c211630-f57b-11ed-b689-212278edef7a")}}
+:block/type "whiteboard"
+:block/updated-at 1684414748863
+:block/uuid #uuid "6466130f-3851-4b86-91ed-390dc7371fe6"})}

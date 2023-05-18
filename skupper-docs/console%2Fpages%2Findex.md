@@ -1,12 +1,12 @@
-endif::mod-loc[]
-[id="skupper-console"] 
-= Using the Skupper console
+
+sid:: skupper-console 
+# Using the Skupper console
 
 By default, when you create a {skupper-name} site, you also enable the Skupper console.
 The Skupper console URL is displayed whenever you check site status using `skupper status`.
 
-[id="accessing-console"] 
-== Accessing the Skupper console
+sid:: accessing-console 
+## Accessing the Skupper console
 
 By default, the Skupper console is available whenever you create a {service-network} router and is protected by credentials available in the `skupper-console-users` secret.
 
@@ -31,8 +31,8 @@ To retrieve the password the `admin` user:
    JNZWzMHtyg
    ```
 
-[id="linking-sites-using-skupper-console"] 
-== Linking sites using the Skupper console
+sid:: linking-sites-using-skupper-console 
+## Linking sites using the Skupper console
 
 The Skupper console allows you create and use claim type tokens as described in {SkupperCliBookLink}.
 
@@ -51,8 +51,8 @@ Your browser may prompt you to allow using the clipboard. You must accept that p
 7. Click **Use a token** to accept the token from the first site.
 8. Verify that the sites are linked by Checking that both sites are listed in the **Network details** section of the **Site** page.
 
-[id="exploring-console"] 
-== Exploring the Skupper console
+sid:: exploring-console 
+## Exploring the Skupper console
 
 The Skupper console provides an overview of the following:
 

@@ -1,13 +1,13 @@
-[id="skupper-overview"] 
-= Skupper overview
+sid:: skupper-overview 
+# Skupper overview
 
 Hybrid clouds enable organizations to combine on-premises, private cloud, and public cloud resources.
 While such a solution provides many benefits, it also presents a unique challenge: enabling these resources to communicate with each other.
 
 Skupper provides a solution to this challenge with a Virtual Application Network that simply and securely connects applications running in different network locations.
 
-[id="virtual-application-networks"] 
-== Virtual Application Networks
+sid:: virtual-application-networks 
+## Virtual Application Networks
 
 Skupper solves multi-cluster communication challenges through something called a Virtual Application Network (VAN).
 To understand the value of Skupper, it is helpful to first understand what a VAN is.
@@ -24,8 +24,8 @@ In essence, the VAN connects the services in a distributed application with a mi
 VANs are able to provide connectivity across the hybrid cloud because they operate at Layer 7 (the application layer).
 They use **Layer 7 application routers** to route communication between **Layer 7 application addresses**.
 
-[id="layer-7-application-routers"] 
-== Layer 7 application routers
+sid:: layer-7-application-routers 
+## Layer 7 application routers
 
 Layer 7 application routers form the backbone of a VAN in the same way that conventional network routers form the backbone of a VPN.
 However, instead of routing IP packets between network endpoints, Layer 7 application routers route messages between application endpoints (called Layer 7 application addresses).
@@ -42,8 +42,8 @@ For example, in this diagram, **Service B** sends a message with an application 
 
 VANs provide multiple routing patterns, so communications can be distributed in anycast (balanced or closest) or multicast patterns.
 
-[id="skupper"] 
-== Skupper
+sid:: skupper 
+## Skupper
 
 Skupper is an open source tool for creating VANs in Kubernetes.
 By using Skupper, you can create a distributed application consisting of microservices running in different Kubernetes clusters.

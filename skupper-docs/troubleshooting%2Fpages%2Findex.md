@@ -1,5 +1,5 @@
-[id="troubleshooting"] 
-= Troubleshooting a {service-network}
+sid:: troubleshooting 
+# Troubleshooting a {service-network}
 
 Typically, you can create a {service-network} without referencing this troubleshooting guide.
 However, this guide provides some tips for situations when the {service-network} does not perform as expected.
@@ -8,8 +8,8 @@ See [Resolving common problems](#resolving-common-problems) if you have encounte
 
 A typical troubleshooting workflow is to check all the sites and create debug tar files.
 
-[id="checking-sites"] 
-== Checking sites
+sid:: checking-sites 
+## Checking sites
 
 Using the `skupper` command-line interface (CLI) provides a simple method to get started with troubleshooting {skupper-name}.
 

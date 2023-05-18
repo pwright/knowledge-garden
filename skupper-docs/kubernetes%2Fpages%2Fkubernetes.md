@@ -1,7 +1,7 @@
-endif::mod-loc[]
+
 :sectnums:
-[id="k8s-tutorial"] 
-= Creating a {service-network} with Kubernetes
+sid:: k8s-tutorial 
+# Creating a {service-network} with Kubernetes
 
 This tutorial demonstrates how to connect a frontend service on a {kubernetes-flavor} cluster with a backend service on a {kubernetes-flavor} cluster using the `skupper` command-line interface (CLI).
 
@@ -16,8 +16,8 @@ This tutorial shows how to connect the following namespaces:
 * `west` - runs the frontend service and is typically a public cluster.
 * `east` - runs the backend service.
 
-[id="configuring-consoles"] 
-== Configuring terminal sessions
+sid:: configuring-consoles 
+## Configuring terminal sessions
 
 This procedure describes how to configure your terminal sessions to use configurations to avoid problems as you configure {skupper-name} on different clusters.
 
@@ -52,8 +52,8 @@ The following table shows how you might set up your terminal sessions.
    This session is referred to later as the _east_ terminal session.
 3. In each terminal session, log into the {kubernetes-flavor} cluster.
 
-[id="installing-skupper"] 
-== Installing the {service-network} router in both clusters
+sid:: installing-skupper 
+## Installing the {service-network} router in both clusters
 
 1. In the west terminal session:
    1. Create the `west` namespace:
@@ -98,8 +98,8 @@ The following table shows how you might set up your terminal sessions.
       Skupper enabled for namespace 'east'. It is not connected to any other sites.
       ```
 
-[id="connecting-namespaces"] 
-== Connecting namespaces to create a {service-network}
+sid:: connecting-namespaces 
+## Connecting namespaces to create a {service-network}
 
 With the {service-network} routers installed, you can connect them together securely and allow service sharing across the {service-network}.
 
@@ -127,8 +127,8 @@ With the {service-network} routers installed, you can connect them together secu
    The credentials for internal console-auth mode are held in secret: 'skupper-console-users'
    ```
 
-[id="frontend"] 
-== Creating the frontend service
+sid:: frontend 
+## Creating the frontend service
 
 The frontend service is a simple Python application that displays a message from the backend application.
 
@@ -166,8 +166,8 @@ Perform all tasks in the west terminal session:
 
       To resolve this situation, you must create the backend service and make it available on the {service-network}.
 
-[id="backend"] 
-== Creating the backend service and making it available on the {service-network}
+sid:: backend 
+## Creating the backend service and making it available on the {service-network}
 
 The backend service runs in the `east` namespace and is not available on the {service-network} by default.
 You use the `skupper` command to expose the service to all namespaces on the {service-network}.
@@ -219,8 +219,8 @@ This shows how the frontend calls the backend service over the {service-network}
 * {SkupperConsoleBookLink}
 * {SkupperCliBookLink}
 
-[id="tearing-down"] 
-== Tearing down the {service-network}
+sid:: tearing-down 
+## Tearing down the {service-network}
 
 This procedure describes how to remove the {service-network} you created.
 

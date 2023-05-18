@@ -1,10 +1,10 @@
-[id="skupper-annotations"] 
-= Configuring services using annotations
+sid:: skupper-annotations 
+# Configuring services using annotations
 
 After creating and linking sites, you can use Kubernetes annotations to control which services are available on the {service-network}.
 
-[id="exposing-services-annotations"] 
-== Exposing simple services on a {service-network} using annotations
+sid:: exposing-services-annotations 
+## Exposing simple services on a {service-network} using annotations
 
 This section provides an alternative to the `skupper expose` command, allowing you to annotate existing resources to expose simple services on the {service-network}.
 
@@ -54,8 +54,8 @@ This section provides an alternative to the `skupper expose` command, allowing y
    **📌 NOTE**\
    The related targets for services are only displayed when the target is available on the current cluster.
 
-[id="understanding-annotations"] 
-== Understanding Skupper annotations
+sid:: understanding-annotations 
+## Understanding Skupper annotations
 
 Annotations allow you to expose services on the {service-network}.
 This section provides details on the scope of those annotations

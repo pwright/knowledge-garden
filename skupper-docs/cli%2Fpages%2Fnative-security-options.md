@@ -1,14 +1,14 @@
-endif::mod-loc[]
-[id="built-in-security-options"] 
-= Securing a {service-network}
+
+sid:: built-in-security-options 
+# Securing a {service-network}
 
 {skupper-name} provides default, built-in security that scales across clusters and clouds.
 This section describes additional security you can configure.
 
 See {SkupperPolicyBookLink} for information about creating granular policies for each cluster.
 
-[id="network-policy"] 
-== Restricting access to services using network-policy
+sid:: network-policy 
+## Restricting access to services using network-policy
 
 By default, if you expose a service on the {service-network}, that service is also accessible from other namespaces in the cluster.
 You can avoid this situation when creating a site using the `--create-network-policy` option.
@@ -30,8 +30,8 @@ You can avoid this situation when creating a site using the `--create-network-po
 
 You can now expose services on the {service-network} and those services are not accessible from other namespaces in the cluster.
 
-[id="tls"] 
-== Applying TLS to TCP or HTTP2 traffic on the {service-network}
+sid:: tls 
+## Applying TLS to TCP or HTTP2 traffic on the {service-network}
 
 By default, the traffic between sites is encrypted, however the traffic between the service pod and the router pod is not encrypted.
 For services exposed as TCP or HTTP2, the traffic between the pod and the router pod can be encrypted using TLS.

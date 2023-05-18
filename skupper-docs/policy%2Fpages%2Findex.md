@@ -1,6 +1,6 @@
-endif::mod-loc[]
-[id="skupper-policy"] 
-= Securing a {service-network} using policies
+
+sid:: skupper-policy 
+# Securing a {service-network} using policies
 
 By default, {skupper-name} includes many security features, including using mutual TLS for all {service-network} communication between sites.
 By default, applying the {policy-system} to a cluster prevents all {service-network} communication to and from that cluster.
@@ -22,8 +22,8 @@ A token is required to establish a link between two sites.
 * **{service-network}**\
 After exposing services using {skupper-name}, you have created a {service-network}.
 
-[id="about-skupper-policies"] 
-== About the {policy-system}
+sid:: about-skupper-policies 
+## About the {policy-system}
 
 After a cluster administrator installs the {policy-system} using a Custom Resource Definition (CRD), the cluster administrator needs to configure one or more policies to allow _developers_ create and use services on the {service-network}.
 
@@ -97,8 +97,8 @@ A double backslash is required to avoid issues in YAML.
 If you create another CR that allows outgoing links for a specific namespace, a user can create a link from that namespace to join a {service-network}. That is, the logic for multiple policy CRs is `OR`.
 An operation is permitted if any single policy CR permits the operation.
 
-[id="installing-crd"] 
-== Installing the {policy-system} CRD
+sid:: installing-crd 
+## Installing the {policy-system} CRD
 
 Installing the {policy-system} CRD enables a cluster administrator to enforce policies for {service-network}s.
 

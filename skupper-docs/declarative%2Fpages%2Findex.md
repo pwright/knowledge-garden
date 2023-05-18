@@ -1,10 +1,10 @@
-[id="skupper-declarative"] 
-= Configuring {skupper-name} sites using YAML
+sid:: skupper-declarative 
+# Configuring {skupper-name} sites using YAML
 
 Using YAML files to configure {skupper-name} allows you to use source control to track and manage {skupper-name} network changes.
 
-[id="installing-using-yaml"] 
-== Installing {skupper-name} using YAML
+sid:: installing-using-yaml 
+## Installing {skupper-name} using YAML
 
 Installing {skupper-name} using YAML provides a declarative method to install {skupper-name}.
 You can store your YAML files in source control to track and manage {skupper-name} network changes.
@@ -37,8 +37,8 @@ If you are deploying {skupper-name} to be available for all namespaces, verify y
    skupper-site-controller-84694bdbb5-n8slb   1/1     Running   0          75s
    ```
 
-[id="creating-using-yaml"] 
-== Creating a {skupper-name} site using YAML
+sid:: creating-using-yaml 
+## Creating a {skupper-name} site using YAML
 
 Using YAML files to create {skupper-name} sites allows you to use source control to track and manage {skupper-name} network changes.
 
@@ -72,8 +72,8 @@ Using YAML files to create {skupper-name} sites allows you to use source control
 
 See the [site-config-reference](#site-config-reference) section for more reference.
 
-[id="linking-sites-using-yaml"] 
-== Linking sites using YAML
+sid:: linking-sites-using-yaml 
+## Linking sites using YAML
 
 While it is not possible to declaratively link sites, you can create a token using YAML.
 
@@ -114,7 +114,7 @@ This site must have `ingress` enabled.
    $ skupper link status --wait 60
    ```
 
-[id="site-config-reference"] 
+sid:: site-config-reference 
 ## Site ConfigMap YAML reference
 
 Using YAML files to configure {skupper-name} requires that you understand all the fields so that you provision the site you require.
@@ -153,7 +153,7 @@ NOTE: You must enable `console` and `flow-collector` for the console to function
 10. Specifies whether the service controller runs, defaults to `true`.
 11. Specifies whether the services are synchronized across the {service-network}, defaults to `true`.
 
-[id="watch-current-reference"] 
+sid:: watch-current-reference 
 ## YAML for watching current namespace
 
 The following example deploys {skupper-name} to watch the current namespace.
@@ -161,7 +161,7 @@ The following example deploys {skupper-name} to watch the current namespace.
 ```
 ```
 
-[id="watch-all-reference"] 
+sid:: watch-all-reference 
 ## YAML for watching all namespaces
 
 The following example deploys {skupper-name} to watch all namespaces.
