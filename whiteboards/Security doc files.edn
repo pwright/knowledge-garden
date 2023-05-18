@@ -1,0 +1,102 @@
+{:blocks (
+{:block/created-at 1684417438437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "kubernetes/pages/service-certs"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 761.4839041095888]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "37cbe8d0-f581-11ed-b689-212278edef7a"
+:noFill false
+:point [1084.9386301969555 1308.184477763331]
+:parentId "64662a2e-a89b-4c20-b4db-c3bd406b0c4e"
+:collapsedHeight 0
+:nonce 1684417085634}}
+:block/updated-at 1684417438437} 
+{:block/created-at 1684417443420
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "policy/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 944.929528182322]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7569fce0-f581-11ed-b689-212278edef7a"
+:noFill false
+:point [-399.87332399132083 1374.8953057294266]
+:parentId "64662a2e-a89b-4c20-b4db-c3bd406b0c4e"
+:collapsedHeight 0
+:nonce 1684417188933}}
+:block/updated-at 1684417443420} 
+{:block/created-at 1684417444852
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "kubernetes/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 780.294945480973]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ee940de0-f581-11ed-b689-212278edef7a"
+:noFill false
+:point [292.4450359993392 1356.8395832351423]
+:parentId "64662a2e-a89b-4c20-b4db-c3bd406b0c4e"
+:collapsedHeight 0
+:nonce 1684417392329}}
+:block/updated-at 1684417444852})
+:pages (
+{:block/uuid #uuid "64662a2e-a89b-4c20-b4db-c3bd406b0c4e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64662a2e-a89b-4c20-b4db-c3bd406b0c4e"
+:name "security doc files"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("37cbe8d0-f581-11ed-b689-212278edef7a" "7569fce0-f581-11ed-b689-212278edef7a" "ee940de0-f581-11ed-b689-212278edef7a")}}
+:block/updated-at 1684417444852
+:block/created-at 1684417070124
+:block/type "whiteboard"
+:block/name "security doc files"
+:block/original-name "Security doc files"})}

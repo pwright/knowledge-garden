@@ -111,20 +111,105 @@
 :parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
 :collapsedHeight 0
 :nonce 1684414677261}}
-:block/updated-at 1684414748864})
+:block/updated-at 1684414748864} 
+{:block/created-at 1684417517196
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "troubleshooting/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [470 904.1875000000005]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "20533ff0-f57c-11ed-b689-212278edef7a"
+:noFill false
+:point [1331.1414422609455 205.80700473958245]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684414898843}}
+:block/updated-at 1684417517196} 
+{:block/created-at 1684417511204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "policy/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [429.7620172904235 1191.9864626303083]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7fffbe10-f57c-11ed-b689-212278edef7a"
+:noFill false
+:point [-1938.9616519464564 78.94694836763006]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684415059317}}
+:block/updated-at 1684417511204} 
+{:block/created-at 1684417513861
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "console/pages/flow-console"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 745.3349482575513]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae9cd980-f57f-11ed-b689-212278edef7a"
+:noFill false
+:point [859.92068797609 298.9682990175206]
+:parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
+:collapsedHeight 0
+:nonce 1684416425897}}
+:block/updated-at 1684417513861})
 :pages (
-{:block/created-at 1684411151282
-:block/name "6466130f-3851-4b86-91ed-390dc7371fe6"
+{:block/uuid #uuid "6466130f-3851-4b86-91ed-390dc7371fe6"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "6466130f-3851-4b86-91ed-390dc7371fe6"
-:name "6466130f-3851-4b86-91ed-390dc7371fe6"
+:name "cli doc files"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("6b275f60-f573-11ed-b689-212278edef7a" "2e4eeba0-f57b-11ed-b689-212278edef7a" "65be3460-f57b-11ed-b689-212278edef7a" "9c211630-f57b-11ed-b689-212278edef7a")}}
+:shapes-index ("6b275f60-f573-11ed-b689-212278edef7a" "2e4eeba0-f57b-11ed-b689-212278edef7a" "65be3460-f57b-11ed-b689-212278edef7a" "9c211630-f57b-11ed-b689-212278edef7a" "20533ff0-f57c-11ed-b689-212278edef7a" "7fffbe10-f57c-11ed-b689-212278edef7a" "ae9cd980-f57f-11ed-b689-212278edef7a")}}
+:block/updated-at 1684417517196
+:block/created-at 1684411151282
 :block/type "whiteboard"
-:block/updated-at 1684414748863
-:block/uuid #uuid "6466130f-3851-4b86-91ed-390dc7371fe6"})}
+:block/name "cli doc files"
+:block/original-name "CLI doc files"})}

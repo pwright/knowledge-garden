@@ -1,0 +1,101 @@
+{:blocks (
+{:block/created-at 1684417018865
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "declarative/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 1013.7144691780823]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8d5b8e00-f580-11ed-b689-212278edef7a"
+:noFill false
+:point [-382.90351897324945 2037.2369058614408]
+:parentId "64662911-8142-4785-bad0-312e7524fe25"
+:collapsedHeight 0
+:nonce 1684416799688}}
+:block/updated-at 1684417018865} 
+{:block/created-at 1684417022356
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "declarative/pages/annotations"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 675.2530358650774]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9bd59c00-f580-11ed-b689-212278edef7a"
+:noFill false
+:point [359.35998265714215 1565.1871364088847]
+:parentId "64662911-8142-4785-bad0-312e7524fe25"
+:collapsedHeight 0
+:nonce 1684416823918}}
+:block/updated-at 1684417022356} 
+{:block/created-at 1684417025209
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "operator/pages/index"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 742.2499999999999]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fd57c480-f580-11ed-b689-212278edef7a"
+:noFill false
+:point [-1166.7051006120334 2431.791994193591]
+:parentId "64662911-8142-4785-bad0-312e7524fe25"
+:collapsedHeight 0
+:nonce 1684416987604}}
+:block/updated-at 1684417025209})
+:pages (
+{:block/uuid #uuid "64662911-8142-4785-bad0-312e7524fe25"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64662911-8142-4785-bad0-312e7524fe25"
+:name "declarative doc files"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("8d5b8e00-f580-11ed-b689-212278edef7a" "9bd59c00-f580-11ed-b689-212278edef7a" "fd57c480-f580-11ed-b689-212278edef7a")}}
+:block/updated-at 1684417025208
+:block/created-at 1684416785575
+:block/type "whiteboard"
+:block/name "declarative doc files"
+:block/original-name "Declarative doc files"})}
