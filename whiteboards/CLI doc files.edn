@@ -140,7 +140,7 @@
 :collapsedHeight 0
 :nonce 1684414898843}}
 :block/updated-at 1684417517196} 
-{:block/created-at 1684417511204
+{:block/created-at 1684419233123
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -163,11 +163,11 @@
 :opacity 1
 :id "7fffbe10-f57c-11ed-b689-212278edef7a"
 :noFill false
-:point [-1938.9616519464564 78.94694836763006]
+:point [-1761.8454833178503 69.50075270743775]
 :parentId "6466130f-3851-4b86-91ed-390dc7371fe6"
 :collapsedHeight 0
-:nonce 1684415059317}}
-:block/updated-at 1684417511204} 
+:nonce 1684415059355}}
+:block/updated-at 1684419233123} 
 {:block/created-at 1684417513861
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -208,7 +208,7 @@
 :nonce 1
 :assets []
 :shapes-index ("6b275f60-f573-11ed-b689-212278edef7a" "2e4eeba0-f57b-11ed-b689-212278edef7a" "65be3460-f57b-11ed-b689-212278edef7a" "9c211630-f57b-11ed-b689-212278edef7a" "20533ff0-f57c-11ed-b689-212278edef7a" "7fffbe10-f57c-11ed-b689-212278edef7a" "ae9cd980-f57f-11ed-b689-212278edef7a")}}
-:block/updated-at 1684417517196
+:block/updated-at 1684419233122
 :block/created-at 1684411151282
 :block/type "whiteboard"
 :block/name "cli doc files"
