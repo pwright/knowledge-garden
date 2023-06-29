@@ -1,0 +1,4 @@
+- Platform: Kubernetes or Podman
+- Ingress to determine [[Link]] direction
+- Number or routers to help [[HA]]
+- CPU resources to

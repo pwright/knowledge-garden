@@ -1,3 +1,4 @@
+- To create a link, one site must have Ingress enabled
 - Typically, you link sites by:
 	- `skupper token create` on a skupper site that has ingress (ie is accessible from other sites)
 	- `skupper link create` using that token from the 'other' site

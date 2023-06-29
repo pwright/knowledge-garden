@@ -1,0 +1,2 @@
+- A service is defined by a routing key and port, for example http-server:8080
+- If service-sync is enabled (default), all exposed services are available on all sites
