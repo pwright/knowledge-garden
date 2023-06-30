@@ -11,7 +11,7 @@ title:: skupper/init
 	- core options
 		- SiteConfigNameKey                string = [[name]]
 		- SiteConfigRouterModeKey          string = [[router-mode]]
-		- SiteConfigIngressKey             string = [[ingress]]
+		- SiteConfigIngressKey             string = [[Ingress]]
 		- SiteConfigIngressAnnotationsKey  string = [[site.ingress-annotations]]
 		- SiteConfigIngressHostKey         string = [[ingress-host]]
 		- SiteConfigCreateNetworkPolicyKey string = [[create-network-policy]]
