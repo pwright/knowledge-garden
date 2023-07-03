@@ -54,7 +54,7 @@ Using YAML files to create {skupper-name} sites allows you to use source control
      console: "true"
      flow-collector: "true"
      console-authentication: internal
-     console-password: "rubble"
+     console-password: "password"
      console-user: "barney"
      name: my-site
      router-console: "true"
