@@ -7,7 +7,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Git is only available in web app
  ;; Git settings
@@ -126,7 +126,8 @@
  :feature/enable-journals? true
  :default-home {:page "journals"}
  :ui/show-brackets? true
- :journal/page-title-format "MMM do, yyyy"
+ :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["logseq whiteboard with tldraw/save as logseq page" "Logseq whiteboard with tldraw" "思源字体" "Learning Clojure" "nextjs mdx rendering" "Logseq Publish GitHub Action" "jsplay"]
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? true
+ :feature/enable-timetracking? false}
