@@ -5,7 +5,7 @@ import sys
 from pathlib import Path
 
 logseqDir = os.getcwd()
-dirName='/skupper-generate/podman/'
+dirName='/skupper-generate/$1/'
 
 #print(get_current_dir())
 for path in Path(logseqDir + dirName).iterdir():
@@ -16,3 +16,5 @@ for path in Path(logseqDir + dirName).iterdir():
     
         result = os.system(cmd)
         print(result)
+
+
