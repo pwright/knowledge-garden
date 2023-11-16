@@ -1,4 +1,5 @@
 {
   "editor.wordWrapColumn": 120,
-  "ansible.python.interpreterPath": "/bin/python"
+  "ansible.python.interpreterPath": "/bin/python",
+  "asciidoc.antora.enableAntoraSupport": false
 }
