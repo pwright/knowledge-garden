@@ -1,5 +1,4 @@
-## skupper gateway export-config
-
+## skupper gateway export-config (kubernetes)
 Export the configuration for a gateway definition
 
 ### Synopsis

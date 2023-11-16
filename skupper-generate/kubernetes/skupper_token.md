@@ -1,5 +1,4 @@
-## skupper token
-
+## skupper token (kubernetes)
 Manage skupper tokens
 
 ### Synopsis

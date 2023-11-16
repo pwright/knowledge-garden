@@ -1,5 +1,4 @@
-## skupper service delete
-
+## skupper service delete (kubernetes)
 Delete a skupper service
 
 ### Synopsis

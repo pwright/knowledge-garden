@@ -1,5 +1,4 @@
-## skupper service create
-
+## skupper service create (kubernetes)
 Create a skupper service
 
 ### Synopsis

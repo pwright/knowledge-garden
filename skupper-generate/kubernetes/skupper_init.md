@@ -1,5 +1,4 @@
-## skupper init
-
+## skupper init (kubernetes)
 Initialise skupper installation
 
 ### Synopsis

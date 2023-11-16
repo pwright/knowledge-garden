@@ -1,5 +1,4 @@
-## skupper completion
-
+## skupper completion (kubernetes)
 Output shell completion code for bash
 
 ### Synopsis

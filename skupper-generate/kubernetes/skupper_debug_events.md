@@ -1,5 +1,4 @@
-## skupper debug events
-
+## skupper debug events (kubernetes)
 Show events
 
 ### Synopsis

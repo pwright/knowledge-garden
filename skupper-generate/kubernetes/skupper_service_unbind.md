@@ -1,5 +1,4 @@
-## skupper service unbind
-
+## skupper service unbind (kubernetes)
 Unbind a target from a service
 
 ### Synopsis

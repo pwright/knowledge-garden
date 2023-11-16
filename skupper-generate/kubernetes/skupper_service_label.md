@@ -1,5 +1,4 @@
-## skupper service label
-
+## skupper service label (kubernetes)
 Manage service labels
 
 ### Synopsis

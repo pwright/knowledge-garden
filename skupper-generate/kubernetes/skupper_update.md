@@ -1,5 +1,4 @@
-## skupper update
-
+## skupper update (kubernetes)
 Update skupper installation version
 
 ### Synopsis

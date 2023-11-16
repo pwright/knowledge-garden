@@ -1,5 +1,4 @@
-## skupper link delete
-
+## skupper link delete (podman)
 Remove specified link
 
 ### Synopsis

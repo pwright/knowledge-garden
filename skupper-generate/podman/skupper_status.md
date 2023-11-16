@@ -1,5 +1,4 @@
-## skupper status
-
+## skupper status (podman)
 Report the status of the current Skupper site
 
 ### Synopsis

@@ -1,5 +1,4 @@
-## skupper gateway unforward
-
+## skupper gateway unforward (kubernetes)
 Stop forwarding an address to the service network
 
 ### Synopsis

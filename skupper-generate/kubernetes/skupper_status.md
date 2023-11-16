@@ -1,5 +1,4 @@
-## skupper status
-
+## skupper status (kubernetes)
 Report the status of the current Skupper site
 
 ### Synopsis

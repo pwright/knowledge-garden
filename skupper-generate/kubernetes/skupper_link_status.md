@@ -1,5 +1,4 @@
-## skupper link status
-
+## skupper link status (kubernetes)
 Check whether a link to another Skupper site is connected
 
 ### Synopsis

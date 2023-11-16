@@ -1,5 +1,4 @@
-## skupper link delete
-
+## skupper link delete (kubernetes)
 Remove specified link
 
 ### Synopsis

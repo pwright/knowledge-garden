@@ -1,5 +1,4 @@
-## skupper init
-
+## skupper init (podman)
 Initialise skupper installation
 
 ### Synopsis

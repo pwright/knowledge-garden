@@ -1,5 +1,4 @@
-## skupper delete
-
+## skupper delete (kubernetes)
 Delete skupper installation
 
 ### Synopsis

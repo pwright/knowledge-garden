@@ -1,5 +1,4 @@
-## skupper debug
-
+## skupper debug (kubernetes)
 Debug skupper installation
 
 ### Synopsis

@@ -1,5 +1,4 @@
-## skupper gateway bind
-
+## skupper gateway bind (kubernetes)
 Bind a process to the service network
 
 ### Synopsis

@@ -1,5 +1,4 @@
-## skupper gateway unbind
-
+## skupper gateway unbind (kubernetes)
 Unbind a process from the service network
 
 ### Synopsis

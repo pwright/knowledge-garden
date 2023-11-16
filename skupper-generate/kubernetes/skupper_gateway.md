@@ -1,5 +1,4 @@
-## skupper gateway
-
+## skupper gateway (kubernetes)
 Manage skupper gateway definitions
 
 ### Synopsis

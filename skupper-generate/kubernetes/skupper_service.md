@@ -1,5 +1,4 @@
-## skupper service
-
+## skupper service (kubernetes)
 Manage skupper service definitions
 
 ### Synopsis

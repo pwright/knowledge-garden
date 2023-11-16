@@ -1,5 +1,4 @@
-## skupper service bind
-
+## skupper service bind (kubernetes)
 Bind a target to a service
 
 ### Synopsis

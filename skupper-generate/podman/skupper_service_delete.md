@@ -1,5 +1,4 @@
-## skupper service delete
-
+## skupper service delete (podman)
 Delete a skupper service
 
 ### Synopsis

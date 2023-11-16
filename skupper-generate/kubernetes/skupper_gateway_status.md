@@ -1,5 +1,4 @@
-## skupper gateway status
-
+## skupper gateway status (kubernetes)
 Report the status of the gateway(s) for the current skupper site
 
 ### Synopsis

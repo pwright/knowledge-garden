@@ -1,5 +1,4 @@
-## skupper link
-
+## skupper link (kubernetes)
 Manage skupper links definitions
 
 ### Synopsis

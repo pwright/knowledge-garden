@@ -1,5 +1,4 @@
-## skupper revoke-access
-
+## skupper revoke-access (podman)
 Revoke all previously granted access to the site.
 
 ### Synopsis

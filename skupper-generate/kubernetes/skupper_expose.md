@@ -1,5 +1,4 @@
-## skupper expose
-
+## skupper expose (kubernetes)
 Expose a set of pods through a Skupper address
 
 ### Synopsis

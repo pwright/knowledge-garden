@@ -1,5 +1,4 @@
-## skupper version
-
+## skupper version (podman)
 Report the version of the Skupper CLI and services
 
 ### Synopsis

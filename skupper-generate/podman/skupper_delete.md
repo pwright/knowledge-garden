@@ -1,5 +1,4 @@
-## skupper delete
-
+## skupper delete (podman)
 Delete skupper installation
 
 ### Synopsis

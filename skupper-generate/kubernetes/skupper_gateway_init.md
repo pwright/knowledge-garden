@@ -1,5 +1,4 @@
-## skupper gateway init
-
+## skupper gateway init (kubernetes)
 Initialize a gateway to the service network
 
 ### Synopsis

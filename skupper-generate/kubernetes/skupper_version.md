@@ -1,5 +1,4 @@
-## skupper version
-
+## skupper version (kubernetes)
 Report the version of the Skupper CLI and services
 
 ### Synopsis

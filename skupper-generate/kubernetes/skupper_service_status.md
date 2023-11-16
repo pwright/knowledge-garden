@@ -1,5 +1,4 @@
-## skupper service status
-
+## skupper service status (kubernetes)
 List services exposed over the service network
 
 ### Synopsis

@@ -1,5 +1,4 @@
-## skupper gateway forward
-
+## skupper gateway forward (kubernetes)
 Forward an address to the service network
 
 ### Synopsis
